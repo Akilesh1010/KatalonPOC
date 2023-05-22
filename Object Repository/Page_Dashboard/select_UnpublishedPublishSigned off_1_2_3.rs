@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_UnpublishedPublishSigned off_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>3dbc084a-b6b3-46b8-b822-c467926c5605</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.col-12.ng-star-inserted > div.col-5.p-xs.pr-l > select.form-select.ng-valid.ng-star-inserted.ng-dirty.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='publish-settings-overlay']/app-publish-settings/div/div/div[2]/div/div/div[6]/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d18a11b4-d772-4269-aef0-9bc2d4a3868e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>riskQuestionsStatus</value>
+      <webElementGuid>6c2650e6-a7ac-40ee-8d47-9c562f12f6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select ng-valid ng-star-inserted ng-dirty ng-touched</value>
+      <webElementGuid>7baa22e7-05f5-4f5b-9a68-9b985b859592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>2ea91d02-75ab-4a91-b629-a48bf8a7779c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UnpublishedPublishSigned off</value>
+      <webElementGuid>44544dba-f0c4-4040-8553-508c2079b774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;publish-settings-overlay&quot;)/app-publish-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;container pt-xl pb-xl mb-xxl&quot;]/div[@class=&quot;flex-grid flex-grid--2&quot;]/div[@class=&quot;flex-grid__cell ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row alternate-table-rows&quot;]/div[@class=&quot;row col-12 ng-star-inserted&quot;]/div[@class=&quot;col-5 p-xs pr-l&quot;]/select[@class=&quot;form-select ng-valid ng-star-inserted ng-dirty ng-touched&quot;]</value>
+      <webElementGuid>daa4c48c-1d9f-4d1c-a31c-bcb6b2aa3b56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='publish-settings-overlay']/app-publish-settings/div/div/div[2]/div/div/div[6]/div[2]/select</value>
+      <webElementGuid>2a41b06f-7450-481d-9a2f-9fc8e525d009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk questions'])[1]/following::select[1]</value>
+      <webElementGuid>a7b72508-a2d9-4e48-9423-51f2006c4bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial details'])[2]/following::select[2]</value>
+      <webElementGuid>b27eccd3-7f8b-46f5-a45a-e732813c1fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Five Point Health Check'])[2]/preceding::select[1]</value>
+      <webElementGuid>3a2e5b90-61bb-4670-a242-20f17fbcc589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declarations'])[1]/preceding::select[2]</value>
+      <webElementGuid>ff0221f2-836b-4cae-93e2-cc5fef954c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/select</value>
+      <webElementGuid>0bb44707-6df3-4233-94b2-83cec0f1db20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'UnpublishedPublishSigned off' or . = 'UnpublishedPublishSigned off')]</value>
+      <webElementGuid>75f94ed5-689d-4a16-b3c3-632b47c10f2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

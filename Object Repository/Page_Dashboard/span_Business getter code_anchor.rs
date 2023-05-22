@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Business getter code_anchor</name>
+   <tag></tag>
+   <elementGuidId>0e20bf78-6b29-4f30-a0e7-c2785a63bbb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.anchor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//combo-box/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ad9eca7-3971-4623-bd0d-0aab218f9960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anchor</value>
+      <webElementGuid>6aa0cd8a-1324-4545-89d9-48ee90670c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[1]/div[1]/app-summary[1]/div[@class=&quot;row p-l bg-white bbrr-xs bblr-xs box-shadow-grey&quot;]/form[@class=&quot;col-6 ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;form-group&quot;]/combo-box[@class=&quot;combo-box ng-untouched ng-invalid ng-dirty&quot;]/span[@class=&quot;anchor&quot;]</value>
+      <webElementGuid>327bf948-e507-4156-981f-212484a0944a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//combo-box/span</value>
+      <webElementGuid>bca07dd9-65c9-42ea-8d25-7f1076251dd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

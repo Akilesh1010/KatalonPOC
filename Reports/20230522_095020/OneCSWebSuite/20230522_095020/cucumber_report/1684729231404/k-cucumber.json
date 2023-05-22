@@ -1,0 +1,42 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "BDD_TESTRUN_UUID": "87cacb8a-6c4e-4674-ad76-f537aafd9bce",
+        "line": 4,
+        "name": "2.01 - verify the details displayed on the Sign In Welcome Screen",
+        "description": "",
+        "id": "sign-in/login;2.01---verify-the-details-displayed-on-the-sign-in-welcome-screen",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4763805700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user launch OneCS Portal Dasboard page",
+            "match": {
+              "location": "OneCSWebStepDefs.user_launch_OneCS_Portal_Dasboard_page()"
+            },
+            "keyword": "Given ",
+            "BDD_STEP_UUID": "86faacac-6bfc-4d63-b636-443cb7220a62"
+          }
+        ],
+        "tags": [
+          {
+            "name": "@E2E"
+          }
+        ]
+      }
+    ],
+    "name": "Sign In/Login",
+    "description": "",
+    "id": "sign-in/login",
+    "keyword": "Feature",
+    "uri": "C:/Users/akile/Katalon Studio/OneCS/Include/features/OneCSWebIMS.feature",
+    "tags": []
+  }
+]

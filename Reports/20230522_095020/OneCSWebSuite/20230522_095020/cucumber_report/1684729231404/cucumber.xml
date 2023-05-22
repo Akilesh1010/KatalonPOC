@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="4.933512">
+<testcase classname="Sign In/Login" name="2.01 - verify the details displayed on the Sign In Welcome Screen" time="4.933512">
+<system-out><![CDATA[Given user launch OneCS Portal Dasboard page................................passed
+]]></system-out>
+</testcase>
+</testsuite>

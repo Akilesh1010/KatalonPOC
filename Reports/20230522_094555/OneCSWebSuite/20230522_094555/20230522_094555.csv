@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OneCSWebSuite,Chrome 113.0.0.0,,,2023-05-22 09:46:04,2023-05-22 09:46:10,5.887s,PASSED
+,,,,,,,
+Test Cases/RunFeatureFile,Chrome 113.0.0.0,,,2023-05-22 09:46:04,2023-05-22 09:46:10,5.694s,PASSED
+"runFeatureFile(""Include/features/OneCSWebIMS.feature"")",Chrome 113.0.0.0,,,2023-05-22 09:46:05,2023-05-22 09:46:10,5.390s,PASSED
