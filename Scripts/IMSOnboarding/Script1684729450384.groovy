@@ -359,3 +359,5 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Dashboard/selec
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Save changes'))
 
+WebUI.closeBrowser()
+
