@@ -359,5 +359,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Dashboard/selec
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Save changes'))
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Dashboard/button_Publish settings'),0)
+
 WebUI.closeBrowser()
 
