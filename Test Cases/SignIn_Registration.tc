@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>2.01-To verify the details displayed on the Sign In Welcome Screen
+2.02-To verify the details displayed on the &quot;Sign In Registration&quot; Screens
+2.03 To verify the Username/Password validation  on the &quot;Sign In Registration&quot; Screen
+2.04 To verify the validation for the Progress bar present on the &quot;Registration&quot; and &quot;2FA&quot; Screen
+2.05 Verify the &quot;I need help in entering details&quot; link
+2.06-Verify the sign in step 2 of 4 screen details &amp; validations [2FA Screen]
+2.0 6 a) -Verify the navigation back to 2FA Screen from Sign 1 of 4 screen
+2.07-To verify the Sign In process when Mobile number is linked to account 2FA
+2.09 - To verify the &quot;Sign in step 3 of 4&quot; screen details
+2.10 - To verify the &quot;Sign in step 3 of 4&quot; screen validations
+2.11 - To verify the &quot;Sign in step 4 of 4&quot; screen details
+2.12 - To verify the &quot;Sign in step 4 of 4&quot; screen validations
+2.13 - To verify the Incorrect PIN validations on the  &quot;Sign in step 4 of 4&quot; screen
+2.16-To verify whether the user is able to skip the Fingerprint/Face ID authentication during Registration - Maybe later
+2.22 More - Verify the Sign out process for the PIN, Fingerprint and Face ID logins
+2.24-To verify the &quot;Sign In&quot; Screen for  the new user login using 6 - digit PIN
+2.27 - Verify the screen, when user close and invoke the OneCS application without making the choice between the following two options [Enable biometrics &amp; Maybe later]</description>
+   <name>SignIn_Registration</name>
+   <tag>SignIn</tag>
+   <comment></comment>
+   <testCaseGuid>28d8ea3d-cb07-4f4a-927f-c425536547cd</testCaseGuid>
+</TestCaseEntity>
