@@ -1,22 +1,9 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import org.testng.Assert as Assert
+import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
-import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testcase.TestCase as TestCase
-import com.kms.katalon.core.testdata.TestData as TestData
-import com.kms.katalon.core.testobject.TestObject as TestObject
-import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
 
 Mobile.verifyElementExist(findTestObject('Object Repository/Android Objects/logo'), 0)
 
@@ -34,7 +21,12 @@ Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/andro
 
 Mobile.tap(findTestObject('Object Repository/Android Objects/Create one on our website'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Android Objects/android.widget.Button - Accept All'), 0)
+Bool = Mobile.verifyElementExist(findTestObject('Object Repository/Android Objects/android.widget.Button - Accept All'), 
+    10)
+
+if (Bool == true) {
+    Mobile.tap(findTestObject('Object Repository/Android Objects/android.widget.Button - Accept All'), 0)
+}
 
 continuebutton = Mobile.getText(findTestObject('Object Repository/Android Objects/weburl'), 0)
 
@@ -505,7 +497,6 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Ma
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/Android Objects/PortfolioDash'), 0)
 
-
 Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - More'), 0)
 
 Mobile.scrollToText('Sign out')
@@ -565,9 +556,9 @@ Mobile.tap(findTestObject('Object Repository/Android Objects/MAY_BE_LATER'), 0)
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/Android Objects/PortfolioDash'), 0)
 
-Mobile.closeApplication()
+MobileDriverFactory.getDriver().closeApp()
 
-Mobile.startExistingApplication('com.charlesstanley.android.qa')
+MobileDriverFactory.getDriver().activateApp('com.charlesstanley.android.qa')
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/android.widget.TextView - Please enter your 6-digit PIN'), 
     0)
@@ -576,6 +567,6 @@ Mobile.setText(findTestObject('Object Repository/SignIn/RevokenappPinbox'), '258
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/Android Objects/PortfolioDash'), 0)
 
-Mobile.closeApplication()
+MobileDriverFactory.getDriver().closeApp()
 
-MobileDriverFactory.closeDriver()
+MobileDriverFactory.getDriver().quit()

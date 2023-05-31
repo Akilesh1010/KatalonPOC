@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="OneCSWebSuite" time="178.245" tests="1" failures="0" errors="0">
+   <testsuite name="OneCSWebSuite" tests="1" failures="0" errors="0" time="178.245" skipped="0" timestamp="2023-05-27 12:01:27" hostname="akile - 10.146.4.76" id="Test Suites/OneCSWebSuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\akile\\git\\KatalonMobileWeb\\Reports\\20230527_120119\\OneCSWebSuite\\20230527_120119"/>
+         <property name="logFiles" value="C:\\Users\\akile\\git\\KatalonMobileWeb\\Reports\\20230527_120119\\OneCSWebSuite\\20230527_120119\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="akile - 10.146.4.76"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.0.208"/>
+         <property name="browser" value="Chrome 113.0.0.0"/>
+         <property name="hostAddress" value="10.146.4.76"/>
+         <property name="sessionId" value="9028630edb5922c8d0a07275ce9276f8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Modules/Five Point Regression" time="178.044" classname="Test Cases/Modules/Five Point Regression" status="PASSED">
+         <system-out><![CDATA[2023-05-27 12:01:27 - [TEST_CASE][PASSED] - Test Cases/Modules/Five Point Regression: Test Cases/Modules/Five Point Regression
+
+2023-05-27 12:01:27 - [TEST_STEP][PASSED] - runFeatureFile("Include/features/OneCSIMSFivePoint.feature"): Feature file: 'Include/features/OneCSIMSFivePoint.feature' was passed
+
+2023-05-27 12:01:27 - [MESSAGE][INFO] - Starting run keyword runFeatureFile: 'Include/features/OneCSIMSFivePoint.feature' and extract report to folder: 'C:\Users\akile\git\KatalonMobileWeb\Reports\20230527_120119\OneCSWebSuite\20230527_120119/cucumber_report/1685169087763'...
+
+2023-05-27 12:01:28 - [TEST_CASE][PASSED] - Start Test Case : SCENARIO E2E for Five Point: SCENARIO E2E for Five Point
+
+2023-05-27 12:01:28 - [TEST_STEP][PASSED] - user launch OneCS Portal Dasboard page: user launch OneCS Portal Dasboard page
+
+2023-05-27 12:01:28 - [TEST_CASE][PASSED] - Test Cases/Initiating IMS Portal: Test Cases/Initiating IMS Portal
+
+2023-05-27 12:01:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-05-27 12:01:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-05-27 12:01:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-05-27 12:01:30 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+2023-05-27 12:01:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-05-27 12:01:30 - [TEST_STEP][PASSED] - navigateToUrl("http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/"): Navigate to 'http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/' successfully
+
+2023-05-27 12:01:33 - [MESSAGE][PASSED] - Navigate to 'http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/' successfully
+
+2023-05-27 12:01:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-05-27 12:01:33 - [MESSAGE][PASSED] - Current window maximized
+
+2023-05-27 12:01:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Initiating IMS Portal' successfully
+
+2023-05-27 12:01:33 - [MESSAGE][PASSED] - user launch OneCS Portal Dasboard page
+
+2023-05-27 12:01:33 - [TEST_STEP][PASSED] - user validates Five Point Health Fields: user validates Five Point Health Fields
+
+2023-05-27 12:01:33 - [TEST_CASE][PASSED] - Test Cases/FivePointE2E: Test Cases/FivePointE2E
+
+2023-05-27 12:01:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Create new")): Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Create new' is clicked on
+
+2023-05-27 12:01:40 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Create new' is clicked on
+
+2023-05-27 12:01:40 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547"), "2", true): All options with value '2' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547'  using regular expression
+
+2023-05-27 12:01:42 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547'  using regular expression
+
+2023-05-27 12:01:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Dashboard/button_Create new")): Object: 'Object Repository/Page_Dashboard/button_Create new' is clicked on
+
+2023-05-27 12:01:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Dashboard/button_Create new' is clicked on
+
+2023-05-27 12:01:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Business getter code_anchor")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Business getter code_anchor' is clicked on
+
+2023-05-27 12:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Business getter code_anchor' is clicked on
+
+2023-05-27 12:01:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/li_MRL - Aaron Murphy")): Object: 'Object Repository/IMS Objects/Page_Dashboard/li_MRL - Aaron Murphy' is clicked on
+
+2023-05-27 12:01:56 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/li_MRL - Aaron Murphy' is clicked on
+
+2023-05-27 12:01:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Client Details")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Client Details' is clicked on
+
+2023-05-27 12:01:57 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Client Details' is clicked on
+
+2023-05-27 12:01:57 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Select titleMrMsMrsMissDrOther"), "1: Mr", true): All options with value '1: Mr' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select titleMrMsMrsMissDrOther'  using regular expression
+
+2023-05-27 12:02:00 - [MESSAGE][PASSED] - All options with value '1: Mr' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select titleMrMsMrsMissDrOther'  using regular expression
+
+2023-05-27 12:02:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Dashboard/input_First names_client1firstnames"), "AutoTest"): Text 'AutoTest' is set on object 'Object Repository/Page_Dashboard/input_First names_client1firstnames'
+
+2023-05-27 12:02:00 - [MESSAGE][PASSED] - Text 'AutoTest' is set on object 'Object Repository/Page_Dashboard/input_First names_client1firstnames'
+
+2023-05-27 12:02:00 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Dashboard/input_Last name_client1lastname"), "AutoLast"): Text 'AutoLast' is set on object 'Object Repository/Page_Dashboard/input_Last name_client1lastname'
+
+2023-05-27 12:02:01 - [MESSAGE][PASSED] - Text 'AutoLast' is set on object 'Object Repository/Page_Dashboard/input_Last name_client1lastname'
+
+2023-05-27 12:02:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Date of birth_client1dob"), "10/10/1993"): Text '10/10/1993' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Date of birth_client1dob'
+
+2023-05-27 12:02:02 - [MESSAGE][PASSED] - Text '10/10/1993' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Date of birth_client1dob'
+
+2023-05-27 12:02:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Gender_gender1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Gender_gender1' is clicked on
+
+2023-05-27 12:02:02 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Gender_gender1' is clicked on
+
+2023-05-27 12:02:02 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed"), "Single", true): All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:03 - [MESSAGE][PASSED] - All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:03 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed"), "Single", true): All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:04 - [MESSAGE][PASSED] - All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:04 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed"), "Single", true): All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:05 - [MESSAGE][PASSED] - All options with value 'Single' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'  using regular expression
+
+2023-05-27 12:02:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/a_Or enter address manually")): Object: 'Object Repository/IMS Objects/Page_Dashboard/a_Or enter address manually' is clicked on
+
+2023-05-27 12:02:06 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/a_Or enter address manually' is clicked on
+
+2023-05-27 12:02:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Address line 1_addressLine1"), "fsdfdsgfd"): Text 'fsdfdsgfd' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 1_addressLine1'
+
+2023-05-27 12:02:07 - [MESSAGE][PASSED] - Text 'fsdfdsgfd' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 1_addressLine1'
+
+2023-05-27 12:02:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Address line 2_addressLine2"), "gfadsgdfgfdg"): Text 'gfadsgdfgfdg' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 2_addressLine2'
+
+2023-05-27 12:02:07 - [MESSAGE][PASSED] - Text 'gfadsgdfgfdg' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 2_addressLine2'
+
+2023-05-27 12:02:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Address line 3_addressLine3"), "gfdgfdgdf"): Text 'gfdgfdgdf' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 3_addressLine3'
+
+2023-05-27 12:02:08 - [MESSAGE][PASSED] - Text 'gfdgfdgdf' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Address line 3_addressLine3'
+
+2023-05-27 12:02:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_TownCity_town"), "gdfgfdgdaf"): Text 'gdfgfdgdaf' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_TownCity_town'
+
+2023-05-27 12:02:09 - [MESSAGE][PASSED] - Text 'gdfgfdgdaf' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_TownCity_town'
+
+2023-05-27 12:02:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_County_county"), "gdfgfdg"): Text 'gdfgfdg' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_County_county'
+
+2023-05-27 12:02:09 - [MESSAGE][PASSED] - Text 'gdfgfdg' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_County_county'
+
+2023-05-27 12:02:09 - [TEST_STEP][PASSED] - setText(findTestObject("Page_Dashboard/input_Postcode_postcode"), "NW87QJ"): Text 'NW87QJ' is set on object 'Object Repository/Page_Dashboard/input_Postcode_postcode'
+
+2023-05-27 12:02:10 - [MESSAGE][PASSED] - Text 'NW87QJ' is set on object 'Object Repository/Page_Dashboard/input_Postcode_postcode'
+
+2023-05-27 12:02:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_United KingdomAlbaniaAlgeriaAmerican_c00340"), "Argentina", true): All options with value 'Argentina' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_United KingdomAlbaniaAlgeriaAmerican_c00340'  using regular expression
+
+2023-05-27 12:02:15 - [MESSAGE][PASSED] - All options with value 'Argentina' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_United KingdomAlbaniaAlgeriaAmerican_c00340'  using regular expression
+
+2023-05-27 12:02:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Email address_client1email"), "auotestkat@gmail.com"): Text 'auotestkat@gmail.com' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Email address_client1email'
+
+2023-05-27 12:02:15 - [MESSAGE][PASSED] - Text 'auotestkat@gmail.com' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Email address_client1email'
+
+2023-05-27 12:02:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Home telephone_client1hometelephone"), "123454567"): Text '123454567' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Home telephone_client1hometelephone'
+
+2023-05-27 12:02:16 - [MESSAGE][PASSED] - Text '123454567' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Home telephone_client1hometelephone'
+
+2023-05-27 12:02:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Mobile telephone_client1mobiletelephone"), "85462323"): Text '85462323' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Mobile telephone_client1mobiletelephone'
+
+2023-05-27 12:02:17 - [MESSAGE][PASSED] - Text '85462323' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Mobile telephone_client1mobiletelephone'
+
+2023-05-27 12:02:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Work telephone_client1worktelephone"), "234356567"): Text '234356567' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Work telephone_client1worktelephone'
+
+2023-05-27 12:02:17 - [MESSAGE][PASSED] - Text '234356567' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Work telephone_client1worktelephone'
+
+2023-05-27 12:02:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_8fce92")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_8fce92' is clicked on
+
+2023-05-27 12:02:18 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_8fce92' is clicked on
+
+2023-05-27 12:02:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_b744b6")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_b744b6' is clicked on
+
+2023-05-27 12:02:18 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_b744b6' is clicked on
+
+2023-05-27 12:02:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Risk Questions")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Risk Questions' is clicked on
+
+2023-05-27 12:02:18 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Risk Questions' is clicked on
+
+2023-05-27 12:02:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient120Answer75")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient120Answer75' is clicked on
+
+2023-05-27 12:02:20 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient120Answer75' is clicked on
+
+2023-05-27 12:02:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_869c13")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_869c13' is clicked on
+
+2023-05-27 12:02:20 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_869c13' is clicked on
+
+2023-05-27 12:02:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Neither agree nor disagree_riskQuesti_b96afd")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Neither agree nor disagree_riskQuesti_b96afd' is clicked on
+
+2023-05-27 12:02:21 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Neither agree nor disagree_riskQuesti_b96afd' is clicked on
+
+2023-05-27 12:02:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_f3727a")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_f3727a' is clicked on
+
+2023-05-27 12:02:21 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_f3727a' is clicked on
+
+2023-05-27 12:02:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient124Answer97")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient124Answer97' is clicked on
+
+2023-05-27 12:02:21 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient124Answer97' is clicked on
+
+2023-05-27 12:02:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient125Answer100")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient125Answer100' is clicked on
+
+2023-05-27 12:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient125Answer100' is clicked on
+
+2023-05-27 12:02:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient126Answer107")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient126Answer107' is clicked on
+
+2023-05-27 12:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient126Answer107' is clicked on
+
+2023-05-27 12:02:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient127Answer112")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient127Answer112' is clicked on
+
+2023-05-27 12:02:22 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient127Answer112' is clicked on
+
+2023-05-27 12:02:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient128Answer115")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient128Answer115' is clicked on
+
+2023-05-27 12:02:23 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient128Answer115' is clicked on
+
+2023-05-27 12:02:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient129Answer120")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient129Answer120' is clicked on
+
+2023-05-27 12:02:23 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient129Answer120' is clicked on
+
+2023-05-27 12:02:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient130Answer127")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient130Answer127' is clicked on
+
+2023-05-27 12:02:23 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient130Answer127' is clicked on
+
+2023-05-27 12:02:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_When considering investing, I would d_f9f055")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_When considering investing, I would d_f9f055' is clicked on
+
+2023-05-27 12:02:24 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_When considering investing, I would d_f9f055' is clicked on
+
+2023-05-27 12:02:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_I would regret deciding not to take a_6fba81")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_I would regret deciding not to take a_6fba81' is clicked on
+
+2023-05-27 12:02:24 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_I would regret deciding not to take a_6fba81' is clicked on
+
+2023-05-27 12:02:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_The term I most closely associate wit_3dfdd1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_The term I most closely associate wit_3dfdd1' is clicked on
+
+2023-05-27 12:02:25 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_The term I most closely associate wit_3dfdd1' is clicked on
+
+2023-05-27 12:02:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_I take risks at every opportunity_ris_ad1f78")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_I take risks at every opportunity_ris_ad1f78' is clicked on
+
+2023-05-27 12:02:25 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_I take risks at every opportunity_ris_ad1f78' is clicked on
+
+2023-05-27 12:02:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Any further notes about the questi_bff76a"), "Hi verifiying katalon POC"): Text 'Hi verifiying katalon POC' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Any further notes about the questi_bff76a'
+
+2023-05-27 12:02:26 - [MESSAGE][PASSED] - Text 'Hi verifiying katalon POC' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Any further notes about the questi_bff76a'
+
+2023-05-27 12:02:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Additional Client Details")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Additional Client Details' is clicked on
+
+2023-05-27 12:02:26 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Additional Client Details' is clicked on
+
+2023-05-27 12:02:26 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08"), "British", true): All options with value 'British' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'  using regular expression
+
+2023-05-27 12:02:32 - [MESSAGE][PASSED] - All options with value 'British' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'  using regular expression
+
+2023-05-27 12:02:32 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08"), "British", true): All options with value 'British' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'  using regular expression
+
+2023-05-27 12:02:36 - [MESSAGE][PASSED] - All options with value 'British' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'  using regular expression
+
+2023-05-27 12:02:36 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d"), "United Kingdom", true): All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'  using regular expression
+
+2023-05-27 12:02:41 - [MESSAGE][PASSED] - All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'  using regular expression
+
+2023-05-27 12:02:41 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d"), "United Kingdom", true): All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'  using regular expression
+
+2023-05-27 12:02:46 - [MESSAGE][PASSED] - All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'  using regular expression
+
+2023-05-27 12:02:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Based on this description, do you thi_bdfd1b")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Based on this description, do you thi_bdfd1b' is clicked on
+
+2023-05-27 12:02:46 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Based on this description, do you thi_bdfd1b' is clicked on
+
+2023-05-27 12:02:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Details_client1-politically-exposed-text"), "gfdhfjgjkgkghkghjgh"): Text 'gfdhfjgjkgkghkghjgh' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Details_client1-politically-exposed-text'
+
+2023-05-27 12:02:47 - [MESSAGE][PASSED] - Text 'gfdhfjgjkgkghkghjgh' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Details_client1-politically-exposed-text'
+
+2023-05-27 12:02:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Passport_verificationIdType1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Passport_verificationIdType1' is clicked on
+
+2023-05-27 12:02:47 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Passport_verificationIdType1' is clicked on
+
+2023-05-27 12:02:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Driving licence number_client1-drivin_e255d6"), "fsdfgdaghfdh234"): Text 'fsdfgdaghfdh234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Driving licence number_client1-drivin_e255d6'
+
+2023-05-27 12:02:48 - [MESSAGE][PASSED] - Text 'fsdfgdaghfdh234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Driving licence number_client1-drivin_e255d6'
+
+2023-05-27 12:02:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Expiry date_client1-expiry-date"), "10/12/2036"): Text '10/12/2036' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Expiry date_client1-expiry-date'
+
+2023-05-27 12:02:49 - [MESSAGE][PASSED] - Text '10/12/2036' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Expiry date_client1-expiry-date'
+
+2023-05-27 12:02:49 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb"), "null", true): All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:50 - [MESSAGE][PASSED] - All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:50 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb"), "null", true): All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:51 - [MESSAGE][PASSED] - All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:51 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb"), "Full-Time Employed", true): All options with value 'Full-Time Employed' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:52 - [MESSAGE][PASSED] - All options with value 'Full-Time Employed' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:52 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb"), "Full-Time Employed", true): All options with value 'Full-Time Employed' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:53 - [MESSAGE][PASSED] - All options with value 'Full-Time Employed' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'  using regular expression
+
+2023-05-27 12:02:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Expected retirement age_client1-emplo_dac0ea"), "45"): Text '45' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Expected retirement age_client1-emplo_dac0ea'
+
+2023-05-27 12:02:54 - [MESSAGE][PASSED] - Text '45' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Expected retirement age_client1-emplo_dac0ea'
+
+2023-05-27 12:02:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_OccupationJob title_client1-employed-_f9375d"), "Fishing"): Text 'Fishing' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_OccupationJob title_client1-employed-_f9375d'
+
+2023-05-27 12:02:55 - [MESSAGE][PASSED] - Text 'Fishing' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_OccupationJob title_client1-employed-_f9375d'
+
+2023-05-27 12:02:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Name of employer Company name_client1_eaba97"), "Katalon"): Text 'Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Name of employer Company name_client1_eaba97'
+
+2023-05-27 12:02:55 - [MESSAGE][PASSED] - Text 'Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Name of employer Company name_client1_eaba97'
+
+2023-05-27 12:02:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Nature of business employment_client1_ffa724"), "Private"): Text 'Private' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Nature of business employment_client1_ffa724'
+
+2023-05-27 12:02:56 - [MESSAGE][PASSED] - Text 'Private' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Nature of business employment_client1_ffa724'
+
+2023-05-27 12:02:56 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1"), "null", true): All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:01 - [MESSAGE][PASSED] - All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:01 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1"), "null", true): All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:05 - [MESSAGE][PASSED] - All options with value 'null' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:05 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1"), "United Kingdom", true): All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:10 - [MESSAGE][PASSED] - All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1"), "United Kingdom", true): All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:15 - [MESSAGE][PASSED] - All options with value 'United Kingdom' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'  using regular expression
+
+2023-05-27 12:03:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Under 2 years")): Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Under 2 years' is clicked on
+
+2023-05-27 12:03:15 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Under 2 years' is clicked on
+
+2023-05-27 12:03:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Under 2 years_hasQualifications1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Under 2 years_hasQualifications1' is clicked on
+
+2023-05-27 12:03:15 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Under 2 years_hasQualifications1' is clicked on
+
+2023-05-27 12:03:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Education details_client1-qualific_f35bc7"), "fsdfdgdah"): Text 'fsdfdgdah' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Education details_client1-qualific_f35bc7'
+
+2023-05-27 12:03:16 - [MESSAGE][PASSED] - Text 'fsdfdgdah' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Education details_client1-qualific_f35bc7'
+
+2023-05-27 12:03:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Yes_hasFinancialDependents1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_hasFinancialDependents1' is clicked on
+
+2023-05-27 12:03:17 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_hasFinancialDependents1' is clicked on
+
+2023-05-27 12:03:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Financial Details")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Financial Details' is clicked on
+
+2023-05-27 12:03:17 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Financial Details' is clicked on
+
+2023-05-27 12:03:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty"), "234"): Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty'
+
+2023-05-27 12:03:19 - [MESSAGE][PASSED] - Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty'
+
+2023-05-27 12:03:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Add")): Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Add' is clicked on
+
+2023-05-27 12:03:20 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Add' is clicked on
+
+2023-05-27 12:03:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1"), "234"): Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1'
+
+2023-05-27 12:03:20 - [MESSAGE][PASSED] - Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1'
+
+2023-05-27 12:03:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2"), "456"): Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2'
+
+2023-05-27 12:03:21 - [MESSAGE][PASSED] - Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2'
+
+2023-05-27 12:03:21 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3"), "123"): Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3'
+
+2023-05-27 12:03:22 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3'
+
+2023-05-27 12:03:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4"), "678"): Text '678' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4'
+
+2023-05-27 12:03:22 - [MESSAGE][PASSED] - Text '678' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4'
+
+2023-05-27 12:03:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5"), "456"): Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5'
+
+2023-05-27 12:03:23 - [MESSAGE][PASSED] - Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5'
+
+2023-05-27 12:03:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6"), "100"): Text '100' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6'
+
+2023-05-27 12:03:24 - [MESSAGE][PASSED] - Text '100' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6'
+
+2023-05-27 12:03:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7'
+
+2023-05-27 12:03:24 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7'
+
+2023-05-27 12:03:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8"), "111"): Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8'
+
+2023-05-27 12:03:25 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8'
+
+2023-05-27 12:03:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Withdraw")): Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Withdraw' is clicked on
+
+2023-05-27 12:03:25 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/label_Withdraw' is clicked on
+
+2023-05-27 12:03:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9"), "234"): Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9'
+
+2023-05-27 12:03:26 - [MESSAGE][PASSED] - Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9'
+
+2023-05-27 12:03:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Are you a member of a Defined Benefit_824ca8")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Are you a member of a Defined Benefit_824ca8' is clicked on
+
+2023-05-27 12:03:27 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Are you a member of a Defined Benefit_824ca8' is clicked on
+
+2023-05-27 12:03:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10'
+
+2023-05-27 12:03:27 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10'
+
+2023-05-27 12:03:27 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11"), "111"): Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11'
+
+2023-05-27 12:03:28 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11'
+
+2023-05-27 12:03:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12"), "234"): Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12'
+
+2023-05-27 12:03:29 - [MESSAGE][PASSED] - Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12'
+
+2023-05-27 12:03:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13"), "444"): Text '444' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13'
+
+2023-05-27 12:03:29 - [MESSAGE][PASSED] - Text '444' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13'
+
+2023-05-27 12:03:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14"), "321"): Text '321' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14'
+
+2023-05-27 12:03:30 - [MESSAGE][PASSED] - Text '321' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14'
+
+2023-05-27 12:03:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15"), "456"): Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15'
+
+2023-05-27 12:03:31 - [MESSAGE][PASSED] - Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15'
+
+2023-05-27 12:03:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16"), "234"): Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16'
+
+2023-05-27 12:03:31 - [MESSAGE][PASSED] - Text '234' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16'
+
+2023-05-27 12:03:31 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe"), "256"): Text '256' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe'
+
+2023-05-27 12:03:32 - [MESSAGE][PASSED] - Text '256' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe'
+
+2023-05-27 12:03:32 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined"), "12/12/1980"): Text '12/12/1980' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined'
+
+2023-05-27 12:03:33 - [MESSAGE][PASSED] - Text '12/12/1980' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined'
+
+2023-05-27 12:03:33 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17"), "111"): Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17'
+
+2023-05-27 12:03:34 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17'
+
+2023-05-27 12:03:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe_1"), "345"): Text '345' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe_1'
+
+2023-05-27 12:03:34 - [MESSAGE][PASSED] - Text '345' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe_1'
+
+2023-05-27 12:03:34 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined_1"), "11/11/1964"): Text '11/11/1964' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined_1'
+
+2023-05-27 12:03:35 - [MESSAGE][PASSED] - Text '11/11/1964' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined_1'
+
+2023-05-27 12:03:35 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18"), "343"): Text '343' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18'
+
+2023-05-27 12:03:36 - [MESSAGE][PASSED] - Text '343' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18'
+
+2023-05-27 12:03:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19"), "345"): Text '345' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19'
+
+2023-05-27 12:03:36 - [MESSAGE][PASSED] - Text '345' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19'
+
+2023-05-27 12:03:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-valid ng-touched ng-dirty"), "111"): Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-valid ng-touched ng-dirty'
+
+2023-05-27 12:03:37 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-valid ng-touched ng-dirty'
+
+2023-05-27 12:03:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20"), "333"): Text '333' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20'
+
+2023-05-27 12:03:38 - [MESSAGE][PASSED] - Text '333' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20'
+
+2023-05-27 12:03:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21'
+
+2023-05-27 12:03:38 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21'
+
+2023-05-27 12:03:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22"), "456"): Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22'
+
+2023-05-27 12:03:39 - [MESSAGE][PASSED] - Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22'
+
+2023-05-27 12:03:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23"), "123"): Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23'
+
+2023-05-27 12:03:40 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23'
+
+2023-05-27 12:03:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24"), "456"): Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24'
+
+2023-05-27 12:03:40 - [MESSAGE][PASSED] - Text '456' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24'
+
+2023-05-27 12:03:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25"), "888"): Text '888' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25'
+
+2023-05-27 12:03:41 - [MESSAGE][PASSED] - Text '888' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25'
+
+2023-05-27 12:03:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26'
+
+2023-05-27 12:03:42 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26'
+
+2023-05-27 12:03:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27'
+
+2023-05-27 12:03:42 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27'
+
+2023-05-27 12:03:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28"), "111"): Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28'
+
+2023-05-27 12:03:43 - [MESSAGE][PASSED] - Text '111' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28'
+
+2023-05-27 12:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Yes_willNetAnnualIncomeChangeInNext12Months1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_willNetAnnualIncomeChangeInNext12Months1' is clicked on
+
+2023-05-27 12:03:43 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_willNetAnnualIncomeChangeInNext12Months1' is clicked on
+
+2023-05-27 12:03:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Yes_isOtherFinancialInformationAvailable1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_isOtherFinancialInformationAvailable1' is clicked on
+
+2023-05-27 12:03:44 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_isOtherFinancialInformationAvailable1' is clicked on
+
+2023-05-27 12:03:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Five Point Health Check")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Five Point Health Check' is clicked on
+
+2023-05-27 12:03:44 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Five Point Health Check' is clicked on
+
+2023-05-27 12:03:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Save application")): Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save application' is clicked on
+
+2023-05-27 12:03:45 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save application' is clicked on
+
+2023-05-27 12:03:45 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_How would you describe your health"), "How would you describe your health?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/span_How would you describe your health' are matched.
+
+2023-05-27 12:03:46 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/span_How would you describe your health' are matched.
+
+2023-05-27 12:03:46 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Please select an option"), "Please select an option"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/span_Please select an option' are matched.
+
+2023-05-27 12:03:46 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/span_Please select an option' are matched.
+
+2023-05-27 12:03:46 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_How much money would you like to set _e99e76"), "How much money would you like to set aside for emergencies? (enough money to pay 3-6 months worth of expenses)?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much money would you like to set _e99e76' are matched.
+
+2023-05-27 12:03:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much money would you like to set _e99e76' are matched.
+
+2023-05-27 12:03:47 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_In the event you cant work due to inj_2e7536"), "In the event you can’t work due to injury or illness, would you continue to receive income from your employer or an insurance policy that you have?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event you cant work due to inj_2e7536' are matched.
+
+2023-05-27 12:03:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event you cant work due to inj_2e7536' are matched.
+
+2023-05-27 12:03:47 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, is there _bc5d02"), "In the event of your death, is there any provision for your family/dependents from your employer or an insurance policy that you have?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, is there _bc5d02' are matched.
+
+2023-05-27 12:03:47 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, is there _bc5d02' are matched.
+
+2023-05-27 12:03:47 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, will ther_b3c401"), "In the event of your death, will there be any outstanding liabilities like critical regular expenses, mortgage or loan repayments?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, will ther_b3c401' are matched.
+
+2023-05-27 12:03:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_In the event of your death, will ther_b3c401' are matched.
+
+2023-05-27 12:03:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Do you have an up to date will"), "Do you have an up to date will?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Do you have an up to date will' are matched.
+
+2023-05-27 12:03:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Do you have an up to date will' are matched.
+
+2023-05-27 12:03:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Have you set-up a Power of Attorney"), "Have you set-up a Power of Attorney?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Have you set-up a Power of Attorney' are matched.
+
+2023-05-27 12:03:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Have you set-up a Power of Attorney' are matched.
+
+2023-05-27 12:03:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_How much is outstanding"), "How much is outstanding?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much is outstanding' are matched.
+
+2023-05-27 12:03:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much is outstanding' are matched.
+
+2023-05-27 12:03:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_How much are the monthly repayments"), "How much are the monthly repayments?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much are the monthly repayments' are matched.
+
+2023-05-27 12:03:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_How much are the monthly repayments' are matched.
+
+2023-05-27 12:03:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Please select the applicable type"), "Please select the applicable type:"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please select the applicable type' are matched.
+
+2023-05-27 12:03:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please select the applicable type' are matched.
+
+2023-05-27 12:03:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_What is the interest rate"), "What is the interest rate?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_What is the interest rate' are matched.
+
+2023-05-27 12:03:49 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_What is the interest rate' are matched.
+
+2023-05-27 12:03:49 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_What year will the mortgage be repaid"), "What year will the mortgage be repaid?"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_What year will the mortgage be repaid' are matched.
+
+2023-05-27 12:03:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_What year will the mortgage be repaid' are matched.
+
+2023-05-27 12:03:50 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Please list any significant future sp_19701b"), "Please list any significant future spending goals that you are planning? (Please consider any near, medium and longer term goals)."): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please list any significant future sp_19701b' are matched.
+
+2023-05-27 12:03:50 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please list any significant future sp_19701b' are matched.
+
+2023-05-27 12:03:50 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Please provide any other information _e49286"), "Please provide any other information you feel may be relevant to enable us to provide guidance and/or advice that is suitable for your needs."): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please provide any other information _e49286' are matched.
+
+2023-05-27 12:03:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Please provide any other information _e49286' are matched.
+
+2023-05-27 12:03:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_ok_healthCondition1")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_ok_healthCondition1' is clicked on
+
+2023-05-27 12:03:51 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_ok_healthCondition1' is clicked on
+
+2023-05-27 12:03:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_579585"), "HI this is Katalon"): Text 'HI this is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_579585'
+
+2023-05-27 12:03:52 - [MESSAGE][PASSED] - Text 'HI this is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_579585'
+
+2023-05-27 12:03:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3'
+
+2023-05-27 12:03:52 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3'
+
+2023-05-27 12:03:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Please select an option_continueToRec_a41e6b")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Please select an option_continueToRec_a41e6b' is clicked on
+
+2023-05-27 12:03:53 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Please select an option_continueToRec_a41e6b' is clicked on
+
+2023-05-27 12:03:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_ff7668"), "Hi this is Katalaon"): Text 'Hi this is Katalaon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_ff7668'
+
+2023-05-27 12:03:54 - [MESSAGE][PASSED] - Text 'Hi this is Katalaon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Please provide further details bel_ff7668'
+
+2023-05-27 12:03:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Yes_provisionForFamilyInCaseOfDeath")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_provisionForFamilyInCaseOfDeath' is clicked on
+
+2023-05-27 12:03:54 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_provisionForFamilyInCaseOfDeath' is clicked on
+
+2023-05-27 12:03:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_No_liabilitiesInCaseOfDeath")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_No_liabilitiesInCaseOfDeath' is clicked on
+
+2023-05-27 12:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_No_liabilitiesInCaseOfDeath' is clicked on
+
+2023-05-27 12:03:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Yes_haveUptodateWill")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_haveUptodateWill' is clicked on
+
+2023-05-27 12:03:55 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Yes_haveUptodateWill' is clicked on
+
+2023-05-27 12:03:55 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Health and Welfare Lasting Power of Attorney"), "Health and Welfare Lasting Power of Attorney"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Health and Welfare Lasting Power of Attorney' are matched.
+
+2023-05-27 12:03:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Health and Welfare Lasting Power of Attorney' are matched.
+
+2023-05-27 12:03:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Power and Financial Affairs Lasting P_f970d7"), "Power and Financial Affairs Lasting Power of Attorney"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Power and Financial Affairs Lasting P_f970d7' are matched.
+
+2023-05-27 12:03:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Power and Financial Affairs Lasting P_f970d7' are matched.
+
+2023-05-27 12:03:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Enduring Power of Attorney (if set-up_b88b61"), "Enduring Power of Attorney (if set-up before 2007)"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Enduring Power of Attorney (if set-up_b88b61' are matched.
+
+2023-05-27 12:03:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Enduring Power of Attorney (if set-up_b88b61' are matched.
+
+2023-05-27 12:03:56 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/label_Other type of Power of Attorney (plea_03612b"), "Other type of Power of Attorney (please provide further details below)"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Other type of Power of Attorney (plea_03612b' are matched.
+
+2023-05-27 12:03:57 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/label_Other type of Power of Attorney (plea_03612b' are matched.
+
+2023-05-27 12:03:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Or Please tick all applicable_five-po_b5c783")): Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Or Please tick all applicable_five-po_b5c783' is clicked on
+
+2023-05-27 12:03:57 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/input_Or Please tick all applicable_five-po_b5c783' is clicked on
+
+2023-05-27 12:03:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Other type of Power of Attorney (p_79955f"), "Hi this is Katalon"): Text 'Hi this is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Other type of Power of Attorney (p_79955f'
+
+2023-05-27 12:03:58 - [MESSAGE][PASSED] - Text 'Hi this is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Other type of Power of Attorney (p_79955f'
+
+2023-05-27 12:03:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786"), "222"): Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786'
+
+2023-05-27 12:03:58 - [MESSAGE][PASSED] - Text '222' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786'
+
+2023-05-27 12:03:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786_1"), "123"): Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786_1'
+
+2023-05-27 12:03:59 - [MESSAGE][PASSED] - Text '123' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_636786_1'
+
+2023-05-27 12:03:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_What is the interest rate_form-contro_764aad"), "444"): Text '444' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_What is the interest rate_form-contro_764aad'
+
+2023-05-27 12:04:00 - [MESSAGE][PASSED] - Text '444' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_What is the interest rate_form-contro_764aad'
+
+2023-05-27 12:04:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_What year will the mortgage be repaid_749b19"), "2020"): Text '2020' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_What year will the mortgage be repaid_749b19'
+
+2023-05-27 12:04:00 - [MESSAGE][PASSED] - Text '2020' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_What year will the mortgage be repaid_749b19'
+
+2023-05-27 12:04:00 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan"), 0): Object 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' is present
+
+2023-05-27 12:04:00 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-27 12:04:01 - [MESSAGE][PASSED] - Object 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' is present
+
+2023-05-27 12:04:01 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan"), "Add spending plan"): Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' are matched.
+
+2023-05-27 12:04:01 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' are matched.
+
+2023-05-27 12:04:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan")): Object: 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' is clicked on
+
+2023-05-27 12:04:01 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/a_Add spending plan' is clicked on
+
+2023-05-27 12:04:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input_Target date (Year)_form-control dark-_5177ce"), "Shipping"): Text 'Shipping' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Target date (Year)_form-control dark-_5177ce'
+
+2023-05-27 12:04:02 - [MESSAGE][PASSED] - Text 'Shipping' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input_Target date (Year)_form-control dark-_5177ce'
+
+2023-05-27 12:04:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3_1"), "2000"): Text '2000' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3_1'
+
+2023-05-27 12:04:03 - [MESSAGE][PASSED] - Text '2000' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control dark-control ng-untouch_3b60e3_1'
+
+2023-05-27 12:04:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-pristin_178ccb"), "2013"): Text '2013' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-pristin_178ccb'
+
+2023-05-27 12:04:03 - [MESSAGE][PASSED] - Text '2013' is set on object 'Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-pristin_178ccb'
+
+2023-05-27 12:04:03 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Remove"), 0): Object 'Object Repository/IMS Objects/Page_Dashboard/span_Remove' is present
+
+2023-05-27 12:04:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-27 12:04:04 - [MESSAGE][PASSED] - Object 'Object Repository/IMS Objects/Page_Dashboard/span_Remove' is present
+
+2023-05-27 12:04:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/IMS Objects/Page_Dashboard/textarea_Additional Information_five-point-_69f99e"), "Hi This is Katalon"): Text 'Hi This is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Additional Information_five-point-_69f99e'
+
+2023-05-27 12:04:04 - [MESSAGE][PASSED] - Text 'Hi This is Katalon' is set on object 'Object Repository/IMS Objects/Page_Dashboard/textarea_Additional Information_five-point-_69f99e'
+
+2023-05-27 12:04:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Save application")): Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save application' is clicked on
+
+2023-05-27 12:04:05 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save application' is clicked on
+
+2023-05-27 12:04:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/span_Summary")): Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Summary' is clicked on
+
+2023-05-27 12:04:06 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/span_Summary' is clicked on
+
+2023-05-27 12:04:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Publish settings")): Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Publish settings' is clicked on
+
+2023-05-27 12:04:07 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Publish settings' is clicked on
+
+2023-05-27 12:04:07 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off'  using regular expression
+
+2023-05-27 12:04:08 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off'  using regular expression
+
+2023-05-27 12:04:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off'  using regular expression
+
+2023-05-27 12:04:09 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off'  using regular expression
+
+2023-05-27 12:04:09 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1'  using regular expression
+
+2023-05-27 12:04:11 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1'  using regular expression
+
+2023-05-27 12:04:11 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1'  using regular expression
+
+2023-05-27 12:04:12 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1'  using regular expression
+
+2023-05-27 12:04:12 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2'  using regular expression
+
+2023-05-27 12:04:13 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2'  using regular expression
+
+2023-05-27 12:04:13 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2'  using regular expression
+
+2023-05-27 12:04:13 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2'  using regular expression
+
+2023-05-27 12:04:13 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:14 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:14 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:15 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:15 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:16 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'  using regular expression
+
+2023-05-27 12:04:16 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:17 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:17 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:18 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:18 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:19 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'  using regular expression
+
+2023-05-27 12:04:19 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:20 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:20 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:21 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:21 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5"), "1: 1", true): All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:22 - [MESSAGE][PASSED] - All options with value '1: 1' are selected in object 'Object Repository/IMS Objects/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'  using regular expression
+
+2023-05-27 12:04:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Save changes")): Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save changes' is clicked on
+
+2023-05-27 12:04:22 - [MESSAGE][PASSED] - Object: 'Object Repository/IMS Objects/Page_Dashboard/button_Save changes' is clicked on
+
+2023-05-27 12:04:22 - [TEST_STEP][PASSED] - waitForElementVisible(findTestObject("Object Repository/IMS Objects/Page_Dashboard/button_Publish settings"), 0): Object 'Object Repository/IMS Objects/Page_Dashboard/button_Publish settings' is visible
+
+2023-05-27 12:04:22 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-05-27 12:04:24 - [MESSAGE][PASSED] - Object 'Object Repository/IMS Objects/Page_Dashboard/button_Publish settings' is visible
+
+2023-05-27 12:04:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-05-27 12:04:25 - [MESSAGE][PASSED] - Browser is closed
+
+2023-05-27 12:04:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/FivePointE2E' successfully
+
+2023-05-27 12:04:25 - [MESSAGE][PASSED] - user validates Five Point Health Fields
+
+2023-05-27 12:04:25 - [MESSAGE][PASSED] - Feature file: 'Include/features/OneCSIMSFivePoint.feature' was passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-05-27 12:01:27 - [TEST_SUITE][PASSED] - OneCSWebSuite: Test Cases/Modules/Five Point Regression]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -65,6 +65,6 @@ class OneCSWebStepDefs {
 	@Given("user launch OneCS Portal Dasboard page")
 	public void user_launch_OneCS_Portal_Dasboard_page() {
 		// Write code here that turns the phrase above into concrete actions
-		WebUI.callTestCase(findTestCase('Test Cases/IMSOnboardingWeb'), null)
+		WebUI.callTestCase(findTestCase('Test Cases/Initiating IMS Portal'), null)
 	}
 }

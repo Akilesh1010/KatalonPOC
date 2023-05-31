@@ -10593,10 +10593,7 @@ com.kms.katalon.core.exception.StepFailedException: Feature file &amp;apos;Inclu
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2023-05-25T11:44:42</date>
   <millis>1684995282197</millis>
@@ -12021,3 +12018,4 @@ com.kms.katalon.core.exception.StepFailedException: Feature file &amp;apos;Inclu
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+</log>

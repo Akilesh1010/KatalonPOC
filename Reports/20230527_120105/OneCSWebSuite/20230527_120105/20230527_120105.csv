@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OneCSWebSuite,,,,2023-05-27 12:01:14,2023-05-27 12:01:17,2.374s,FAILED
+,,,,,,,
+Test Cases/Modules/Five Point Regression,,,,2023-05-27 12:01:17,2023-05-27 12:01:17,0.159s,FAILED
+"runFeatureFile(""Include/features/OneCSIMSFivePoint.feature"")",,E2E Regression for IMS Portal Five Point Health Check,,2023-05-27 12:01:17,2023-05-27 12:01:17,0.152s,FAILED
