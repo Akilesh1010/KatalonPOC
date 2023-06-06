@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385",
+      "brokenLocator": "//h2[(text() \u003d \u0027Enter the verification code we have sent to your mobile phone\u0027 or . \u003d \u0027Enter the verification code we have sent to your mobile phone\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "h2.font-mrs-eaves.font-h2.mb-m",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20230606_112114/DataDriven/20230606_112115/Object Repository/Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Secure Portal DD/Page_Portal/Page_Portal/h2_Enter the verification code we have sent_0a5385",
+      "brokenLocator": "//h2[(text() \u003d \u0027Enter the verification code we have sent to your mobile phone\u0027 or . \u003d \u0027Enter the verification code we have sent to your mobile phone\u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "h2.font-mrs-eaves.font-h2.mb-m",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20230606_112114/DataDriven/20230606_112115/Object Repository/Secure Portal DD/Page_Portal/Page_Portal/h2_Enter the verification code we have sent_0a5385_CSS.png"
+    }
+  ]
+}

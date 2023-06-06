@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl(SecurePortal)
+
+3
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Username_username"), Username)
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Password_password"), Password)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Secure Portal DD/Page_Portal/button_Continue"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. verifyElementVisible(findTestObject("Object Repository/Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385"))
+

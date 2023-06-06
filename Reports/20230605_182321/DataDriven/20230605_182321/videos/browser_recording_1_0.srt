@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/OrangeHRM/Page_OrangeHRM/input_Username_username"), UserName)
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/OrangeHRM/Page_OrangeHRM/input_Password_password"), Password)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/OrangeHRM/Page_OrangeHRM/button_Login"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. verifyElementText(findTestObject("Object Repository/OrangeHRM/Page_OrangeHRM/h6_Dashboard"), "Dashboard")
+

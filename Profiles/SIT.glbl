@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SIT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Sit Url</description>
+      <initValue>'http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/'</initValue>
+      <name>base_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bs://42357bf6cdd0b22ec96727a4dd91b055497b9807'</initValue>
+      <name>bsApp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://secure-sit.charles-stanley.co.uk/'</initValue>
+      <name>SecurePortal</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

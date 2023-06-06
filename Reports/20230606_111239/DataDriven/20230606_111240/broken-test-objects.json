@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Update my number\u0027])[1]/preceding::h2[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h2",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230606_111239/DataDriven/20230606_111240/Object Repository/Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385_position.png"
+    }
+  ]
+}

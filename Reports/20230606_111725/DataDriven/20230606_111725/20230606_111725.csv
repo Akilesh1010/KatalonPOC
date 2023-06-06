@@ -1,0 +1,50 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DataDriven,Chrome 114.0.0.0,,,2023-06-06 11:17:34,2023-06-06 11:18:25,50.582s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:17:34,2023-06-06 11:17:43,9.042s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:17:35,2023-06-06 11:17:37,2.041s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:17:37,2023-06-06 11:17:40,2.764s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:17:40,2023-06-06 11:17:40,0.685s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:17:40,2023-06-06 11:17:41,0.645s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:17:41,2023-06-06 11:17:41,0.475s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:17:41,2023-06-06 11:17:43,2.081s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:17:43,2023-06-06 11:17:51,7.738s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:17:43,2023-06-06 11:17:45,1.776s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:17:45,2023-06-06 11:17:48,2.354s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:17:48,2023-06-06 11:17:48,0.641s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:17:48,2023-06-06 11:17:49,0.641s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:17:49,2023-06-06 11:17:49,0.458s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:17:49,2023-06-06 11:17:51,1.850s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:17:51,2023-06-06 11:18:01,9.689s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:17:51,2023-06-06 11:17:53,1.671s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:17:53,2023-06-06 11:17:55,2.290s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:17:55,2023-06-06 11:17:56,0.645s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:17:56,2023-06-06 11:17:56,0.640s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:17:56,2023-06-06 11:17:57,0.460s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:17:57,2023-06-06 11:18:01,3.970s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:18:01,2023-06-06 11:18:09,7.941s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:18:01,2023-06-06 11:18:03,1.660s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:18:03,2023-06-06 11:18:05,2.260s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:18:05,2023-06-06 11:18:06,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:18:06,2023-06-06 11:18:06,0.620s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:18:06,2023-06-06 11:18:07,0.558s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:18:07,2023-06-06 11:18:09,2.181s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:18:09,2023-06-06 11:18:17,8.320s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:18:09,2023-06-06 11:18:11,1.661s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:18:11,2023-06-06 11:18:13,2.471s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:18:13,2023-06-06 11:18:14,0.689s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:18:14,2023-06-06 11:18:14,0.643s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:18:14,2023-06-06 11:18:15,0.550s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:18:15,2023-06-06 11:18:17,2.289s,PASSED
+,,,,,,,
+Test Cases/Secure Portal DD,Chrome 114.0.0.0,Testing With Different usernames and password combinations,DataDriven,2023-06-06 11:18:17,2023-06-06 11:18:25,7.484s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-06 11:18:17,2023-06-06 11:18:19,1.734s,PASSED
+navigateToUrl(SecurePortal),Chrome 114.0.0.0,,,2023-06-06 11:18:19,2023-06-06 11:18:21,2.309s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Username_username""), Username)",Chrome 114.0.0.0,,,2023-06-06 11:18:21,2023-06-06 11:18:22,0.644s,PASSED
+"setText(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/input_Password_password""), Password)",Chrome 114.0.0.0,,,2023-06-06 11:18:22,2023-06-06 11:18:23,0.648s,PASSED
+"click(findTestObject(""Object Repository/Secure Portal DD/Page_Portal/button_Continue""))",Chrome 114.0.0.0,,,2023-06-06 11:18:23,2023-06-06 11:18:23,0.462s,PASSED
+"verifyElementVisible(findTestObject(""Secure Portal DD/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 114.0.0.0,,,2023-06-06 11:18:23,2023-06-06 11:18:25,1.676s,PASSED
