@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Add</name>
+   <tag></tag>
+   <elementGuidId>812c320a-e1ca-40cf-8ac8-bbdbe82e27dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[4]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b1ad6f09-3f4f-49b4-b9b7-64318ba49d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>client1-add-withdraw-add</value>
+      <webElementGuid>69b7e58c-2bd0-44ed-8311-7102bf4899af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-checkbox__label</value>
+      <webElementGuid>6bd49497-804e-475b-a1fd-d55c0030f040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>087bca77-785e-4a87-b63b-bb7f7f815a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[6]/div[1]/app-financial-details[1]/div[@class=&quot;container p-0 bg-white&quot;]/form[@class=&quot;individualApplication ng-valid ng-dirty ng-touched&quot;]/fieldset[1]/div[@class=&quot;row form-group pl-l pr-l bg-pale-grey p-m&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-4 mr-l&quot;]/div[@class=&quot;switch&quot;]/div[@class=&quot;form-checkbox ng-valid ng-dirty ng-touched&quot;]/label[@class=&quot;form-checkbox__label&quot;]</value>
+      <webElementGuid>ab31cd09-c267-4617-9614-fe90da2d4f68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[4]/following::label[1]</value>
+      <webElementGuid>ca24f1eb-ab6d-4168-b902-2ef0ae51b87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£'])[2]/following::label[3]</value>
+      <webElementGuid>ab4236e5-8d84-4cdb-8283-e112470fdc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw'])[1]/preceding::label[1]</value>
+      <webElementGuid>6639d404-9154-45ae-894e-15362d0aaa90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hidden'])[1]/preceding::label[2]</value>
+      <webElementGuid>adf4035a-4738-49a0-9606-229ee5a51584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>5f7cb618-3039-4755-aae0-a5f2334f7048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/label[2]</value>
+      <webElementGuid>6b591bf9-dbda-4bb1-8582-bd5cf489f9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>12193fad-740a-435f-93cd-e8b6baf1bf1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

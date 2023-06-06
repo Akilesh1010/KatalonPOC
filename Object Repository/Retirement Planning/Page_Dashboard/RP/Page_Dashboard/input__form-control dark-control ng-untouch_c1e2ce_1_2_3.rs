@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__form-control dark-control ng-untouch_c1e2ce_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>96dda7bb-c4b1-4b16-a066-cadfec1ca9fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@type = 'number' and @formcontrolname = 'amountEmployerPayingIntoPension' and @placeholder = '0.00' and @aria-labelledby = 'target comfortable expenditure'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.dark-control.ng-untouched.ng-dirty.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8206c7c6-5814-4d7a-b04d-9c12df8139ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>number</value>
+      <webElementGuid>25892206-442d-4757-8637-e15da7aa4534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>amountEmployerPayingIntoPension</value>
+      <webElementGuid>f09a85ee-b0ec-4d76-a8a5-bf525b5b81f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>0.00</value>
+      <webElementGuid>cdd4e71d-388e-479d-91fc-cfa9cdd1ed3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>target comfortable expenditure</value>
+      <webElementGuid>0da10e99-9d39-4f0f-850b-fe670017dee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control dark-control ng-untouched ng-dirty ng-valid</value>
+      <webElementGuid>cf90f7c4-8c11-4368-8582-a62d391795ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>b580b161-0bab-4e99-a803-7c8af7fa927c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[11]/div[1]/app-retirement-planning-details[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/fieldset[5]/div[@class=&quot;row form-group pl-l pr-l ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-8 mr-l&quot;]/input[@class=&quot;form-control dark-control ng-untouched ng-dirty ng-valid&quot;]</value>
+      <webElementGuid>7a1aee4b-13b8-45da-976c-c7fb01b9a8c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='number'])[50]</value>
+      <webElementGuid>5311802d-13be-4af0-8c6e-f3e00268d9e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab[11]/div/app-retirement-planning-details/div[2]/form/fieldset[5]/div[2]/div[2]/div/input</value>
+      <webElementGuid>b18f5b48-245a-4b93-977b-a37c625551d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @placeholder = '0.00']</value>
+      <webElementGuid>8fd75394-0644-470b-b0b0-c9be48f277a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

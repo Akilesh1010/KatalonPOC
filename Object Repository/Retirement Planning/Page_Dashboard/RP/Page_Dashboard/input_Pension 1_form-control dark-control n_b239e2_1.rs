@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Pension 1_form-control dark-control n_b239e2_1</name>
+   <tag></tag>
+   <elementGuidId>a7856cee-ad8a-49ef-be3a-64e5ca772e22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[87]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tbody.font-bodysmall.ng-untouched.ng-pristine.ng-valid.ng-star-inserted > tr.mat-row.ng-untouched.ng-pristine.ng-valid.ng-star-inserted > td.mat-cell.column-center > div.input-group > input.form-control.dark-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>73511d98-9ec5-447a-b081-d22a0bebc4d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1d4d3be2-c3da-44e4-a236-3bf23c63e49e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>employer</value>
+      <webElementGuid>9caff28b-e813-437e-b2e2-7cba91881af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>pension1 employer</value>
+      <webElementGuid>c1547d48-0963-4929-9d30-1a42ebdbac23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control dark-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>c082280e-5c98-45c1-9009-97d6697dc74c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>3d6662d7-6ffe-4ebc-abba-da95150ddcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[11]/div[1]/app-retirement-planning-details[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/fieldset[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-12&quot;]/table[@class=&quot;mat-table&quot;]/tbody[@class=&quot;font-bodysmall ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/tr[@class=&quot;mat-row ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/td[@class=&quot;mat-cell column-center&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control dark-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>b1e46682-de13-402e-acf1-adc66bd326b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[87]</value>
+      <webElementGuid>0fcee062-45be-43ae-9f32-86ef28253e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td[2]/div/input[2]</value>
+      <webElementGuid>5452e481-9c38-49a3-8d60-cb356b2ea41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>37e9754f-0a77-4725-a830-1f6a7e950c4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

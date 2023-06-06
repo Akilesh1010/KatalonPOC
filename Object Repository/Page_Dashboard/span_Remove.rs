@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remove</name>
+   <tag></tag>
+   <elementGuidId>94749ed0-2ba8-45d0-b635-04a1694849f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--white.button--icon-left.pl-m.ng-star-inserted > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='£'])[98]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f7b4458-4dbf-44a0-a06d-0705414c16b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remove</value>
+      <webElementGuid>2279c67f-f976-49b4-a7d4-e66c1a18a580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[8]/div[1]/app-five-point-health-check[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/fieldset[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/section[2]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-12 mr-l&quot;]/table[@class=&quot;mat-table ng-valid ng-dirty ng-touched&quot;]/tbody[1]/tr[@class=&quot;mat-row ng-valid ng-star-inserted ng-dirty ng-touched&quot;]/td[@class=&quot;mat-cell column-center&quot;]/div[@class=&quot;input-group&quot;]/button[@class=&quot;button button--white button--icon-left pl-m ng-star-inserted&quot;]/span[1]</value>
+      <webElementGuid>130ec44e-d753-4ad0-b489-8cb36f088486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£'])[98]/following::span[1]</value>
+      <webElementGuid>9aae84f1-772a-402f-aa44-7a34037381a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target date (Year)'])[1]/following::span[2]</value>
+      <webElementGuid>59284891-3764-4de7-a1e5-cc62dc4dff87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add spending plan'])[1]/preceding::span[1]</value>
+      <webElementGuid>570f9386-8530-4b66-8bf7-f05cfdef2129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>149790d0-60a8-4fad-be8c-652631c7ec39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remove']/parent::*</value>
+      <webElementGuid>e6e08385-c426-4456-9f30-6ba89a1c1a16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/button/span</value>
+      <webElementGuid>81a7ffb8-f61d-4708-a75a-738e583882dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Remove' or . = 'Remove')]</value>
+      <webElementGuid>4bc16296-e9dc-4135-9bba-f8de1a682150</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

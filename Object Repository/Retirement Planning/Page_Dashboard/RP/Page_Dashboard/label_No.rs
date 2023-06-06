@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_No</name>
+   <tag></tag>
+   <elementGuidId>957e94b5-f3a3-428a-b0b0-0502638a8158</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[21]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>64bd656b-8722-49e0-b6b6-6812b09e86b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>planToRetireGradually-no</value>
+      <webElementGuid>e90cb542-25d3-4a44-b644-e817357ec78b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-checkbox__label</value>
+      <webElementGuid>40d9f05b-0564-4972-a8a6-15d7b1f46ef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No</value>
+      <webElementGuid>4b344eba-e131-4536-8a2d-5aea908fc3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[11]/div[1]/app-retirement-planning-details[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-untouched ng-invalid ng-dirty&quot;]/fieldset[1]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-8 mr-l&quot;]/div[@class=&quot;form-checkbox&quot;]/label[@class=&quot;form-checkbox__label&quot;]</value>
+      <webElementGuid>01b790f6-53cd-4fbd-bb11-c2f2825c41f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[21]/following::label[1]</value>
+      <webElementGuid>141a1f20-4605-41f0-8d98-4abc3bf73b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you plan to retire gradually?'])[2]/following::label[2]</value>
+      <webElementGuid>8f7e3f51-99da-43b3-b79c-63babdf5db89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unsure'])[5]/preceding::label[1]</value>
+      <webElementGuid>cb0471a4-8dc9-40df-9099-d1bb3fdc694d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target annual expenditure'])[2]/preceding::label[2]</value>
+      <webElementGuid>b03187de-a9e7-4a31-86a5-27c615b32e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab[11]/div/app-retirement-planning-details/div[2]/form/fieldset/div[2]/div[2]/div/div/label[2]</value>
+      <webElementGuid>15225354-47e2-42ca-84e0-ddd431343b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'No' or . = 'No')]</value>
+      <webElementGuid>28dbea6f-ff67-4b73-bd11-a48ea60cace9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_When_form-control ng-untouched ng-_6b330d</name>
+   <tag></tag>
+   <elementGuidId>5a14784a-b80d-410f-8863-a62c72d36c03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-tab[11]/div/app-retirement-planning-details/div[2]/form/fieldset[2]/div[4]/div[2]/div/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.form-control.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>f3e5fa6d-3cf9-49bd-a0fb-f2510730bfe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>b0fab01d-59e9-41af-ae9f-09745e2c960e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>oneOffSpendingPlans</value>
+      <webElementGuid>5df6e9b8-ead8-4334-b395-eb4bd8609b11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>e9837650-1d1b-4071-aeee-09086821f823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>5834cac1-d6a3-4a7f-a00e-2e13fa41c52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[11]/div[1]/app-retirement-planning-details[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/fieldset[2]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-10 mr-l&quot;]/textarea[@class=&quot;form-control ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>239dfd28-09fa-4c0c-a9d6-f5a932e3e7be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-tab[11]/div/app-retirement-planning-details/div[2]/form/fieldset[2]/div[4]/div[2]/div/textarea</value>
+      <webElementGuid>0b6e65b6-8a09-47c7-8dd4-397bc91356d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

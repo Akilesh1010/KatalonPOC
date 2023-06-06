@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Please selectFull-Time EmployedPart-_fbbedb</name>
+   <tag></tag>
+   <elementGuidId>78e40a15-36a1-416d-9c62-485798317a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='client1-employment-type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#client1-employment-type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9cf029a3-ccb0-41ad-8ee4-240499b12215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>32ea205a-5d5e-4db4-82b1-0cfebfb12f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>client1-employment-type</value>
+      <webElementGuid>c96acbc7-c291-4c18-8a55-abf119e8a2b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>ca7971ea-cdee-40f6-98ea-87b04d329c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please selectFull-Time EmployedPart-Time EmployedTemporary/Casual workerSelf EmployedRetiredOther</value>
+      <webElementGuid>3c9b6a5f-0c19-4550-89be-b5f70ea12e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;client1-employment-type&quot;)</value>
+      <webElementGuid>102b9a98-e2f9-41ae-8574-9bfdc459759a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='client1-employment-type']</value>
+      <webElementGuid>fa003462-7889-48de-b113-6c8ad1986519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment type'])[1]/following::select[1]</value>
+      <webElementGuid>35f182e5-f276-4210-89d9-b406533d19dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment status'])[1]/following::select[1]</value>
+      <webElementGuid>88047e4f-c7b1-46f5-b663-c51bad94c749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial experience'])[1]/preceding::select[1]</value>
+      <webElementGuid>929b5c9d-fb28-43cc-acb4-1e33acfecc1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approximate stock market investment experience'])[1]/preceding::select[1]</value>
+      <webElementGuid>db68a50b-3317-4ca5-9a67-7588a215ea7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-employment-type/div/select</value>
+      <webElementGuid>2068e951-0b1f-4edb-b59a-ee0aa573a70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'client1-employment-type' and (text() = 'Please selectFull-Time EmployedPart-Time EmployedTemporary/Casual workerSelf EmployedRetiredOther' or . = 'Please selectFull-Time EmployedPart-Time EmployedTemporary/Casual workerSelf EmployedRetiredOther')]</value>
+      <webElementGuid>465565e9-a0b2-4775-b778-9b76875fcfad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Disagree</name>
+   <tag></tag>
+   <elementGuidId>9b1a132e-23b8-47b0-b923-089ae62265b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Strongly disagree'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>577daab1-5738-4089-b7ae-a971e62f23f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-checkbox ng-star-inserted</value>
+      <webElementGuid>c3c7613d-b141-4926-87b8-4e12734dd93b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Disagree</value>
+      <webElementGuid>46010338-f88a-440b-961d-f4650c810e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[4]/div[1]/app-risk-questions[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;row pl-l pb-m ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;col-10&quot;]/app-dynamic-questionnaire[1]/div[@class=&quot;ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;form-group ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;form-checkbox ng-star-inserted&quot;]</value>
+      <webElementGuid>6814825a-99c6-4952-8c9c-b1e8a69a895b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Strongly disagree'])[1]/following::div[1]</value>
+      <webElementGuid>b27465a2-aac5-4b0d-ab98-524d3129d8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To achieve financial success, I would take financial risks'])[1]/following::div[2]</value>
+      <webElementGuid>7f354677-c72c-4c5f-90e6-eae26b7f2fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neither agree nor disagree'])[1]/preceding::div[1]</value>
+      <webElementGuid>4cfe1092-5c61-4789-8177-0de4f5f9c20f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-dynamic-questionnaire/div/div/div[2]</value>
+      <webElementGuid>5a510072-6b7b-465d-a470-c7ece0f9f608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Disagree' or . = 'Disagree')]</value>
+      <webElementGuid>7e41bfff-9545-4097-bcbb-ace8d80d148d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
