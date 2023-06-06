@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7418008e-6867-4b18-a7c4-418fb0c5f0ad</webElementGuid>
+      <webElementGuid>b8972abc-1217-4b24-81a9-7b82114b2c70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-employed-business-nature</value>
-      <webElementGuid>e3193ae9-7509-4f4d-9afb-a9b5f724fc0f</webElementGuid>
+      <webElementGuid>aab727c3-8e3d-4380-8cc5-ad1a175de563</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3a13e32f-e03d-4b26-838c-6a9fc969916e</webElementGuid>
+      <webElementGuid>312f2fef-4df6-4b3f-8734-9925e9efe7b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>natureOfBusiness</value>
-      <webElementGuid>11160768-482c-4bc9-97a5-528e4750a6b5</webElementGuid>
+      <webElementGuid>5168bff4-13cc-482d-9062-06cc598bcbca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>6bc19a3d-43a1-4219-b742-3bb137a879dd</webElementGuid>
+      <webElementGuid>34d4436c-7d88-41fe-af48-7f58b150debd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>570d8a1f-43c0-4f8c-a336-b7b58bbc0d93</webElementGuid>
+      <webElementGuid>365a5e82-dc0d-452a-9adc-b23790c7cb76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-employed-business-nature&quot;)</value>
-      <webElementGuid>7abb39a2-208f-43ee-9645-17b7742ef5b8</webElementGuid>
+      <webElementGuid>8fc1b454-8cc9-489a-b5de-5063baaf38d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1-employed-business-nature']</value>
-      <webElementGuid>009ebb6a-9a71-4c3a-b5f0-bd729beee22e</webElementGuid>
+      <webElementGuid>0952431e-e29d-46ca-b936-fc2743d59d5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[7]/div/div/div[4]/input</value>
-      <webElementGuid>09320b7f-66fb-41a0-84cb-dabac12adc7e</webElementGuid>
+      <webElementGuid>ee00a350-3a9a-4875-bbd5-787e6067f8a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'client1-employed-business-nature' and @type = 'text']</value>
-      <webElementGuid>0e0e9f3d-b43e-4842-9314-c6a1e8831136</webElementGuid>
+      <webElementGuid>320c91ef-ca51-44d9-b2f9-2df17eee0a81</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

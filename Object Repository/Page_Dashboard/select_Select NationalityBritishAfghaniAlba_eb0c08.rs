@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>fe972c32-46f3-40a1-964e-8220169c60a7</webElementGuid>
+      <webElementGuid>1e28cb1b-bb4a-47ae-a422-cdae5b9532d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-nat</value>
-      <webElementGuid>f1b7b16f-f737-49f9-8d6d-9b620e27d023</webElementGuid>
+      <webElementGuid>802a79cd-ac3b-4e1a-b679-9c50de4c8649</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>nationality</value>
-      <webElementGuid>879d0764-7509-467a-9da4-dd845f9d2a22</webElementGuid>
+      <webElementGuid>38e77f2f-7a8e-4fc9-accc-82ddbc0cffb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>4b36620c-22fc-44ba-9228-5e9b4e9b4433</webElementGuid>
+      <webElementGuid>a0233bc4-c0f6-4814-a76b-a4f4fae923f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0f790cb4-ef81-4d05-b16a-047bdf8ca387</webElementGuid>
+      <webElementGuid>6f690245-787a-44ff-a947-dedfb0f00a58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select NationalityBritishAfghaniAlbanianAlgerianAmericanAmerican (Minor Outlying Islands)American SamoanAndorranAngolanAnguillanAntarcticanAntiguans/BarbudansArgentineanArmenianArubanAustralianAustralian (Heard Island and Mcdonald Islands)AustrianAzerbaijaniBahamian BahrainiBajianBangladeshiBelarusianBelgianBelizeanBenineseBermudanBhutaneseBolivianBonaire, Saint Eustatius and SabaBosnianBouvet IslanderBrazilianBritish (Indian Ocean Territory)British (Saint Helena, Ascension and Tristan Da Cuna)British (Virgin Islands)BruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCaymanianCcocs IslanderCentral AfricanChadianChileanChineseChristmas IslandersColombianComoriansCongoleseCongoleseCook IslandersCosta RicanCroatian CubanCuracaoCypriotCzechDanishDjiboutiDominicanDominican (Dominica)DutchDutch (Saint Martin)Dutch AntilleanEast TimoreseEcuadoreanEgyptianEmiratiEquatoguineanEritreanEstonianEthiopianFalkland IslanderFaroe IslandersFijianFinishFrenchFrench (Saint Barthelemy)French (Saint Martin)French (Saint Pierre and Miquelon)French (southern Territories)French GuianeseFrench PolynesianGaboneseGambianGeorgianGermanGhanaianGibraltarianGreekGreenlandersGrenadian GuadeloupianGuamanianGuatemalanGuernseymen Guinea-BissauanGuineanGuyaneseHaitianHonduranHong Kong ChineseHungarianIcelandicI-KiribatiIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJersey IslanderJordanianKazakhstaniKenyanKittitian/NevisianKoreanKuwaitiKyrgyz LaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgersMacao ChineseMacedonianMahoranMalagasyMalawianMalaysianMaldivianMalianMalteseManxMarshalleseMartiniquaisMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMontserratianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew CaledonianNew ZealanderNicaraguanNigerianNigerienNiueanNi-VanuatuNorfolk IslanderNorth KoreanNorthern Mariana IslanderNorwegianOmaniPakistaniPalauanPalestinianPanamanianPapua New GuineanParaguayanPeruvianPhillipinoPitcairn IslandersPolishPortuguesePuerto RicanQatariReunioneseRomanianRussianRwandanSaint LucianSaint VincentianSalvadoranSammarineseSamoanSao Tome and Principe IslandersSaudi ArabianSenegaleseSerbian SeychelloisSierra LeoneanSingaporeanSlovakian Slovenian Solomon IslanderSomaliSouth AfricanSouth Georgia and South Sandwich IslandersSpanishSri LankanSudaneseSurinamese Svalbard and Jan Mayen IslandersSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTokelauansTonganTrinidadianTunisianTurkishTurkmenTurks and Caicos IslanderTuvaluanUgandanUkrainianUruguayanUS Virgin IslanderUzbekVatican CityVenezuelanVietnameseWallis and Futuna IslandersWestern SaharanYemeni ZambianZimbabwean</value>
-      <webElementGuid>05fda6e4-761f-460a-b83b-09791e6e6ab5</webElementGuid>
+      <webElementGuid>4580e338-6279-4aa1-b320-cc760dda700a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-nat&quot;)</value>
-      <webElementGuid>f6c886e6-0e85-4735-b619-90c68442b06f</webElementGuid>
+      <webElementGuid>196ca472-c3f9-49ed-8912-d824b83a2e39</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='client1-nat']</value>
-      <webElementGuid>0a7b639e-0a94-4bf7-becd-f3ffc8b46ca5</webElementGuid>
+      <webElementGuid>adacb288-d24c-4c38-ad9a-88a6444083a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality'])[1]/following::select[1]</value>
-      <webElementGuid>240c1cd4-dc7a-4432-b3ab-efaf1d31a268</webElementGuid>
+      <webElementGuid>97db77ae-e2b3-4b9d-a7d4-b1a3f6326502</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nationality/ Personal Identifier/s'])[1]/following::select[1]</value>
-      <webElementGuid>14becbe9-fb55-4bc3-ac04-f3ce14983c93</webElementGuid>
+      <webElementGuid>d2a417a8-0ed4-4e79-9446-40fb946b59eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax residency'])[1]/preceding::select[1]</value>
-      <webElementGuid>3fa92b4f-c91e-4b28-a873-1502b35c4d1b</webElementGuid>
+      <webElementGuid>35de54eb-2b69-4baf-a082-2d146a001178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='First country of tax residency'])[1]/preceding::select[1]</value>
-      <webElementGuid>5f9a54a2-2b3c-4e2f-9cb5-22674eafe93d</webElementGuid>
+      <webElementGuid>091d2c7b-e1cf-4bdc-918b-51e8b0322732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[2]/div/div/select</value>
-      <webElementGuid>aa625ee6-b012-4b56-8036-730d3b4733c0</webElementGuid>
+      <webElementGuid>f989c834-389d-484b-85e2-2335cddafe5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'client1-nat' and (text() = 'Select NationalityBritishAfghaniAlbanianAlgerianAmericanAmerican (Minor Outlying Islands)American SamoanAndorranAngolanAnguillanAntarcticanAntiguans/BarbudansArgentineanArmenianArubanAustralianAustralian (Heard Island and Mcdonald Islands)AustrianAzerbaijaniBahamian BahrainiBajianBangladeshiBelarusianBelgianBelizeanBenineseBermudanBhutaneseBolivianBonaire, Saint Eustatius and SabaBosnianBouvet IslanderBrazilianBritish (Indian Ocean Territory)British (Saint Helena, Ascension and Tristan Da Cuna)British (Virgin Islands)BruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCaymanianCcocs IslanderCentral AfricanChadianChileanChineseChristmas IslandersColombianComoriansCongoleseCongoleseCook IslandersCosta RicanCroatian CubanCuracaoCypriotCzechDanishDjiboutiDominicanDominican (Dominica)DutchDutch (Saint Martin)Dutch AntilleanEast TimoreseEcuadoreanEgyptianEmiratiEquatoguineanEritreanEstonianEthiopianFalkland IslanderFaroe IslandersFijianFinishFrenchFrench (Saint Barthelemy)French (Saint Martin)French (Saint Pierre and Miquelon)French (southern Territories)French GuianeseFrench PolynesianGaboneseGambianGeorgianGermanGhanaianGibraltarianGreekGreenlandersGrenadian GuadeloupianGuamanianGuatemalanGuernseymen Guinea-BissauanGuineanGuyaneseHaitianHonduranHong Kong ChineseHungarianIcelandicI-KiribatiIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJersey IslanderJordanianKazakhstaniKenyanKittitian/NevisianKoreanKuwaitiKyrgyz LaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgersMacao ChineseMacedonianMahoranMalagasyMalawianMalaysianMaldivianMalianMalteseManxMarshalleseMartiniquaisMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMontserratianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew CaledonianNew ZealanderNicaraguanNigerianNigerienNiueanNi-VanuatuNorfolk IslanderNorth KoreanNorthern Mariana IslanderNorwegianOmaniPakistaniPalauanPalestinianPanamanianPapua New GuineanParaguayanPeruvianPhillipinoPitcairn IslandersPolishPortuguesePuerto RicanQatariReunioneseRomanianRussianRwandanSaint LucianSaint VincentianSalvadoranSammarineseSamoanSao Tome and Principe IslandersSaudi ArabianSenegaleseSerbian SeychelloisSierra LeoneanSingaporeanSlovakian Slovenian Solomon IslanderSomaliSouth AfricanSouth Georgia and South Sandwich IslandersSpanishSri LankanSudaneseSurinamese Svalbard and Jan Mayen IslandersSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTokelauansTonganTrinidadianTunisianTurkishTurkmenTurks and Caicos IslanderTuvaluanUgandanUkrainianUruguayanUS Virgin IslanderUzbekVatican CityVenezuelanVietnameseWallis and Futuna IslandersWestern SaharanYemeni ZambianZimbabwean' or . = 'Select NationalityBritishAfghaniAlbanianAlgerianAmericanAmerican (Minor Outlying Islands)American SamoanAndorranAngolanAnguillanAntarcticanAntiguans/BarbudansArgentineanArmenianArubanAustralianAustralian (Heard Island and Mcdonald Islands)AustrianAzerbaijaniBahamian BahrainiBajianBangladeshiBelarusianBelgianBelizeanBenineseBermudanBhutaneseBolivianBonaire, Saint Eustatius and SabaBosnianBouvet IslanderBrazilianBritish (Indian Ocean Territory)British (Saint Helena, Ascension and Tristan Da Cuna)British (Virgin Islands)BruneianBulgarianBurkinabeBurmeseBurundianCambodianCameroonianCanadianCape VerdeanCaymanianCcocs IslanderCentral AfricanChadianChileanChineseChristmas IslandersColombianComoriansCongoleseCongoleseCook IslandersCosta RicanCroatian CubanCuracaoCypriotCzechDanishDjiboutiDominicanDominican (Dominica)DutchDutch (Saint Martin)Dutch AntilleanEast TimoreseEcuadoreanEgyptianEmiratiEquatoguineanEritreanEstonianEthiopianFalkland IslanderFaroe IslandersFijianFinishFrenchFrench (Saint Barthelemy)French (Saint Martin)French (Saint Pierre and Miquelon)French (southern Territories)French GuianeseFrench PolynesianGaboneseGambianGeorgianGermanGhanaianGibraltarianGreekGreenlandersGrenadian GuadeloupianGuamanianGuatemalanGuernseymen Guinea-BissauanGuineanGuyaneseHaitianHonduranHong Kong ChineseHungarianIcelandicI-KiribatiIndianIndonesianIranianIraqiIrishIsraeliItalianIvorianJamaicanJapaneseJersey IslanderJordanianKazakhstaniKenyanKittitian/NevisianKoreanKuwaitiKyrgyz LaotianLatvianLebaneseLiberianLibyanLiechtensteinerLithuanianLuxembourgersMacao ChineseMacedonianMahoranMalagasyMalawianMalaysianMaldivianMalianMalteseManxMarshalleseMartiniquaisMauritanianMauritianMexicanMicronesianMoldovanMonacanMongolianMontserratianMoroccanMosothoMotswanaMozambicanNamibianNauruanNepaleseNew CaledonianNew ZealanderNicaraguanNigerianNigerienNiueanNi-VanuatuNorfolk IslanderNorth KoreanNorthern Mariana IslanderNorwegianOmaniPakistaniPalauanPalestinianPanamanianPapua New GuineanParaguayanPeruvianPhillipinoPitcairn IslandersPolishPortuguesePuerto RicanQatariReunioneseRomanianRussianRwandanSaint LucianSaint VincentianSalvadoranSammarineseSamoanSao Tome and Principe IslandersSaudi ArabianSenegaleseSerbian SeychelloisSierra LeoneanSingaporeanSlovakian Slovenian Solomon IslanderSomaliSouth AfricanSouth Georgia and South Sandwich IslandersSpanishSri LankanSudaneseSurinamese Svalbard and Jan Mayen IslandersSwaziSwedishSwissSyrianTaiwaneseTajikTanzanianThaiTogoleseTokelauansTonganTrinidadianTunisianTurkishTurkmenTurks and Caicos IslanderTuvaluanUgandanUkrainianUruguayanUS Virgin IslanderUzbekVatican CityVenezuelanVietnameseWallis and Futuna IslandersWestern SaharanYemeni ZambianZimbabwean')]</value>
-      <webElementGuid>2b18b812-135c-48dc-8f32-8a26e4063b97</webElementGuid>
+      <webElementGuid>f3f8bba4-84f8-4570-8f5c-cb04fe8aca14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

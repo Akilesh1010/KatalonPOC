@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>4cdc6512-5275-4a22-acfd-ecce699d536e</webElementGuid>
+      <webElementGuid>eb79e339-3fdc-4150-a145-6ee533cacc95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-employed-country-incorp</value>
-      <webElementGuid>738e56be-040c-48b2-b05b-dd01d8b38678</webElementGuid>
+      <webElementGuid>7b1dfe4b-1d5f-471c-b528-5944ecc77628</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>countryOfIncorporation</value>
-      <webElementGuid>5d81d023-9cdd-4895-af73-718285d1c5fd</webElementGuid>
+      <webElementGuid>3149f2b5-a480-4a1f-98c3-60fe4ca7c002</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>53690f54-c256-4a3a-98da-3299bda198b7</webElementGuid>
+      <webElementGuid>981a5b5b-8161-48f2-ad59-6667e07f4001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2fee2167-dc98-4202-a041-423c7a397542</webElementGuid>
+      <webElementGuid>494247bc-9bd2-45e2-861c-4e55fa8066b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please selectUnited KingdomAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAscension And Tristan Da Cunha Saint HelenaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivarian Republic Of VenezuelaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D'IvoireCroatiaCubaCuracaoCyprusCzech RepublicDemocratic People's Republic Of KoreaDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFederated States Of MicronesiaFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island And Mcdonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIraqIrelandIslamic Republic Of IranIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMonacoMongoliaMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOccupied Palestinian TerritoryOmanPakistanPalauPanamaPapua New GuineaParaguayPeople's Democratic Republic LaoPeruPhilippinesPitcairnPlurinational State Of BoliviaPolandPortugalProvince Of China TaiwanPuerto RicoQatarRepublic Of KoreaRepublic Of MoldovaReunionRomaniaRussian FederationRwandaSaint BarthelemySaint Eustatius And Saba BonaireSaint Kitts And NevisSaint LuciaSaint Martin (Dutch Part)Saint Martin (French Part)Saint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbia And MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTajikistanThailandThe Democratic Republic Of The CongoThe Former Yugoslav Republic Of MacedoniaTogoTokelauTongaTrinidad And TobagoTunisiaTurkeyTurkmenistanTurks And Caicos IslandsTuvaluU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited Republic Of TanzaniaUnited States Minor Outlying IslandsUnited States of AmericaUruguayUzbekistanVanuatuVatican City State (Holy See)Viet NamWallis And FutunaWestern SaharaYemenZambiaZimbabwe</value>
-      <webElementGuid>070a74a0-6469-4aa0-be52-08b8f8514e9f</webElementGuid>
+      <webElementGuid>a0a75985-030c-4212-b305-9b374f8314be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-employed-country-incorp&quot;)</value>
-      <webElementGuid>eb166b3f-8080-4cad-8e55-f95bb42ebab5</webElementGuid>
+      <webElementGuid>56634ba1-cd9c-430e-b416-df6394715834</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='client1-employed-country-incorp']</value>
-      <webElementGuid>36aaed02-47c7-4a0c-9c41-f355efe4917e</webElementGuid>
+      <webElementGuid>18f13feb-644b-4500-adba-72955ce424c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country of incorporation'])[1]/following::select[1]</value>
-      <webElementGuid>77595d4c-45c9-41df-b221-0f1977ca84aa</webElementGuid>
+      <webElementGuid>1bbfa33f-96fe-4462-805a-a780580f708e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nature of business/ employment'])[1]/following::select[1]</value>
-      <webElementGuid>8b5d98e4-dd9c-4fe3-9630-b2c68b255969</webElementGuid>
+      <webElementGuid>e0ea3861-9539-40dc-8e86-d61289a07ab0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial experience'])[1]/preceding::select[1]</value>
-      <webElementGuid>e3740851-26cd-4479-a5dd-9a0d13aff688</webElementGuid>
+      <webElementGuid>ad80f3d5-4cf4-4d69-ab9c-04352e599cac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Approximate stock market investment experience'])[1]/preceding::select[1]</value>
-      <webElementGuid>3c00a4d3-7814-4263-8d9e-94e9c07eb574</webElementGuid>
+      <webElementGuid>636866e3-812c-4843-ae6d-39cf0633c63b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/select</value>
-      <webElementGuid>ee626b2a-0b88-4c55-9a26-a251a569feee</webElementGuid>
+      <webElementGuid>93322777-8666-4954-bb65-943d66fe6cac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'client1-employed-country-incorp' and (text() = concat(&quot;Please selectUnited KingdomAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAscension And Tristan Da Cunha Saint HelenaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivarian Republic Of VenezuelaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D&quot; , &quot;'&quot; , &quot;IvoireCroatiaCubaCuracaoCyprusCzech RepublicDemocratic People&quot; , &quot;'&quot; , &quot;s Republic Of KoreaDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFederated States Of MicronesiaFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island And Mcdonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIraqIrelandIslamic Republic Of IranIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMonacoMongoliaMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOccupied Palestinian TerritoryOmanPakistanPalauPanamaPapua New GuineaParaguayPeople&quot; , &quot;'&quot; , &quot;s Democratic Republic LaoPeruPhilippinesPitcairnPlurinational State Of BoliviaPolandPortugalProvince Of China TaiwanPuerto RicoQatarRepublic Of KoreaRepublic Of MoldovaReunionRomaniaRussian FederationRwandaSaint BarthelemySaint Eustatius And Saba BonaireSaint Kitts And NevisSaint LuciaSaint Martin (Dutch Part)Saint Martin (French Part)Saint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbia And MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTajikistanThailandThe Democratic Republic Of The CongoThe Former Yugoslav Republic Of MacedoniaTogoTokelauTongaTrinidad And TobagoTunisiaTurkeyTurkmenistanTurks And Caicos IslandsTuvaluU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited Republic Of TanzaniaUnited States Minor Outlying IslandsUnited States of AmericaUruguayUzbekistanVanuatuVatican City State (Holy See)Viet NamWallis And FutunaWestern SaharaYemenZambiaZimbabwe&quot;) or . = concat(&quot;Please selectUnited KingdomAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua And BarbudaArgentinaArmeniaArubaAscension And Tristan Da Cunha Saint HelenaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivarian Republic Of VenezuelaBosnia And HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCote D&quot; , &quot;'&quot; , &quot;IvoireCroatiaCubaCuracaoCyprusCzech RepublicDemocratic People&quot; , &quot;'&quot; , &quot;s Republic Of KoreaDenmarkDjiboutiDominicaDominican RepublicEast TimorEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEthiopiaFalkland Islands (Malvinas)Faroe IslandsFederated States Of MicronesiaFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island And Mcdonald IslandsHondurasHong KongHungaryIcelandIndiaIndonesiaIraqIrelandIslamic Republic Of IranIsle Of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLatviaLebanonLesothoLiberiaLibyan Arab JamahiriyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMonacoMongoliaMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNetherlands AntillesNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorwayOccupied Palestinian TerritoryOmanPakistanPalauPanamaPapua New GuineaParaguayPeople&quot; , &quot;'&quot; , &quot;s Democratic Republic LaoPeruPhilippinesPitcairnPlurinational State Of BoliviaPolandPortugalProvince Of China TaiwanPuerto RicoQatarRepublic Of KoreaRepublic Of MoldovaReunionRomaniaRussian FederationRwandaSaint BarthelemySaint Eustatius And Saba BonaireSaint Kitts And NevisSaint LuciaSaint Martin (Dutch Part)Saint Martin (French Part)Saint Pierre And MiquelonSaint Vincent And The GrenadinesSamoaSan MarinoSao Tome And PrincipeSaudi ArabiaSenegalSerbia And MontenegroSeychellesSierra LeoneSingaporeSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia And The South Sandwich IslandsSpainSri LankaSudanSurinameSvalbard And Jan MayenSwazilandSwedenSwitzerlandSyrian Arab RepublicTajikistanThailandThe Democratic Republic Of The CongoThe Former Yugoslav Republic Of MacedoniaTogoTokelauTongaTrinidad And TobagoTunisiaTurkeyTurkmenistanTurks And Caicos IslandsTuvaluU.S. Virgin IslandsUgandaUkraineUnited Arab EmiratesUnited Republic Of TanzaniaUnited States Minor Outlying IslandsUnited States of AmericaUruguayUzbekistanVanuatuVatican City State (Holy See)Viet NamWallis And FutunaWestern SaharaYemenZambiaZimbabwe&quot;))]</value>
-      <webElementGuid>01b6a96a-4967-45bc-a728-bf058316b4e1</webElementGuid>
+      <webElementGuid>d3833495-464d-4ae6-b7b8-88fafba378d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

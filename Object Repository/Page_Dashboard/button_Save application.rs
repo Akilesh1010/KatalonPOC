@@ -6,12 +6,16 @@
    <elementGuidId>fa31a216-40e9-484a-9133-3821f7d2eb96</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to top'])[6]/following::button[1]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>app-five-point-health-check > div.row > div.bg-tint-heritage-navy.col-12.row.btrr-xs > div.col-4.p-m.pr-l > button.button.button--navy-tint.float-right.ng-star-inserted</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Five Point Health Check'])[2]/following::button[1]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Save application' or . = 'Save application')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6d7038b7-2922-48bd-a57c-f9bf31783682</webElementGuid>
+      <webElementGuid>276655b7-60a7-4e3b-bbd0-b327edb06889</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button--navy-tint float-right ng-star-inserted</value>
-      <webElementGuid>26d51a6d-6e52-4ce8-8d33-ec05470a5d1d</webElementGuid>
+      <webElementGuid>6ac0ea4a-f132-4d3f-8721-d8f69e616390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save application</value>
-      <webElementGuid>a0ac8473-4f7b-4c76-8dfb-2f030e2233ad</webElementGuid>
+      <webElementGuid>3ae4b266-2d83-4cbb-9c9b-9ea9f40e7462</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[8]/div[1]/app-five-point-health-check[1]/div[@class=&quot;row&quot;]/div[@class=&quot;bg-tint-heritage-navy col-12 row btrr-xs&quot;]/div[@class=&quot;col-4 p-m pr-l&quot;]/button[@class=&quot;button button--navy-tint float-right ng-star-inserted&quot;]</value>
-      <webElementGuid>d4c849cb-9f92-49b9-b6af-9d77b33a933f</webElementGuid>
+      <webElementGuid>c68596b4-b404-4903-bbf7-9439c854931e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Five Point Health Check'])[2]/following::button[1]</value>
-      <webElementGuid>bdff9626-dc4f-403b-ade9-e9ffef96256a</webElementGuid>
+      <webElementGuid>d8976007-a3cf-4a4d-837c-38ee798a87ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +66,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to top'])[6]/following::button[1]</value>
-      <webElementGuid>dbe48b5d-8912-4153-9cc6-2e9b13fb5e3b</webElementGuid>
+      <webElementGuid>d7dddc72-a7bd-4e07-b8be-dbd4f75dfd71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client 1'])[14]/preceding::button[1]</value>
-      <webElementGuid>5f1ef49f-045f-4054-9047-4f4de1399d88</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client 1'])[2]/preceding::button[1]</value>
+      <webElementGuid>5ec9a13e-171f-4368-9ccc-0adc11d64c5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-five-point-health-check/div/div/div/button</value>
-      <webElementGuid>364898f7-6d1d-4f16-85ae-6d91b2fe79ad</webElementGuid>
+      <webElementGuid>27979afa-7d83-4055-aa67-6b2dba4ba7d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Save application' or . = 'Save application')]</value>
-      <webElementGuid>e8ee663f-ea81-4cf3-a4cb-065b8c950879</webElementGuid>
+      <webElementGuid>02f39fa3-6db6-4100-80ec-98c28f27a1a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client 1'])[14]/preceding::button[1]</value>
+      <webElementGuid>d30d8f3a-56f3-4d7a-a1f3-7f2732b3064c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

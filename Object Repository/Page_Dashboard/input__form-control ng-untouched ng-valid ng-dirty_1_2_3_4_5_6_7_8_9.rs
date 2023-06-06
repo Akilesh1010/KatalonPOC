@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='number'])[10]</value>
+         <value>(//input[@type='number'])[11]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>34fa1146-c4a8-4030-92a0-7c04fb7ea293</webElementGuid>
+      <webElementGuid>8faf0a70-5715-49a7-adff-d2f31b047361</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>5e3fcb6c-f1ce-467c-a3b3-a86b2f889c6e</webElementGuid>
+      <webElementGuid>62f2fc1a-b550-4c14-92cc-10a49f6f34e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
       <value>0.00</value>
-      <webElementGuid>9c923f00-203b-4a4f-871f-12aef7e4b64e</webElementGuid>
+      <webElementGuid>676d65d9-1dc7-4762-bb91-f7f1eae4118a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>pensionFundsAddWithdraw client1Name</value>
-      <webElementGuid>e3978370-de32-4f12-930d-6d3727528a2f</webElementGuid>
+      <webElementGuid>6ff3d343-ea1f-40cf-9082-6ae1b5d98908</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
       <value>pensionFundsAddWithdraw</value>
-      <webElementGuid>816dbdd2-8568-4638-bfa1-b6344c05f332</webElementGuid>
+      <webElementGuid>90a711f0-d6c2-4c1c-b35d-286eb20792d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>c759de95-1435-4d92-b43e-61ae10c5d04a</webElementGuid>
+      <webElementGuid>ee9c28d4-b7c8-41bc-8eb4-f5c6f7dfae70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>682d7767-767c-4850-8d78-b39691d23b88</webElementGuid>
+      <webElementGuid>aa09b24f-f3e0-46d7-9534-ec78b39122e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[6]/div[1]/app-financial-details[1]/div[@class=&quot;container p-0 bg-white&quot;]/form[@class=&quot;individualApplication ng-valid ng-dirty ng-touched&quot;]/fieldset[2]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-4 mr-l&quot;]/div[@class=&quot;input-group mt-m ng-touched ng-dirty ng-valid ng-star-inserted&quot;]/input[@class=&quot;form-control ng-untouched ng-valid ng-dirty&quot;]</value>
-      <webElementGuid>1586c5ae-ae9c-48ae-91af-327ac750d005</webElementGuid>
+      <webElementGuid>185345c6-a40c-4aae-8c51-c95a55e36541</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='number'])[10]</value>
-      <webElementGuid>215bee78-3181-462d-9b2b-351be4ef41d2</webElementGuid>
+      <value>(//input[@type='number'])[11]</value>
+      <webElementGuid>7416f3de-382a-4850-a7fe-cd3beea6f4c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/div/div[2]/input</value>
-      <webElementGuid>7277c53f-d1dd-4d59-b1eb-1923ee946700</webElementGuid>
+      <webElementGuid>c9279ae0-f424-498b-a4d2-80eec6dbc6c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @placeholder = '0.00']</value>
-      <webElementGuid>984f3929-65d9-4a6c-97b0-3202fc40bc30</webElementGuid>
+      <webElementGuid>e6a744b4-be38-4e32-9e79-fb777d3fa424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='number'])[10]</value>
+      <webElementGuid>215bee78-3181-462d-9b2b-351be4ef41d2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,10 +11,10 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[(text() = 'Save changes' or . = 'Save changes')]</value>
+         <value>//div[@id='publish-settings-overlay']/app-publish-settings/div/div/div/div/div/button</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4b706be6-a273-4a67-b8b1-edbcbd1182c2</webElementGuid>
+      <webElementGuid>5b40c4f7-a12d-4ba2-9297-8d411a07e11a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button ng-star-inserted</value>
-      <webElementGuid>e06fc753-e105-4431-817c-238dab14d366</webElementGuid>
+      <webElementGuid>de3859df-d52d-4af9-a244-3201ef77071c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Save changes</value>
-      <webElementGuid>4e8d8a1f-4802-4d59-9292-74a3141e1f49</webElementGuid>
+      <webElementGuid>94bac158-4062-4ad2-a87d-3bd906572ee8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;publish-settings-overlay&quot;)/app-publish-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;container pt-xl pb-xl mb-xxl&quot;]/div[@class=&quot;row mb-xl&quot;]/div[@class=&quot;col-5&quot;]/div[@class=&quot;float-right&quot;]/button[@class=&quot;button ng-star-inserted&quot;]</value>
-      <webElementGuid>9bbb9709-7ed6-4f14-8878-517a2c512f9b</webElementGuid>
+      <webElementGuid>aa8c5bbd-1ff4-4d0a-afe0-9964f0d20bb7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='publish-settings-overlay']/app-publish-settings/div/div/div/div/div/button</value>
-      <webElementGuid>305435a3-d009-424e-a8b6-5ecaee334cc7</webElementGuid>
+      <webElementGuid>7a4ddd5c-6628-46c1-ba59-e8744da93219</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Publish Settings'])[1]/following::button[1]</value>
-      <webElementGuid>80c9e6ee-e75e-4ff9-87ee-b44dd9554421</webElementGuid>
+      <webElementGuid>e735692d-f760-47b3-9cf5-9c145d396ab7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Documents'])[1]/following::button[1]</value>
-      <webElementGuid>8d945389-18b3-4e49-acc8-37e518264a08</webElementGuid>
+      <webElementGuid>b32876b4-fa31-4ec0-970e-9ed553ba0c73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Close, don', &quot;'&quot;, 't save')])[1]/preceding::button[1]</value>
-      <webElementGuid>b87d9db5-141d-4d8e-aeaf-bddf6ad4d2ce</webElementGuid>
+      <webElementGuid>47799637-8a9a-4b63-8547-472b64845f0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Application sections'])[1]/preceding::button[2]</value>
-      <webElementGuid>d50f42e0-20f1-4276-b3e2-489082bdf22c</webElementGuid>
+      <webElementGuid>9ed7cd54-3d61-45ff-9fbb-a1d4801d745c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save changes']/parent::*</value>
-      <webElementGuid>a9ca2d34-3e19-4c06-b107-75102aed8930</webElementGuid>
+      <webElementGuid>0596224f-5dca-41d5-a0b1-5589350ac764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div/button</value>
-      <webElementGuid>31ba6de2-1b0d-472a-b6ad-fd523f06449a</webElementGuid>
+      <webElementGuid>36cb79a7-9cef-4098-bd69-dda7b2baa89a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Save changes' or . = 'Save changes')]</value>
-      <webElementGuid>5c18a6b0-06f6-45e5-81a1-8b126058cb07</webElementGuid>
+      <webElementGuid>362ba62d-cb3b-4e32-97e6-fd911d29190a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

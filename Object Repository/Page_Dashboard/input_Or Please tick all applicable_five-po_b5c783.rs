@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fe5e7e46-f7e6-4cf2-a19d-302338504371</webElementGuid>
+      <webElementGuid>cdb1ad19-1197-41c5-b3a7-dd083f9001cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>484a22f0-ad68-4b2b-a62e-b725c62f590c</webElementGuid>
+      <webElementGuid>6a25b9d3-d585-4209-bc29-814ecf87da90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>five-point-check-haveHealthAndWelfarePowerOfAttorney</value>
-      <webElementGuid>8905036a-dadb-4e00-9aae-0a896ba1a7af</webElementGuid>
+      <webElementGuid>a209e24c-af4c-4924-9b8e-7e59a98f77ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>haveHealthAndWelfarePowerOfAttorney</value>
-      <webElementGuid>904dce11-5b40-4023-a576-5abe4e93dee6</webElementGuid>
+      <webElementGuid>ffc15ffe-d1ba-40f2-a60d-7edcbb02f75b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>cd1ada41-3c2a-4a75-b0cd-c1718e60bf79</webElementGuid>
+      <webElementGuid>5dbcd6b2-b719-477e-a010-823e28dbe5db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>38b1a069-2ab5-4ece-bd27-4d87f8c73d9f</webElementGuid>
+      <webElementGuid>34be348a-51d7-4c9b-ba52-303dcfa1c1db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;five-point-check-haveHealthAndWelfarePowerOfAttorney&quot;)</value>
-      <webElementGuid>c990b229-ef94-4386-b694-4157ef9bd03f</webElementGuid>
+      <webElementGuid>325f630d-2f66-4773-a35c-5f31aa3da12e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='five-point-check-haveHealthAndWelfarePowerOfAttorney']</value>
-      <webElementGuid>ec5e6af5-7b6e-4826-a6b9-ad0e75ac5c3d</webElementGuid>
+      <webElementGuid>66655892-137c-46a5-9777-ee048a80ce72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div[2]/div[3]/div/input</value>
-      <webElementGuid>853a1c3f-8b7d-478b-b56d-f69eb381719d</webElementGuid>
+      <webElementGuid>da32837b-978e-48d8-8275-0481f9eb883a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'five-point-check-haveHealthAndWelfarePowerOfAttorney']</value>
-      <webElementGuid>2d26fbfd-9e71-467d-86ed-c59f0bc3295a</webElementGuid>
+      <webElementGuid>26c8befe-2e57-41ac-97e9-074117655875</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

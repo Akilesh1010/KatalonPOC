@@ -18,7 +18,7 @@
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft application'])[1]/following::span[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>18152c97-0368-4b2d-91ec-f41cfd0e3af2</webElementGuid>
+      <webElementGuid>93524617-89c6-45b5-b192-530713289fe5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tab-title</value>
-      <webElementGuid>208b4242-71e7-4728-be7b-6862a4c5f01d</webElementGuid>
+      <webElementGuid>4793277b-4476-465d-835f-a65d2a8b6e95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Summary</value>
-      <webElementGuid>aca995e3-7251-4852-badc-c4152fc7a02e</webElementGuid>
+      <webElementGuid>d504f8de-6c02-4853-9d82-37fb2cc953c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Summary </value>
-      <webElementGuid>2f3e60e1-357d-4ddd-8432-31c941e7bfea</webElementGuid>
+      <webElementGuid>c0cfe09d-f44a-457f-8b1a-8163bd62b262</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--header col-12&quot;]/ul[1]/li[@class=&quot;tab-item ng-star-inserted&quot;]/span[@class=&quot;tab-title&quot;]</value>
-      <webElementGuid>1b71f177-182a-4f69-b07b-d2dad34543a2</webElementGuid>
+      <webElementGuid>db5806e2-aeff-4cad-aaf1-c9f366fdb99e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft application'])[1]/following::span[1]</value>
-      <webElementGuid>87dce78e-5e9b-47e8-bec0-ef08488b7d8a</webElementGuid>
+      <webElementGuid>2cfae81a-1920-4cf0-9555-c0b0b689331f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back to all applications'])[1]/following::span[1]</value>
-      <webElementGuid>f1c495e8-185f-44e9-ae5e-ccedfac5d0fb</webElementGuid>
+      <webElementGuid>0938d545-6a1d-4e1a-a500-6f743d857bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Details'])[1]/preceding::span[2]</value>
-      <webElementGuid>b049235d-4d8e-4955-8ece-3a20c7c28e5d</webElementGuid>
+      <webElementGuid>c0597be8-4185-4542-83b5-eda774d58367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Risk Questions'])[1]/preceding::span[4]</value>
-      <webElementGuid>c86fc542-9ca0-4da8-aef4-a28fa146c448</webElementGuid>
+      <webElementGuid>c2e4321c-5f05-4ee2-a97c-cf6da4ab3583</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Summary']/parent::*</value>
-      <webElementGuid>1b6336de-ba1e-475d-a081-d90d0e46e86d</webElementGuid>
+      <webElementGuid>3a5482c1-16a1-4726-9e6d-21019919e8e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/span</value>
-      <webElementGuid>c80fb02c-4809-4e81-b7b1-605ae7fdb09f</webElementGuid>
+      <webElementGuid>374a8eb3-adc9-4cc9-b7db-0bc769598c4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@title = 'Summary' and (text() = 'Summary ' or . = 'Summary ')]</value>
-      <webElementGuid>df5524a2-20ea-4755-8557-677ac5afb16a</webElementGuid>
+      <webElementGuid>c7172bca-e353-44af-9041-f094b5285593</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

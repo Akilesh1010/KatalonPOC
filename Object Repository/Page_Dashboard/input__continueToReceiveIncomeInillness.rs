@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e2e2b317-8d37-4ed8-93c6-1f06b59b5d4f</webElementGuid>
+      <webElementGuid>c3824f29-2198-4518-a618-81be3fb8fae3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>1e388596-0193-4bfb-aaf3-599d4f288f74</webElementGuid>
+      <webElementGuid>db74553b-c090-4571-865f-592d4dcf9335</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>continueToReceiveIncomeInillness-yes</value>
-      <webElementGuid>08fef213-68ab-48a7-961d-634c990ebc6c</webElementGuid>
+      <webElementGuid>6e2f829d-e7f8-4aed-aa0e-835c50956b08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>continueToReceiveIncomeInillness</value>
-      <webElementGuid>48b89715-334f-4103-9c03-a1a4e0c4d436</webElementGuid>
+      <webElementGuid>b06de71e-5a12-405b-aec8-d3a6bd8193cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>11743153-d72c-48e0-bbce-e70c3ab29990</webElementGuid>
+      <webElementGuid>e83f86cc-f641-45f5-90ee-c1b1cda78a65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cc3a943f-8dba-46cf-a364-92a559ccf80e</webElementGuid>
+      <webElementGuid>46516bf7-5b37-4e70-bd1c-6e65d5204344</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>continueToReceiveIncomeInillness</value>
-      <webElementGuid>a8c56622-eefb-4f0d-b03e-01630b1f57fc</webElementGuid>
+      <webElementGuid>8475d510-9637-488a-997a-815c5cff38b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;continueToReceiveIncomeInillness-yes&quot;)</value>
-      <webElementGuid>5a200981-fb7c-4053-b54c-e5cdbf28f3a8</webElementGuid>
+      <webElementGuid>fa74df08-15a2-4353-9443-9355b7f67d26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='continueToReceiveIncomeInillness-yes']</value>
-      <webElementGuid>ec78bf1b-670f-4491-b4ff-ce1333a67d24</webElementGuid>
+      <webElementGuid>9946700c-77ef-4961-b055-fdadddd75685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div[2]/div[2]/div/div/input</value>
-      <webElementGuid>bbf2f860-1d98-469b-8efd-aaee4a137d13</webElementGuid>
+      <webElementGuid>18e34c1a-8cb1-4c34-ae54-c9fced6d8cf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'continueToReceiveIncomeInillness-yes' and @name = 'continueToReceiveIncomeInillness']</value>
-      <webElementGuid>a3f72f86-a0dd-48f7-bf76-a8e2f50bfbac</webElementGuid>
+      <webElementGuid>7344d7f9-7075-415e-b320-6feb0e01a53e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

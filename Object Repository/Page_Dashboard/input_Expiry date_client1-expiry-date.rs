@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>44ebdc34-4355-4b48-8b19-04b4c156a0da</webElementGuid>
+      <webElementGuid>02c47252-9f03-4842-9ffd-365ccb15bccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b33d8978-ac4c-4183-9d0c-f762eaae8fad</webElementGuid>
+      <webElementGuid>847c235c-4db2-4f3e-8bc2-26604cde7701</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>DD/MM/YYYY</value>
-      <webElementGuid>463c0ec1-210e-4659-b550-2638df943eae</webElementGuid>
+      <webElementGuid>0ba9b18d-0298-4308-b4d3-59fd808384d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Enter date</value>
-      <webElementGuid>436f96cb-05e1-47be-9f3d-55e6051b26ac</webElementGuid>
+      <webElementGuid>c3f3cbf9-deb3-4ff0-9fcd-bbc98b2609e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>^(0[1-9]|[12][0-9]|3[01])[-/.](0[1-9]|1[012])[-/.](19|20)\d\d$</value>
-      <webElementGuid>f59c89e2-9d64-4b6b-846d-6749108dd3fa</webElementGuid>
+      <webElementGuid>c1b71f20-bc67-44df-8192-fa6c04b6c318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>3a489d79-4452-492c-ae6d-38de3e5fbee6</webElementGuid>
+      <webElementGuid>f04b3e36-6e82-4c59-86c8-ce6676b246ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-expiry-date</value>
-      <webElementGuid>c994bfd0-d28f-48e0-b0f9-b47679f67f6b</webElementGuid>
+      <webElementGuid>a9c77fab-5f91-4bd5-8a1f-57436d5f488a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>7e4397f0-fdd4-4045-9659-9c6703548924</webElementGuid>
+      <webElementGuid>27ce8af1-7d81-45d2-aa4d-289c0da37cea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>25f587bd-7999-41a8-912c-6f710389460f</webElementGuid>
+      <webElementGuid>8389c16b-e820-4bd9-9689-784128cb9a51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-expiry-date&quot;)</value>
-      <webElementGuid>f662db7e-352f-4bc5-94c4-15899d906b65</webElementGuid>
+      <webElementGuid>77f3dafb-3cf8-4df2-9575-e7cbbb69ff36</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1-expiry-date']</value>
-      <webElementGuid>33789726-0237-4fb2-b6e2-03158bdfb2b3</webElementGuid>
+      <webElementGuid>b00a7ab5-b6dd-463b-8f6f-8886004d3e22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/app-date/input</value>
-      <webElementGuid>cc29406e-0451-4705-aac8-61085f8d7661</webElementGuid>
+      <webElementGuid>1f2c49ea-05bd-4481-97e0-3a679d2c7c6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'DD/MM/YYYY' and @id = 'client1-expiry-date']</value>
-      <webElementGuid>f51766b2-8262-4813-87c2-abfd097447f5</webElementGuid>
+      <webElementGuid>7762bf08-76cb-4a18-8ee7-c26e5e3de2b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

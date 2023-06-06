@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>538e3cc1-6297-46a2-85a3-2d73e64b12b9</webElementGuid>
+      <webElementGuid>b16e89f3-143a-42b2-908a-446e41409f29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>isContactableViaPost</value>
-      <webElementGuid>63bb2138-c0d2-4feb-a9e0-ccf7d5dd8269</webElementGuid>
+      <webElementGuid>63c0ddbb-1eda-4c8d-b66a-a663423518ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>3dbbc044-3b66-4aa5-8b49-cf6b8ba06b21</webElementGuid>
+      <webElementGuid>a58bdade-3ad6-49d4-bbee-802261ba02ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-contact-post</value>
-      <webElementGuid>45e01e6d-56db-44c5-9f43-1c06cc57e38a</webElementGuid>
+      <webElementGuid>d7436558-dfc0-4158-8b80-08c925f9390d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>902aa994-7bc5-44b3-afff-19d866baa924</webElementGuid>
+      <webElementGuid>d7faf15f-76ea-4737-9765-efd9056f380c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>99053ff1-cc39-480c-a1bf-69db90fc16de</webElementGuid>
+      <webElementGuid>a044a4e0-680a-4268-a089-fc1cb6c666a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-contact-post&quot;)</value>
-      <webElementGuid>2bf85bfa-e874-466d-8bd3-2e2547224922</webElementGuid>
+      <webElementGuid>a693113a-957e-4035-9a19-6c9c40ba82b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1-contact-post']</value>
-      <webElementGuid>2cb788c6-ff35-45d9-b8a3-eda9e9878b53</webElementGuid>
+      <webElementGuid>7d5af33e-f8d8-48ad-a827-cbc0224800bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/input</value>
-      <webElementGuid>144a30b1-b126-4016-8227-589e0d13b9ac</webElementGuid>
+      <webElementGuid>395c869a-36eb-40af-9b09-c4a286a32288</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'client1-contact-post']</value>
-      <webElementGuid>4987682a-ea98-482f-9f4b-05a40947eeeb</webElementGuid>
+      <webElementGuid>2278c366-c271-4b2a-af39-e7663c6922f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

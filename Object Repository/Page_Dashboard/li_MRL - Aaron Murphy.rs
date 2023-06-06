@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[(text() = 'MRL - Aaron Murphy' or . = 'MRL - Aaron Murphy')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='CDI -'])[1]/following::li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>c260b716-a592-4dea-a66d-ff0b92fb632c</webElementGuid>
+      <webElementGuid>1d3a27f0-e3ba-4252-aebc-792dd45655cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>data-optionid</name>
       <type>Main</type>
       <value>MRL</value>
-      <webElementGuid>af53c8ee-1588-4fcd-95f2-dd6d47a72cbc</webElementGuid>
+      <webElementGuid>622de477-b7cf-409c-a108-eecef64b9189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-star-inserted</value>
-      <webElementGuid>924bf957-a1a4-48ab-98e6-80c93200160a</webElementGuid>
+      <webElementGuid>2e9551cf-7b6a-4236-93a6-7103ac68a615</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>MRL - Aaron Murphy</value>
-      <webElementGuid>5185317c-fc60-4d9a-9172-713cf4855ad0</webElementGuid>
+      <webElementGuid>ee41e6c2-7dd8-4551-a72d-69e74c11c6a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[1]/div[1]/app-summary[1]/div[@class=&quot;row p-l bg-white bbrr-xs bblr-xs box-shadow-grey&quot;]/form[@class=&quot;col-6 ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;form-group&quot;]/combo-box[@class=&quot;combo-box ng-untouched ng-invalid ng-dirty&quot;]/ul[@class=&quot;options ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]</value>
-      <webElementGuid>fb305939-c397-458b-887c-53e41d52f690</webElementGuid>
+      <webElementGuid>ac719c05-561d-45d0-b6a8-ef4bd1ed9790</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CDI -'])[1]/following::li[1]</value>
-      <webElementGuid>3643d4c6-ef74-4351-9375-778d0edc7536</webElementGuid>
+      <webElementGuid>9f730d9d-d929-47bd-8871-90aa3ec99a2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Business getter code*'])[1]/following::li[2]</value>
-      <webElementGuid>aab2b483-dade-4f17-b87b-7fa055a9ef02</webElementGuid>
+      <webElementGuid>57c89a72-1909-45aa-bfde-8c4984c54dc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DOX - Aidan Fuller'])[1]/preceding::li[1]</value>
-      <webElementGuid>377515e9-8ba4-4321-ae28-2da10b63401a</webElementGuid>
+      <webElementGuid>30f7cfd9-41e5-4723-bdcd-9268ca168b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='WRT - Alex Woodward'])[1]/preceding::li[2]</value>
-      <webElementGuid>7e5017cf-7479-469e-8d92-9e7c2e6af01d</webElementGuid>
+      <webElementGuid>e0d00c5b-ebda-44ef-a588-95efa5499183</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='MRL - Aaron Murphy']/parent::*</value>
-      <webElementGuid>772f1193-e6f3-4a44-ba92-a75db4fd9b07</webElementGuid>
+      <webElementGuid>e9b90bf9-3a55-45a8-80b9-dd1439d3c763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//combo-box/ul/li[2]</value>
-      <webElementGuid>80a82aa9-8600-43c0-b6e8-b495d8b6ee02</webElementGuid>
+      <webElementGuid>7fd756c4-1700-4676-b2ec-52eb89924e18</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[(text() = 'MRL - Aaron Murphy' or . = 'MRL - Aaron Murphy')]</value>
-      <webElementGuid>ff2d902c-bcaf-4293-8107-8dd27a506512</webElementGuid>
+      <webElementGuid>c59e65e2-7b90-4643-9c5d-c729a98bb5f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

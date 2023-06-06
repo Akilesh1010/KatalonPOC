@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>927921a8-9a5a-4d74-9c0a-301a58490288</webElementGuid>
+      <webElementGuid>339f9b33-8dcb-4afa-9eaf-ca957b01f80e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a453457b-eefa-455c-97a8-d21ad6b13619</webElementGuid>
+      <webElementGuid>64e175b7-37b1-4595-91fb-b6c11484dc33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>addressLine2</value>
-      <webElementGuid>ca137cd4-dc28-41d5-8134-ec226f31cc78</webElementGuid>
+      <webElementGuid>b5c27896-caba-40c9-9285-8ff6ae074a92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>addressLine2</value>
-      <webElementGuid>c251f091-f15e-4a87-a919-a3562ca2a82b</webElementGuid>
+      <webElementGuid>ecddf98e-a1fd-4be0-af9f-ffcccbf2da7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>0ed9c2f2-8edf-4291-b9d1-03892be82957</webElementGuid>
+      <webElementGuid>170fdbd8-771e-44d8-9ed1-cf594fbf2954</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>5d7b4de9-751c-4aa3-93a2-716f82adb3cb</webElementGuid>
+      <webElementGuid>aee03638-97e1-48af-b1a4-de86a44b9436</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;addressLine2&quot;)</value>
-      <webElementGuid>043949e8-0379-4915-ae58-2c915b06024f</webElementGuid>
+      <webElementGuid>941aeda0-78b1-4835-a141-2f0f8f879285</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='addressLine2']</value>
-      <webElementGuid>6f29efbc-2982-4084-999c-51bf40097eb1</webElementGuid>
+      <webElementGuid>499c3db7-e939-4708-8766-c688cd56c906</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-address-lookup/div/div[2]/input</value>
-      <webElementGuid>1aaacb21-0850-4179-8703-3826dde3fbdb</webElementGuid>
+      <webElementGuid>43022d1c-b956-4fdb-a18e-2ee1c0885f48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'addressLine2']</value>
-      <webElementGuid>8d93a966-f34b-4c02-80df-934cd7c45773</webElementGuid>
+      <webElementGuid>a37a6e02-aaf7-4f23-8ca6-4a2562eb8245</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type = 'text' and @placeholder = 'DD/MM/YYYY' and @id = 'undefined'])[2]</value>
+         <value>(//input[@id='undefined'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f8806394-f5cc-4243-a2df-02f43b6d6774</webElementGuid>
+      <webElementGuid>19b01b57-b932-43af-b3c6-065b25a5debf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a9aacf90-9aee-40d6-ad84-a44156abd3f5</webElementGuid>
+      <webElementGuid>8099b060-d26a-46a0-90db-d7b57f6a0118</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>DD/MM/YYYY</value>
-      <webElementGuid>80424dbd-e7e4-4027-8b30-19c875c3203d</webElementGuid>
+      <webElementGuid>150ccbb0-f858-48cd-bcc2-05c1acd0bda6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Enter date</value>
-      <webElementGuid>2134b1ae-ba74-48b1-9571-192bcd15523c</webElementGuid>
+      <webElementGuid>7677b571-68e1-48e4-9b33-b88c47673965</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>pattern</name>
       <type>Main</type>
       <value>^(0[1-9]|[12][0-9]|3[01])[-/.](0[1-9]|1[012])[-/.](19|20)\d\d$</value>
-      <webElementGuid>aaad59b4-65e4-4aaa-bcf9-bf7f8096b6bf</webElementGuid>
+      <webElementGuid>6a1bb9de-53b8-4f57-be73-03fcf1878acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>d55f9525-7f33-40a5-b0f9-ff997767c626</webElementGuid>
+      <webElementGuid>0838ee7d-9e9c-44f5-81d9-6de0364d07aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>undefined</value>
-      <webElementGuid>2978fc7d-4276-4448-a29d-16adf75c774a</webElementGuid>
+      <webElementGuid>ca091a7b-d88b-41f8-8841-39bfd1525122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>39180197-0430-4543-add7-ed52ae69d3a0</webElementGuid>
+      <webElementGuid>b33177a1-dfca-4e8a-bed6-3c434c2b0132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>e5790517-1b33-4f72-8b35-09e0057cc132</webElementGuid>
+      <webElementGuid>f75e85c1-1f28-4276-a3e4-fee2c80ae285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[6]/div[1]/app-financial-details[1]/div[@class=&quot;container p-0 bg-white&quot;]/form[@class=&quot;individualApplication ng-dirty ng-touched ng-valid&quot;]/fieldset[4]/div[@class=&quot;row form-group pl-l pr-l p-xs mb-0 bg-pale-grey ng-star-inserted&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;col-4 mr-l ng-touched ng-dirty ng-valid&quot;]/app-date[@class=&quot;ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/input[@id=&quot;undefined&quot;]</value>
-      <webElementGuid>d75fbafc-487c-4395-b746-b36bebf1d68f</webElementGuid>
+      <webElementGuid>e6266a4d-b2a0-42cb-a111-f9318ada0eb5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='undefined'])[2]</value>
-      <webElementGuid>0c1dc16c-1353-4d2a-b881-c6900491a9c7</webElementGuid>
+      <webElementGuid>709fff5d-c297-4ecb-8526-f3d456f3b446</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div[2]/div/app-date/input</value>
-      <webElementGuid>b410c7e8-9512-46ba-a204-0f8058f38b76</webElementGuid>
+      <webElementGuid>eaa1030d-aea2-43d3-8059-401488321162</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'DD/MM/YYYY' and @id = 'undefined']</value>
-      <webElementGuid>c0099dbb-7ceb-4539-8a23-4623c98e15d3</webElementGuid>
+      <webElementGuid>0849d2af-770a-493c-a117-5c4b01d9ed59</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

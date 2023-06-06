@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='number'])[39]</value>
+         <value>(//input[@type='number'])[42]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1ce4fe46-49fe-4a38-ac09-a04150750636</webElementGuid>
+      <webElementGuid>3bc85011-6605-49ba-b940-1ceff167a717</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>aa5707c2-24d8-4f66-9c51-a0f710dae6cc</webElementGuid>
+      <webElementGuid>14937c81-6776-4a69-9cf3-e1da5c660f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>formcontrolname</name>
       <type>Main</type>
-      <value>outstandingMortgage</value>
-      <webElementGuid>4cd5ae76-9719-4b18-a20c-a749118d740c</webElementGuid>
+      <value>monthlyRepaymentAmount</value>
+      <webElementGuid>e8f7edf6-9f96-4d66-91e0-85bb2349348e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +46,15 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>0.00</value>
-      <webElementGuid>192fa328-3029-4403-928e-8008e5b4eca6</webElementGuid>
+      <webElementGuid>f9fb8068-581f-4a7c-bfc1-3e6f71324edf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-labelledby</name>
       <type>Main</type>
-      <value>Outstanding mortgage</value>
-      <webElementGuid>d83acbab-50b4-4035-a756-edf560da8894</webElementGuid>
+      <value>How much are the monthly repayments?</value>
+      <webElementGuid>258dbd95-2e90-40ee-94fd-9baae532c499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control dark-control ng-untouched ng-valid ng-dirty</value>
-      <webElementGuid>5d556ffd-e730-4bf0-9ee0-18ee779767a4</webElementGuid>
+      <webElementGuid>6e3be19e-78a4-49bd-8728-e0928dd41fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>16a1be33-f925-4fee-9d40-86285d34db33</webElementGuid>
+      <webElementGuid>a055ed43-6301-4e8c-8ff6-250ba71a9e26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,10 +78,34 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[8]/div[1]/app-five-point-health-check[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/fieldset[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/section[1]/div[@class=&quot;row form-group pl-l pr-l&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-8 mr-l&quot;]/input[@class=&quot;form-control dark-control ng-untouched ng-valid ng-dirty&quot;]</value>
-      <webElementGuid>807be9cc-654f-4763-980b-17508b0add42</webElementGuid>
+      <webElementGuid>0940704d-9a82-4717-a22b-3fba5d314b00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='number'])[42]</value>
+      <webElementGuid>3c653e0e-e5e0-4dff-8804-577d540b81b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div[2]/div/input</value>
+      <webElementGuid>2d83db8c-7b13-4c26-bec7-0df029ca0c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'number' and @placeholder = '0.00']</value>
+      <webElementGuid>1720e14b-f6ca-469e-81b3-930ee13e7ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -95,13 +119,5 @@
       <type>Main</type>
       <value>//fieldset[2]/section/div/div[2]/div/input</value>
       <webElementGuid>81691d01-5dc4-4ba4-b5ff-d921ed78d835</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'number' and @placeholder = '0.00']</value>
-      <webElementGuid>7dbf575c-5fbe-4ea1-bcb7-0ca026fed4e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c4088b72-2367-43c1-b18b-495812fcad1b</webElementGuid>
+      <webElementGuid>cb5ccc03-088b-458e-a558-aea15a6da303</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +29,15 @@
       <name>for</name>
       <type>Main</type>
       <value>client1-add-withdraw-add</value>
-      <webElementGuid>5f8e85cc-179b-4bf8-b80c-adc9d0c4ae10</webElementGuid>
+      <webElementGuid>f1a7a3fc-adf8-4494-80e8-493597023813</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__label</value>
-      <webElementGuid>8fb22174-f977-407d-b013-543f9334022a</webElementGuid>
+      <webElementGuid>859460de-f4d1-40a9-a333-888eb0437597</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>6c3a040d-f023-4e92-ac7b-74d37dfa43ee</webElementGuid>
+      <webElementGuid>c87f19e2-fa64-4b0b-bfd7-89d5d014490c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[6]/div[1]/app-financial-details[1]/div[@class=&quot;container p-0 bg-white&quot;]/form[@class=&quot;individualApplication ng-valid ng-dirty ng-touched&quot;]/fieldset[1]/div[@class=&quot;row form-group pl-l pr-l bg-pale-grey p-m&quot;]/div[@class=&quot;col-8 row&quot;]/div[@class=&quot;input-group col-4 mr-l&quot;]/div[@class=&quot;switch&quot;]/div[@class=&quot;form-checkbox ng-valid ng-dirty ng-touched&quot;]/label[@class=&quot;form-checkbox__label&quot;]</value>
-      <webElementGuid>6d5beb5f-102a-4093-81a3-1a5b60358ed7</webElementGuid>
+      <webElementGuid>b0036a1a-c961-4691-b590-86e93268e673</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[4]/following::label[1]</value>
-      <webElementGuid>a58bb875-3072-491d-800f-43e1e02458ed</webElementGuid>
+      <webElementGuid>71e5f8c8-4240-4eaf-bf09-493d1c8c6ae7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='£'])[2]/following::label[3]</value>
-      <webElementGuid>65bfdbf4-3d55-4f86-bad1-832aaa62cfab</webElementGuid>
+      <webElementGuid>2ce369e6-ebca-455b-bdb7-46386ea3a903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Withdraw'])[1]/preceding::label[1]</value>
-      <webElementGuid>c4900e0a-59f2-4827-80c8-08c1d2e392aa</webElementGuid>
+      <webElementGuid>ceb29769-45e6-4d33-9d62-b5900e467fee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hidden'])[1]/preceding::label[2]</value>
-      <webElementGuid>fabd3870-e9d1-43b7-bfbd-94eed2f96e73</webElementGuid>
+      <webElementGuid>5cf4a1ac-ccd9-4dfe-b68d-fa3cf745e19c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
-      <webElementGuid>479790b9-f081-451f-805a-d504f7bead4e</webElementGuid>
+      <webElementGuid>98574f47-e1c5-4a45-b941-1b2cb65cdada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/div/label[2]</value>
-      <webElementGuid>06466958-356f-4aa4-b8f1-ad7bb4143be4</webElementGuid>
+      <webElementGuid>551ae3f6-8a99-42ec-9139-51c0372e1bdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>dc1b792f-46bc-45fc-84f7-b06cebbc06ff</webElementGuid>
+      <webElementGuid>e9a37a5f-7a2d-4365-8c56-6d49f6311315</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

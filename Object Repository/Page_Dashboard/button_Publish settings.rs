@@ -7,14 +7,13 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Print settings'])[1]/following::button[1]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ba0f322f-e711-4eaa-a475-dd30d2685a64</webElementGuid>
+      <webElementGuid>637c6b49-5cea-45fa-b4d4-cff1610dc13d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button float-right mr-s</value>
-      <webElementGuid>86ec87e0-aca6-4050-a0e1-c7e936ccd80d</webElementGuid>
+      <webElementGuid>d2270cf3-7c62-4985-8ac1-d254aa3b6a34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Publish settings</value>
-      <webElementGuid>c7729313-b15e-43bb-8d0a-2f255fb8a814</webElementGuid>
+      <webElementGuid>3cd91fd8-7f69-4c5d-b5b8-a64bc78e6413</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[1]/div[1]/app-summary[1]/div[@class=&quot;row p-l bg-white bbrr-xs bblr-xs box-shadow-grey&quot;]/div[@class=&quot;col-12 row mb-l&quot;]/div[@class=&quot;col-9&quot;]/button[@class=&quot;button float-right mr-s&quot;]</value>
-      <webElementGuid>3b331da6-e84e-4768-88b6-875ee432948f</webElementGuid>
+      <webElementGuid>9422285a-f18e-4860-8427-18e129d963ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Print settings'])[1]/following::button[1]</value>
-      <webElementGuid>885489bb-02ee-4489-bd71-779b29550039</webElementGuid>
+      <webElementGuid>6d35e56c-e5ed-41d6-a8db-1da31ca2deb2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete application'])[1]/following::button[2]</value>
-      <webElementGuid>082e9820-d1cd-4f4c-9657-3131e6a3d820</webElementGuid>
+      <webElementGuid>4f0e7a16-a6c5-4d71-8bf5-867fd569b356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sections'])[1]/preceding::button[1]</value>
-      <webElementGuid>ea8112cf-0995-4712-b919-696446d2460a</webElementGuid>
+      <webElementGuid>dc5cb5b3-82cf-49e0-af4d-3a78cf14b616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client details'])[1]/preceding::button[1]</value>
-      <webElementGuid>f49c1614-1b4f-4f29-a2fd-e6f7cc3b4e47</webElementGuid>
+      <webElementGuid>97c92a7a-923d-4553-ae99-82d66c8318b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Publish settings']/parent::*</value>
-      <webElementGuid>59a91456-ea6a-4040-9451-5a0f2ab10fe3</webElementGuid>
+      <webElementGuid>3a4052bc-515c-43bc-b725-18d0e960197e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>fa7d4fc8-c562-4d5f-abb7-304be834420a</webElementGuid>
+      <webElementGuid>39de6b50-ba8b-41fd-9036-fba5b59046a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Publish settings' or . = 'Publish settings')]</value>
-      <webElementGuid>9cd30e10-47b9-4a84-a7b3-7dd4141c194f</webElementGuid>
+      <webElementGuid>8af2d662-430c-4262-992e-682f720e0f99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

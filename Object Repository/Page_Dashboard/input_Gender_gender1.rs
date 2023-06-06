@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b7bee500-76d4-4fc6-8f1e-700fa1c3bcb3</webElementGuid>
+      <webElementGuid>fb4f10da-2c6e-48eb-82ea-c441fa72c691</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>c2d0e8d8-d50f-44c8-a17a-236eda1ee7ca</webElementGuid>
+      <webElementGuid>aefd13db-06ec-4841-ac8c-bca48ba4902b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1gendermale</value>
-      <webElementGuid>4e3de5df-2232-4714-95e2-e2e5a75c8141</webElementGuid>
+      <webElementGuid>993d5ebc-a7d5-47a6-b292-4199b4d66de1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>male</value>
-      <webElementGuid>f0a93c59-0216-4080-8367-95b72757a5ef</webElementGuid>
+      <webElementGuid>1a39c093-3f4a-4e53-aba6-5130d8a2b907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>gender</value>
-      <webElementGuid>4ba6fc08-b01a-4c09-b414-757353d05979</webElementGuid>
+      <webElementGuid>3f7489ba-95ac-4b97-80ca-a25ce53a86bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>39fb09d2-b402-42d7-bac9-2208ce00e8c8</webElementGuid>
+      <webElementGuid>ea5c4f46-15e2-4adc-8077-f703b7ea44cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a3f5bb41-bad3-4912-b78d-adff49dc66d4</webElementGuid>
+      <webElementGuid>2710544e-3350-4f91-9158-c8c5685b8867</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>gender1</value>
-      <webElementGuid>07c53dd8-07ff-443b-add1-2e36b343dd1f</webElementGuid>
+      <webElementGuid>ff508640-0fda-400d-80c7-3cf606d85bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1gendermale&quot;)</value>
-      <webElementGuid>cc0897de-f82c-4e72-9ef9-f6b662416df5</webElementGuid>
+      <webElementGuid>d3a234bc-3d7c-45a0-a975-011b2239c7eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1gendermale']</value>
-      <webElementGuid>1e8cc72d-0a20-463a-b8b2-3ae2b3cd5e83</webElementGuid>
+      <webElementGuid>a79cb2ed-263b-4677-acf3-eaca9d9fafb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/input</value>
-      <webElementGuid>78e789e1-c186-4e10-a13d-7df8812610e9</webElementGuid>
+      <webElementGuid>98e0e13c-89b3-4887-96ce-cccc2ec2d9aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'client1gendermale' and @name = 'gender1']</value>
-      <webElementGuid>e2d8f1ef-74b9-4a08-85a2-1ee9e1feb19c</webElementGuid>
+      <webElementGuid>a2ed52a2-d14c-4708-bd9e-336ef48f0766</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

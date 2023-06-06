@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2a2480d9-f500-4ac3-bfb2-1f008a9fcc26</webElementGuid>
+      <webElementGuid>0f6479a2-8248-4040-9d3e-c5cebd4ab372</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tab-title</value>
-      <webElementGuid>5ecd76ae-c330-4fc0-8632-0cf689860425</webElementGuid>
+      <webElementGuid>8b9d6308-7ca4-4658-a85a-dbbeace21654</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Risk Questions</value>
-      <webElementGuid>91bf8d6c-f4b6-4260-ac84-fbd328da14e5</webElementGuid>
+      <webElementGuid>acd9aa2b-d3e8-413e-b681-faa957317422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Risk Questions </value>
-      <webElementGuid>d6750db7-1b5e-4410-b4f9-814771f55e12</webElementGuid>
+      <webElementGuid>fc73755c-73f4-4dba-a2c9-acbc8d516c77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--header col-12&quot;]/ul[1]/li[@class=&quot;tab-item ng-star-inserted&quot;]/span[@class=&quot;tab-title&quot;]</value>
-      <webElementGuid>a3816e47-dae6-4994-af0d-f63209795ade</webElementGuid>
+      <webElementGuid>14935633-0e2b-4f15-ab4c-f05f22d28a63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client Details'])[1]/following::span[2]</value>
-      <webElementGuid>8766dd26-d848-4adc-8f6a-8b7e5e339108</webElementGuid>
+      <webElementGuid>7771d5ee-ca8d-47a7-8336-cbb1a6bc5c25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::span[4]</value>
-      <webElementGuid>39fcae31-db78-40c2-92b4-2a6e4cad4716</webElementGuid>
+      <webElementGuid>86db0764-36ce-4629-ba15-8c4c34a197fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Client Details'])[1]/preceding::span[2]</value>
-      <webElementGuid>89b9d37a-e71c-4993-b20c-3e48128ca8c6</webElementGuid>
+      <webElementGuid>e1698e4c-c83b-41e1-a9a0-1c685f2c8a08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Details'])[1]/preceding::span[4]</value>
-      <webElementGuid>3ca80b9a-980b-4ca2-8ed8-7195066128f9</webElementGuid>
+      <webElementGuid>fba0d767-229b-433a-b294-42751c9ebbf5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Risk Questions']/parent::*</value>
-      <webElementGuid>05917e42-fc0d-4e56-a975-b9ea8d5bbf45</webElementGuid>
+      <webElementGuid>fcfd24ef-1e57-48f6-bc62-f146ce6c8067</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/span[2]</value>
-      <webElementGuid>2a0f9ede-9cc7-46b7-96c2-bdb63de76cf9</webElementGuid>
+      <webElementGuid>25f6004a-4dd1-4419-8c6b-0b583e90a02e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@title = 'Risk Questions' and (text() = 'Risk Questions ' or . = 'Risk Questions ')]</value>
-      <webElementGuid>07abc0a9-f01e-40da-b242-9c0b38341546</webElementGuid>
+      <webElementGuid>90468682-ba94-47a9-90d3-02904f03e494</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

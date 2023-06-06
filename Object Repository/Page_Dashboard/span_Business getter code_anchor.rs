@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3ad9eca7-3971-4623-bd0d-0aab218f9960</webElementGuid>
+      <webElementGuid>7332ade1-f8d9-4a63-b8fc-0e6cf20fad39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>anchor</value>
-      <webElementGuid>6aa0cd8a-1324-4545-89d9-48ee90670c90</webElementGuid>
+      <webElementGuid>f39fe743-8857-4797-a179-11854cf100e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[1]/div[1]/app-summary[1]/div[@class=&quot;row p-l bg-white bbrr-xs bblr-xs box-shadow-grey&quot;]/form[@class=&quot;col-6 ng-untouched ng-invalid ng-dirty&quot;]/div[@class=&quot;form-group&quot;]/combo-box[@class=&quot;combo-box ng-untouched ng-invalid ng-dirty&quot;]/span[@class=&quot;anchor&quot;]</value>
-      <webElementGuid>327bf948-e507-4156-981f-212484a0944a</webElementGuid>
+      <webElementGuid>9f7b05f7-798f-447e-95ac-bfb9fe0c5481</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//combo-box/span</value>
-      <webElementGuid>bca07dd9-65c9-42ea-8d25-7f1076251dd3</webElementGuid>
+      <webElementGuid>8d7b6c35-8f93-45a4-a608-945b3515e09a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

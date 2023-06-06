@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bf6fef3c-ad23-4340-bc09-dc63c0eff086</webElementGuid>
+      <webElementGuid>52e2f8a2-8252-479a-9860-8496042e52c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>1a1fe710-5957-476a-bfde-3f76a7c6ffe4</webElementGuid>
+      <webElementGuid>dc7d595d-78cd-4931-984b-a97ebeede0bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>provisionForFamilyInCaseOfDeath-no</value>
-      <webElementGuid>aa5205ee-654c-4fb5-b265-e153cbf4f82e</webElementGuid>
+      <webElementGuid>2f281ad0-7262-4ad2-a546-f51e7889f716</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>provisionForFamilyInCaseOfDeath</value>
-      <webElementGuid>d610e9f6-cb37-4a30-932e-c9e0fbad8898</webElementGuid>
+      <webElementGuid>57645865-a105-404f-8b29-6ef3b625914e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ml-m ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>fb45536e-27cb-4e71-b0de-2a5a34f2b7ae</webElementGuid>
+      <webElementGuid>3bab3813-8e57-421a-ae51-09b422b96a60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6ac37cae-57fe-49ea-8b19-34f30420d7f3</webElementGuid>
+      <webElementGuid>1af78f95-6105-4ac8-8dc9-6877eebd7226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>provisionForFamilyInCaseOfDeath</value>
-      <webElementGuid>6bffd8fd-8f16-412a-b084-b15b64e2aa51</webElementGuid>
+      <webElementGuid>4cb959e0-417f-410b-a9fb-7d3eb6e5912e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;provisionForFamilyInCaseOfDeath-no&quot;)</value>
-      <webElementGuid>2f09b042-f89b-4c8e-b456-23a14ff61cbd</webElementGuid>
+      <webElementGuid>ae5657f5-35ac-485d-bce9-d918b133fcea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='provisionForFamilyInCaseOfDeath-no']</value>
-      <webElementGuid>99c0d0a6-0fe4-4592-972a-e3389ca14d70</webElementGuid>
+      <webElementGuid>ca184e6b-c0eb-4d67-bfb0-fc528c20eed2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/div/input[2]</value>
-      <webElementGuid>ad83d7f5-d86f-44c7-a452-50e7c836f492</webElementGuid>
+      <webElementGuid>2acf55e8-c76e-4692-971e-61787a0a7188</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'provisionForFamilyInCaseOfDeath-no' and @name = 'provisionForFamilyInCaseOfDeath']</value>
-      <webElementGuid>2696e068-810c-40ab-9cc5-0618d1bad09d</webElementGuid>
+      <webElementGuid>4a375fe8-5f1b-4822-b614-2b54329829c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

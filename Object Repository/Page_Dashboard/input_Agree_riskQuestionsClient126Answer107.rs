@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7b90a626-05af-4a98-8802-a1ecbdb4d158</webElementGuid>
+      <webElementGuid>77f090dd-bc00-475c-8053-c865de7a7ece</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>9373e8c7-a38a-4ce8-a7e1-f6369f55e50c</webElementGuid>
+      <webElementGuid>d4ca0b10-63fc-4e11-a08d-a544f9422852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>993d7639-fbe0-4caf-99bc-36de2382c350</webElementGuid>
+      <webElementGuid>7973ccec-5dd4-4bac-a04d-cef5c09205cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>riskQuestionsClient126Answer107</value>
-      <webElementGuid>32537408-0378-4c99-80b4-e8a0b22a2145</webElementGuid>
+      <webElementGuid>c903f8e9-6390-4029-b685-ed1d5f24aacc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fe65c6a5-23d2-45f1-a8d9-aa392dd985d5</webElementGuid>
+      <webElementGuid>1fa98003-fcca-49c6-8db6-25c71b69f44f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;riskQuestionsClient126Answer107&quot;)</value>
-      <webElementGuid>fc66069a-79dd-4908-b7a9-ad79b96c5d59</webElementGuid>
+      <webElementGuid>b4067033-eef5-4f31-8354-c4b4b443bb77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='riskQuestionsClient126Answer107']</value>
-      <webElementGuid>84a8ad99-bf51-4f90-844c-5315288c0a4a</webElementGuid>
+      <webElementGuid>eb5298be-568b-49a1-8d1f-8855d5556899</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//app-dynamic-questionnaire/div/div[7]/div[5]/input</value>
-      <webElementGuid>7388e08f-88b2-4a45-8fe0-31df8fdecbd0</webElementGuid>
+      <webElementGuid>924a5293-4eac-49fd-ae86-beacd6816aac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'riskQuestionsClient126Answer107']</value>
-      <webElementGuid>37efc64c-560e-4333-a1d0-dad015b89578</webElementGuid>
+      <webElementGuid>3dcc006a-db82-4c92-aab6-4ea66cf1faca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

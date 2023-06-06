@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dda7e2d3-e65e-4ba2-b12e-cff68b4f10db</webElementGuid>
+      <webElementGuid>346c21f0-9535-4f8a-ae72-6ac9de7abe5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>b9a2745f-8245-4011-8506-9053067c57a7</webElementGuid>
+      <webElementGuid>de8d9d8f-1b90-478e-8b71-b3d3c59f8d3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>incomeChangeClient1Option2</value>
-      <webElementGuid>7e434adb-6256-4126-8776-f9b6c4e30832</webElementGuid>
+      <webElementGuid>624c66a5-8d3c-4a3d-9c27-aa852e70d371</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>willNetAnnualIncomeChangeInNext12Months</value>
-      <webElementGuid>c5b7646b-c736-4ae9-afee-db1223320196</webElementGuid>
+      <webElementGuid>332dd5c4-f059-4242-98a7-b6243bed1f93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>5314bb49-2664-423c-863a-a9bc8f3dd1f4</webElementGuid>
+      <webElementGuid>b82d83fd-60d8-4d74-95bc-3b5adfa17a33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4d261274-b4ea-49b7-8e8b-cbea48a76d09</webElementGuid>
+      <webElementGuid>360536a1-9e74-4a99-b492-efb83a6adbfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>willNetAnnualIncomeChangeInNext12Months1</value>
-      <webElementGuid>314593cf-176b-4533-8978-280357ad6919</webElementGuid>
+      <webElementGuid>4cd7247f-b2ad-4790-8df1-3d08123836dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;incomeChangeClient1Option2&quot;)</value>
-      <webElementGuid>e78e144f-65ca-496f-a33d-b5cc2115a557</webElementGuid>
+      <webElementGuid>50af6911-6086-49d1-9219-9067ba38cc63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='incomeChangeClient1Option2']</value>
-      <webElementGuid>cf5afa17-5f2f-4daf-afc7-939081bf4e38</webElementGuid>
+      <webElementGuid>59746a32-c936-42da-b697-95b942c56735</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div[2]/input</value>
-      <webElementGuid>615ae0a2-be5e-4182-8716-7bc28338fe19</webElementGuid>
+      <webElementGuid>b28619a9-87c7-45e3-b71e-7f86292fd32a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'incomeChangeClient1Option2' and @name = 'willNetAnnualIncomeChangeInNext12Months1']</value>
-      <webElementGuid>ef72bede-725b-4f41-b3e1-4baff52cf6e1</webElementGuid>
+      <webElementGuid>6b01b1b3-ef8d-4c8c-8b22-e58aea23c5e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

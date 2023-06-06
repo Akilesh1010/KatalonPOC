@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>eb938ea9-d68a-41cb-a2a9-33c8425c8578</webElementGuid>
+      <webElementGuid>acf16447-4584-4bac-82a9-c12421a701de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>clientDetailsStatus</value>
-      <webElementGuid>6900a51a-f031-40fb-a1a2-af8f791b61a9</webElementGuid>
+      <webElementGuid>e0bb2ccc-1f1a-45c8-bdd7-139b8c923961</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-select ng-untouched ng-pristine ng-valid ng-star-inserted</value>
-      <webElementGuid>2daae4aa-e1aa-499e-ad6e-7ea682436c8c</webElementGuid>
+      <webElementGuid>e64725c1-4bf4-44be-a43c-b5c9b674e0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>4dff957d-e34c-417d-a9c0-fa235f1398a5</webElementGuid>
+      <webElementGuid>37ecd145-39c9-4500-899f-48cc2f66af02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>UnpublishedPublishSigned off</value>
-      <webElementGuid>7327e90f-b2f9-42be-9d97-2459509671b6</webElementGuid>
+      <webElementGuid>efde2953-3d09-431d-8298-3f476870fca6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;publish-settings-overlay&quot;)/app-publish-settings[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;bg-white&quot;]/div[@class=&quot;container pt-xl pb-xl mb-xxl&quot;]/div[@class=&quot;flex-grid flex-grid--2&quot;]/div[@class=&quot;flex-grid__cell ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row alternate-table-rows&quot;]/div[@class=&quot;row col-12&quot;]/div[@class=&quot;col-5 p-xs pr-l&quot;]/select[@class=&quot;form-select ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
-      <webElementGuid>0566fe49-f0bc-4021-91cf-da0a68eba7cb</webElementGuid>
+      <webElementGuid>77500223-99ea-4005-ac7f-6f67fb30d7f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='publish-settings-overlay']/app-publish-settings/div/div/div[2]/div/div/div[3]/div[2]/select</value>
-      <webElementGuid>a0314684-a6d3-48c5-b125-8ff861836964</webElementGuid>
+      <webElementGuid>9a769267-9c35-46f8-b6f8-b7c8e1d9efb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Client details'])[2]/following::select[1]</value>
-      <webElementGuid>5dfe7a8a-de96-4c46-8780-c4fb1522dbba</webElementGuid>
+      <webElementGuid>836da607-5c13-4549-b2b1-6105c63b4efa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
-      <webElementGuid>41b4ce97-8497-4959-9247-0575937da310</webElementGuid>
+      <webElementGuid>59be77c2-e6cf-453a-9623-7567242c5ef2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional details'])[1]/preceding::select[1]</value>
-      <webElementGuid>4e715569-b288-4ff5-a170-c893ee066b26</webElementGuid>
+      <webElementGuid>b6d46e44-e032-4094-bd22-b45968459c40</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial details'])[2]/preceding::select[2]</value>
-      <webElementGuid>4571a6b3-1d89-457a-913e-24502f6aa3fc</webElementGuid>
+      <webElementGuid>d4f8f6c9-998e-4bb4-bce0-921f8c9d04a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/select</value>
-      <webElementGuid>258ba2ba-42a7-4ce0-831b-0b43e78c7900</webElementGuid>
+      <webElementGuid>efab57ae-0710-49fe-b4bc-4b0fd143ddd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[(text() = 'UnpublishedPublishSigned off' or . = 'UnpublishedPublishSigned off')]</value>
-      <webElementGuid>bed95333-1d53-466b-b894-d58559390b21</webElementGuid>
+      <webElementGuid>287da6bc-f2bd-4115-976d-dbb33a376706</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

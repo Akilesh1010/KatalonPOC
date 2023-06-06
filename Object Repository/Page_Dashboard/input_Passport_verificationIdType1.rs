@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>72656f23-6c60-4c2c-9255-955d215b8601</webElementGuid>
+      <webElementGuid>1c0f650b-c03a-4843-ba53-54f112900580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>5704da33-0a07-4c1f-8883-11e71f9c6c8f</webElementGuid>
+      <webElementGuid>5ad65813-2252-47c0-b660-1ca0d153202e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-driving-licence</value>
-      <webElementGuid>81de2aa8-0064-4495-8b37-6700439b70bf</webElementGuid>
+      <webElementGuid>597cc90b-5c7c-4d21-a16f-34c04a0a20d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Driving licence</value>
-      <webElementGuid>935d9daa-5442-4975-a7da-47fd2b30072f</webElementGuid>
+      <webElementGuid>c8df4a8f-4d04-4d1c-817b-1b3dd7475287</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>verificationIdType</value>
-      <webElementGuid>f9becefa-4788-4e8a-81ce-3e36679d5f51</webElementGuid>
+      <webElementGuid>12112050-938c-425f-93e6-ae59cd05b45e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ml-m ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>859a92e9-7a5c-483a-be0d-13a0887d959d</webElementGuid>
+      <webElementGuid>3cd99368-1754-476b-92c0-f5c3f66486d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c6046c70-89a6-4f46-b372-a2dccdfd866a</webElementGuid>
+      <webElementGuid>9a3580c3-3b4c-4e33-bf75-0104d8a3ed77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>verificationIdType1</value>
-      <webElementGuid>f558820e-86d7-48ac-8746-9e04caf59eb3</webElementGuid>
+      <webElementGuid>e31ab13a-216e-4294-b2ee-ac897a98d4d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-driving-licence&quot;)</value>
-      <webElementGuid>69ca2b32-18fd-4347-92db-3b2cc9753a8e</webElementGuid>
+      <webElementGuid>f59fe92c-5db2-4071-9d6f-9a0e93f6faf6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1-driving-licence']</value>
-      <webElementGuid>48eb0938-97d5-4995-92b6-046bf2fe1a04</webElementGuid>
+      <webElementGuid>059410ff-7776-4e26-b38e-807fea0a5b61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[5]/div/div/div/input[2]</value>
-      <webElementGuid>551ea90e-0e29-49fa-9df0-f09246371df2</webElementGuid>
+      <webElementGuid>53e56eab-01b5-4885-a949-62d11d00c933</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'client1-driving-licence' and @name = 'verificationIdType1']</value>
-      <webElementGuid>e768b6e7-92c4-4e88-8bbe-9d6125e162e4</webElementGuid>
+      <webElementGuid>cb2de97b-6fdf-4fec-a4c5-33308c3407fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

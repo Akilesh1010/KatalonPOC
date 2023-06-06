@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fd5b386c-39a5-4cb6-ad18-77c50afbc5fe</webElementGuid>
+      <webElementGuid>bbca8d12-7ee2-46b7-bbaf-754fa3b9473d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>hasOptedInMarketingUpdates</value>
-      <webElementGuid>6febb15d-4bbb-42ee-88ef-7edda4701f53</webElementGuid>
+      <webElementGuid>4a4aba18-220f-453d-9c5c-7f44e3a9c87a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>3daccb83-7dbf-4c62-a8aa-689ecf7b508f</webElementGuid>
+      <webElementGuid>801073e5-3c57-4e35-be73-461a43dd61ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>client1-all-communications</value>
-      <webElementGuid>f9fa47a3-3191-45b4-85fb-44c419fcc6cd</webElementGuid>
+      <webElementGuid>8f342f0f-d100-4c06-b22c-bff456e4d818</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>a311b4d3-8a31-44bd-9ad8-92fea1400ee2</webElementGuid>
+      <webElementGuid>6942b723-96e3-4436-b307-9f221bf21c28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a187aab8-cfd5-4e14-b4ce-88b119118c11</webElementGuid>
+      <webElementGuid>5f953fc2-4f98-4b46-b746-e24938bdf5f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;client1-all-communications&quot;)</value>
-      <webElementGuid>c606b878-024d-4e94-8b25-4bf9f876fcb6</webElementGuid>
+      <webElementGuid>555bd17c-5ca2-4b2a-869c-2a2728c70478</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='client1-all-communications']</value>
-      <webElementGuid>20f9980b-583b-4f98-a4bd-b76ed41bb5e4</webElementGuid>
+      <webElementGuid>b6d28ac3-547e-47d9-a6e3-74eb4267e74c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label/input</value>
-      <webElementGuid>b7b9697c-cc08-4b7f-a1c6-173a53375b4d</webElementGuid>
+      <webElementGuid>198bff3e-9b71-4aaf-b481-7a52ad29d209</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @id = 'client1-all-communications']</value>
-      <webElementGuid>20a36a99-7e5b-4cea-9b2c-266249d6a9f6</webElementGuid>
+      <webElementGuid>69da8c3f-504d-4ac0-9658-b0b8af33a286</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

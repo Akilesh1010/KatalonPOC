@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ef1b7a64-774c-4247-9800-3758821d665f</webElementGuid>
+      <webElementGuid>2e60d92d-5e4a-4ab7-876d-14ee9f108159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>d20d7fcf-f807-4a5a-a27b-94f019b465a1</webElementGuid>
+      <webElementGuid>8758c778-563c-45af-908a-b9dfc4a45ea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>otherInformationClient1Option2</value>
-      <webElementGuid>3e12b441-d86c-4edf-8477-851420dd7b05</webElementGuid>
+      <webElementGuid>27930b5a-e44e-4133-a91f-a9d193e49831</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>isOtherFinancialInformationAvailable</value>
-      <webElementGuid>8ab5bc28-798b-437a-9976-9d5b1a8cd1ba</webElementGuid>
+      <webElementGuid>fd7c9703-a9c2-49b1-bf5c-2437ce731004</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox__input ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>b1f7421b-bce7-46d8-8572-cda10e54eb06</webElementGuid>
+      <webElementGuid>345318a7-3e5e-442f-b52f-50a732b40eca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>9686ff40-08a6-4309-952a-e52777488497</webElementGuid>
+      <webElementGuid>ece66a36-37c9-48ab-9e52-f40c10964579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>isOtherFinancialInformationAvailable1</value>
-      <webElementGuid>fe97e526-c498-4e03-9e8f-34ab149ca902</webElementGuid>
+      <webElementGuid>61e3a946-1bfa-493d-8f30-940c409d3be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;otherInformationClient1Option2&quot;)</value>
-      <webElementGuid>b52d99cb-079b-4022-a610-7730bc569f51</webElementGuid>
+      <webElementGuid>6b9cfd97-7e43-41f8-9cf5-bacc7dc7d514</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='otherInformationClient1Option2']</value>
-      <webElementGuid>238c24f2-d763-4e11-9bec-9be35d602233</webElementGuid>
+      <webElementGuid>9b067d94-a3fe-462d-b4f2-3dff6c159d3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/fieldset/div[3]/div[2]/div/div[2]/input</value>
-      <webElementGuid>ab86b946-9bc9-45f8-b729-c1b2a85b96ae</webElementGuid>
+      <webElementGuid>bc0f99d3-aac4-4fef-82d3-fc819c75ced1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @id = 'otherInformationClient1Option2' and @name = 'isOtherFinancialInformationAvailable1']</value>
-      <webElementGuid>f21874fb-c1db-460a-acc6-2692f7cca85c</webElementGuid>
+      <webElementGuid>8ab6e7a7-b65a-4f1b-b320-f29f4206f3b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

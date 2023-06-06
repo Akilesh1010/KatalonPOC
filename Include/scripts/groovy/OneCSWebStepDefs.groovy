@@ -67,4 +67,10 @@ class OneCSWebStepDefs {
 		// Write code here that turns the phrase above into concrete actions
 		WebUI.callTestCase(findTestCase('Test Cases/Initiating IMS Portal'), null)
 	}
+	
+	@Then("User validates Retirement Planning Service Type Fields")
+	public void user_validates_Retirement_Planning_Service_Type_Fields() {
+		// Write code here that turns the phrase above into concrete actions
+		WebUI.callTestCase(findTestCase('Test Cases/Retirment Planning E2E'), null)
+	}
 }
