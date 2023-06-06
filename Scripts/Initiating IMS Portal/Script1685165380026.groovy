@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/')
+WebUI.navigateToUrl(GlobalVariable.base_url)
 
 WebUI.maximizeWindow()
 

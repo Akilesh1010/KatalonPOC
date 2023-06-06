@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('bs://f6f9eb5d17a28d007f325b8b0137a794a6d1049c', true)
+Mobile.startApplication(GlobalVariable.bsApp, true)
 

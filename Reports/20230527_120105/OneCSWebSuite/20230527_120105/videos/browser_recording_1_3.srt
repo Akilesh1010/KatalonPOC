@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:00,000
-3. E2E Regression for IMS Portal Five Point Health Check
-
-2
-00:00:00,000 --> 00:00:00,000
-1. openBrowser("")
-

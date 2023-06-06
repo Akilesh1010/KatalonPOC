@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-OneCSWebSuite,Chrome 113.0.0.0,,,2023-05-27 12:01:27,2023-05-27 12:04:25,2m - 58.245s,PASSED
-,,,,,,,
-Test Cases/Modules/Five Point Regression,Chrome 113.0.0.0,,,2023-05-27 12:01:27,2023-05-27 12:04:25,2m - 58.044s,PASSED
-"runFeatureFile(""Include/features/OneCSIMSFivePoint.feature"")",Chrome 113.0.0.0,E2E Regression for IMS Portal Five Point Health Check,,2023-05-27 12:01:27,2023-05-27 12:04:25,2m - 57.787s,PASSED

@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d1daf9d4-c25e-47dd-852c-000704c7bb0b</testSuiteGuid>
    <testCaseLink>
-      <guid>f67ff45d-871a-4834-a796-95be6d69bf49</guid>
+      <guid>012b8d85-917f-4b51-9c25-5a49d4273a1f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Modules/SignIn Module</testCaseId>
+      <testCaseId>Test Cases/NoNetworkChecck</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,32 +1,15 @@
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
-import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
-import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
-import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testcase.TestCase as TestCase
-import com.kms.katalon.core.testdata.TestData as TestData
-import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject as TestObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable as GlobalVariable
-import org.openqa.selenium.Keys as Keys
-import java.io.BufferedReader as BufferedReader
-import java.io.InputStreamReader as InputStreamReader
-import java.net.HttpURLConnection as HttpURLConnection
-import java.net.URL as URL
 import java.nio.charset.StandardCharsets as StandardCharsets
-import java.util.Base64 as Base64
+import org.openqa.selenium.remote.DesiredCapabilities as DesiredCapabilities
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
 
-Mobile.startApplication('bs://5fd9ba484e52c4fb6694bb1fe99a7e51fb074835', true)
+import internal.GlobalVariable
+import io.appium.java_client.MobileElement as MobileElement
+import java.util.Base64;
 
-//Mobile.startApplication('C:\\Users\\akile\\Downloads\\7.26.0 (3837)_UAT Android.apk', true)
+Mobile.startApplication(GlobalVariable.bsApp, true)
+
 Mobile.tap(findTestObject('Object Repository/NetworkCheck/android.widget.TextView - Sign in'), 0)
 
 Mobile.setText(findTestObject('Object Repository/NetworkCheck/android.widget.EditText'), 'onecsapps', 0)
@@ -110,7 +93,6 @@ Mobile.tap(findTestObject('Object Repository/NetworkCheck/android.widget.Button'
 Mobile.verifyElementVisible(findTestObject('Object Repository/NetworkCheck/android.widget.TextView - An error occurred'), 
     0)
 
-
 sessionid1 = MobileDriverFactory.getDriver().getSessionId()
 
 String apiUrl1 = ('https://api-cloud.browserstack.com/app-automate/sessions/' + sessionid1) + '/update_network.json'
@@ -150,15 +132,11 @@ StringBuilder response1 = new StringBuilder()
 //while ((line1 = reader1.readLine()) != null) {
 //	response.append(line1)
 //}
-
 //reader.close()
-
 //System.out.println('Response Code: ' + responseCode1)
 //
 //System.out.println('Response Body: ' + response1.toString())
-
 connection1.disconnect()
-
 
 Mobile.tap(findTestObject('Object Repository/NetworkCheck/android.widget.TextView - OK (1)'), 0)
 
@@ -169,4 +147,5 @@ Mobile.verifyElementVisible(findTestObject('Object Repository/NetworkCheck/andro
 
 //Mobile.closeApplication()
 MobileDriverFactory.getDriver().closeApp()
+
 MobileDriverFactory.getDriver().quit()
