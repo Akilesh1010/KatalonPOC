@@ -73,4 +73,16 @@ class OneCSWebStepDefs {
 		// Write code here that turns the phrase above into concrete actions
 		WebUI.callTestCase(findTestCase('Test Cases/Retirment Planning E2E'), null)
 	}
+	
+	@Given("user launch Secure Portal Login page")
+	public void user_launch_Secure_Portal_Login_page() {
+		// Write code here that turns the phrase above into concrete actions
+		WebUI.callTestCase(findTestCase('Test Cases/Initiating Secure Portal'), null)
+	}
+	
+	@Then("User tries signing in Different Usernames and password")
+	public void user_tries_signing_in_Different_Usernames_and_password() {
+		// Write code here that turns the phrase above into concrete actions
+		WebUI.callTestCase(findTestCase('Test Cases/Secure Portal DD'), null)
+	}
 }

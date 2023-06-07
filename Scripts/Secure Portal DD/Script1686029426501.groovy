@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.SecurePortal)
-
 WebUI.setText(findTestObject('Object Repository/Secure Portal DD/Page_Portal/input_Username_username'), Username)
 
 WebUI.setText(findTestObject('Object Repository/Secure Portal DD/Page_Portal/input_Password_password'), Password)

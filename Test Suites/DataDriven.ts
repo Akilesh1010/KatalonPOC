@@ -12,87 +12,22 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>55c12891-a79c-4954-90bd-23c395c251e6</testSuiteGuid>
    <testCaseLink>
-      <guid>ac3bbe53-e97f-4d48-88e8-a9da9c917339</guid>
+      <guid>dbcd5c72-f2f6-4093-b4a0-4df930280bb6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Secure Portal DD</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>3ac5c566-21b2-4a08-b955-c7aee719c411</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/TestData</testDataId>
-      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>3ac5c566-21b2-4a08-b955-c7aee719c411</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Username</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>a21c2836-3be4-4665-a3b4-20b8112af679</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3ac5c566-21b2-4a08-b955-c7aee719c411</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Password</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>8f4e2185-7693-4d4e-afd3-f4d9545ed957</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>24ec01a3-2bdb-4d93-930e-e83174359424</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Secure Portal DD TC1</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>478b7e6b-2a87-43de-bff2-bec807d5efd6</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/TestData</testDataId>
-      </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>478b7e6b-2a87-43de-bff2-bec807d5efd6</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Username</value>
-         <variableId>33206f7e-ee1d-4bc0-a94b-c883895cf266</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>478b7e6b-2a87-43de-bff2-bec807d5efd6</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Password</value>
-         <variableId>3e048739-7f03-471c-9027-550e10ed0103</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9d289a35-9f0c-441f-a709-76b702c8d55d</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Secure Portal DD TC2</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>f30309de-5e59-49b0-a84f-e56832f7c53f</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/TestData</testDataId>
-      </testDataLink>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId>f30309de-5e59-49b0-a84f-e56832f7c53f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Username</value>
-         <variableId>3d2dbf52-7ec6-445e-b63a-5adecfb9b693</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId>f30309de-5e59-49b0-a84f-e56832f7c53f</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Password</value>
-         <variableId>d483e489-9c94-4b09-97bc-73f72265e6a3</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

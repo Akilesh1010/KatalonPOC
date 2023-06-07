@@ -5,16 +5,25 @@
    <tag>DataDriven</tag>
    <comment></comment>
    <testCaseGuid>0f4ba3fc-20c8-4f1e-bcd7-858ba3d6f014</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>55843a90-e7a6-4189-bb7b-dca7e4bf7702</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/TestData</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>55843a90-e7a6-4189-bb7b-dca7e4bf7702</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Username</value>
       <variableId>a21c2836-3be4-4665-a3b4-20b8112af679</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>55843a90-e7a6-4189-bb7b-dca7e4bf7702</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
       <variableId>8f4e2185-7693-4d4e-afd3-f4d9545ed957</variableId>
    </variableLinks>
    <variable>
