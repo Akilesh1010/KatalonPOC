@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:00,000
+3. Secure Portal Login Check with mulitple creds
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl(SecurePortal)
+
+4
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+5
+00:00:00,000 --> 00:00:00,000
+1. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Username_username"), Username)
+
+6
+00:00:00,000 --> 00:00:00,000
+5. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Password_password"), Password)
+
+7
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Secure Portal DD/Page_Portal/button_Continue"))
+
+8
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+9
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl(SecurePortal)
+
+10
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+11
+00:00:00,000 --> 00:00:00,000
+1. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Username_username"), Username)
+
+12
+00:00:00,000 --> 00:00:00,000
+5. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Password_password"), Password)
+
+13
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Secure Portal DD/Page_Portal/button_Continue"))
+
+14
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+15
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl(SecurePortal)
+
+16
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+17
+00:00:00,000 --> 00:00:00,000
+1. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Username_username"), Username)
+
+18
+00:00:00,000 --> 00:00:00,000
+5. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Password_password"), Password)
+
+19
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Secure Portal DD/Page_Portal/button_Continue"))
+

@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:00,000
+3. Secure Portal Login Check with mulitple creds
+
+2
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+3
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl(SecurePortal)
+
+4
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+5
+00:00:00,000 --> 00:00:00,000
+1. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Username_username"), Username)
+
+6
+00:00:00,000 --> 00:00:00,000
+5. setText(findTestObject("Object Repository/Secure Portal DD/Page_Portal/input_Password_password"), Password)
+

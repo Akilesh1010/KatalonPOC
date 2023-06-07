@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the  MORE screen details</description>
+   <name>More Module</name>
+   <tag>More</tag>
+   <comment></comment>
+   <testCaseGuid>d1a2e70a-839f-4033-9922-92f28dd35a6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,160 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "BDD_TESTRUN_UUID": "a315d518-eeb7-45b4-a23b-2fb4ead2fc17",
+        "line": 4,
+        "name": "2.01 - verify the details displayed on the Sign In Welcome Screen",
+        "description": "",
+        "id": "sign-in;2.01---verify-the-details-displayed-on-the-sign-in-welcome-screen",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29440148200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user launches the OneCS Mobile app",
+            "match": {
+              "location": "Android_OneCSMobile.the_user_launches_the_OneCS_Mobile_app()"
+            },
+            "keyword": "Given ",
+            "BDD_STEP_UUID": "8a37a04c-7ef6-45a9-8212-2078b4f11fc5"
+          },
+          {
+            "result": {
+              "duration": 11762068600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user validates the following for Sign In Welcome Screen",
+            "match": {
+              "location": "SignInStepDefs.the_user_validates_the_following_for_Sign_In_Welcome_Screen(String)"
+            },
+            "keyword": "Then ",
+            "doc_string": {
+              "line": 7,
+              "value": "User should see \"CHARLES_STANLEY\" logo in welcome screen for Android\nuser should see \"CREATE_SECURE\" text in welcome screen for Android\nuser verifies \"SIGN_IN\" button in welcome screen for Android\nuser should see \"Don\u0027t have an account?\" text on welcome screen for Android\nuser should verify \"CREATE_ONE_ON_OUR_WEBSITE\" text in welcome screen for Android\nuser taps on \"CREATE_ONE_ON_OUR_WEBSITE\" link on Android\nuser should be Navigated to the \"https://www.charles-stanley.co.uk/services/save\" website for Android\nuser clicks on Back Button for Android\nuser should be Navigated again to \"WELCOME_SCREEN\" for Android"
+            },
+            "BDD_STEP_UUID": "4bb12ad4-93f2-4b0a-bdc1-192293f72d15"
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SignIn_Android"
+          },
+          {
+            "name": "@2.01_Android"
+          }
+        ]
+      },
+      {
+        "BDD_TESTRUN_UUID": "8f1f143d-40ef-44f5-91f5-731487cd6547",
+        "line": 20,
+        "name": "2.02 - verify the details displayed on the Sign In Welcome Screen",
+        "description": "",
+        "id": "sign-in;2.02---verify-the-details-displayed-on-the-sign-in-welcome-screen",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 30555528800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "the user launches the OneCS Mobile app",
+            "match": {
+              "location": "Android_OneCSMobile.the_user_launches_the_OneCS_Mobile_app()"
+            },
+            "keyword": "Given ",
+            "BDD_STEP_UUID": "8b5c4005-ec04-46e0-9c7c-d40d6626f966"
+          },
+          {
+            "result": {
+              "duration": 11421242400,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "the user validates the following for Sign In Registration",
+            "match": {
+              "location": "SignInStepDefs.the_user_validates_the_following_for_Sign_In_Registration(String)"
+            },
+            "keyword": "Then ",
+            "doc_string": {
+              "line": 23,
+              "value": "user Clicks on \"SIGN_IN\" button\nuser should see \"Sign in step 1 of 4\" from Sign-in Screen for Android\nuser should see \"X_Button\" on the top left corner of the screen for Android\nuser should see progress bar as \"Step1_of_4\" in signin screen for Android\nuser should verify whether \"Username \u0026 password\" is present in sigin screen for Android\nuser should be able to see \"Please enter your username and password associated with your Charles Stanley account.\" on signin Screen For Android\nuser should see \"Username\" text inside the username box\nuser should see \"Password\"  text inside the Password box\nuser verifies username and password field is empty\nuser should see \"CLOSED_EYE\" symbol inside password box\nuser should see \"INFO_BUTTON\" encircled in pink in signin screen\nuser should see a link stating \"I\u0027ve forgotten my details\" in signin screen\nuser should verify continue button Disabled"
+            },
+            "BDD_STEP_UUID": "4aa3ca49-5b76-4b35-8b78-e07285ef6b82"
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SignIn_Android"
+          },
+          {
+            "name": "@2.02_Android"
+          }
+        ]
+      },
+      {
+        "BDD_TESTRUN_UUID": "ed9dcedf-ec62-48d5-a8a6-515673180432",
+        "line": 40,
+        "name": "2.04 - verify the details displayed on the Sign In Welcome Screen",
+        "description": "",
+        "id": "sign-in;2.04---verify-the-details-displayed-on-the-sign-in-welcome-screen",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 24362858000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "the user launches the OneCS Mobile app",
+            "match": {
+              "location": "Android_OneCSMobile.the_user_launches_the_OneCS_Mobile_app()"
+            },
+            "keyword": "Given ",
+            "BDD_STEP_UUID": "7d9c14b0-c540-4ede-a9fe-f4060622ee2b"
+          },
+          {
+            "result": {
+              "duration": 33138957600,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "the user validates the following for Progress bar",
+            "match": {
+              "location": "SignInStepDefs.the_user_validates_the_following_for_Progress_bar(String)"
+            },
+            "keyword": "Then ",
+            "doc_string": {
+              "line": 43,
+              "value": "user Clicks on \"SIGN_IN\" button\nuser enters \"Correct_Username\" and \"Correct_Password\"\nuser should see \"Continue_Button\" enabled\nuser should see progress bar as \"Step1_of_4\" in signin screen for Android\nuser Clicks on \"Continue_Button\"\nuser should see progress bar as \"Step2_of_4\" in signin screen for Android\nuser clicks on Back Button for Android\nuser should see progress bar as \"Step1_of_4\" in signin screen for Android\nuser should see the entered username and password retained in sigin Screen for Android\nuser Clicks on \"Continue_Button\"\nuser should see \"TWO_FA\" screen"
+            },
+            "BDD_STEP_UUID": "f73843ce-d6bf-475f-a21a-81b614bcbdb6"
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SignIn_Android"
+          },
+          {
+            "name": "@2.04_Android"
+          }
+        ]
+      }
+    ],
+    "name": "Sign In",
+    "description": "",
+    "id": "sign-in",
+    "keyword": "Feature",
+    "uri": "C:/Users/akile/git/KatalonMobileWeb/Include/features/Android_Registration.feature",
+    "tags": []
+  }
+]

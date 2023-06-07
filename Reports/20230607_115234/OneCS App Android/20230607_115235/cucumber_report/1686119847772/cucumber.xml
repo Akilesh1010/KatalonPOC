@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="157.460624">
+<testcase classname="More" name="8.01 - verify the details displayed on the Sign In Welcome Screen" time="157.460624">
+<system-out><![CDATA[Given the user launches the OneCS Mobile app................................passed
+And the user validates the following for More Screen........................passed
+]]></system-out>
+</testcase>
+</testsuite>
