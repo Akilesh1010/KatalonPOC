@@ -5,24 +5,24 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>61c9ceba-ac38-40d1-9c0f-2b3f3699cc46</testSuiteGuid>
    <testCaseLink>
-      <guid>7d643f29-d145-4113-b1fa-ef5639b21cb0</guid>
+      <guid>7a5dec07-735c-42f2-b221-cd2b50c4e58f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Modules/More Module</testCaseId>
+      <testCaseId>Test Cases/Sign In/2.01_Android</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4fbd5fc7-ff0e-440d-93fd-6d8938dc9d6e</guid>
+      <guid>dbb82bde-3b25-4909-8a08-e486db2eddd7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Modules/SignIn Module</testCaseId>
+      <testCaseId>Test Cases/Sign In/2.02_Android</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

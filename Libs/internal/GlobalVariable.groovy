@@ -25,6 +25,16 @@ Profile SIT : Sit Url</p>
      */
     public static Object SecurePortal
      
+    /**
+     * <p></p>
+     */
+    public static Object bsiOSapp
+     
+    /**
+     * <p></p>
+     */
+    public static Object BundleID
+     
 
     static {
         try {
@@ -35,6 +45,8 @@ Profile SIT : Sit Url</p>
             base_url = selectedVariables['base_url']
             bsApp = selectedVariables['bsApp']
             SecurePortal = selectedVariables['SecurePortal']
+            bsiOSapp = selectedVariables['bsiOSapp']
+            BundleID = selectedVariables['BundleID']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)
