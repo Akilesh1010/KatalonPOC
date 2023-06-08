@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Visual Testing Suite,Chrome 114.0.0.0,UI Automation,,2023-06-08 09:53:41,2023-06-08 09:54:25,44.583s,PASSED
+,,,,,,,
+Test Cases/Ui Testing/UI Testing IMS Portal,Chrome 114.0.0.0,UI Validation of IMS Portal,IMS Portal UI,2023-06-08 09:53:41,2023-06-08 09:54:25,44.155s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-06-08 09:53:42,2023-06-08 09:53:46,3.883s,PASSED
+"navigateToUrl(""http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/"")",Chrome 114.0.0.0,,,2023-06-08 09:53:46,2023-06-08 09:53:48,2.245s,PASSED
+"click(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/button_Create new""))",Chrome 114.0.0.0,,,2023-06-08 09:53:48,2023-06-08 09:53:58,10.707s,PASSED
+"takeElementScreenshotAsCheckpoint(""Application Selection"", findTestObject(""Object Repository/Ui Testing/Page_Dashboard/Application Service Type Selection""))",Chrome 114.0.0.0,,,2023-06-08 09:53:58,2023-06-08 09:54:00,1.133s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547""), ""3"", true)",Chrome 114.0.0.0,,,2023-06-08 09:54:00,2023-06-08 09:54:02,1.892s,PASSED
+"takeElementScreenshotAsCheckpoint(""Retirement Planning"", findTestObject(""Object Repository/Ui Testing/Page_Dashboard/Application Service Type Selection""))",Chrome 114.0.0.0,,,2023-06-08 09:54:02,2023-06-08 09:54:02,0.957s,PASSED
+"click(findTestObject(""Object Repository/Page_Dashboard/button_Create new""))",Chrome 114.0.0.0,,,2023-06-08 09:54:02,2023-06-08 09:54:03,0.531s,PASSED
+"waitForElementVisible(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/span_Business getter code_anchor""), 0)",Chrome 114.0.0.0,,,2023-06-08 09:54:03,2023-06-08 09:54:18,15.381s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Summary"")",Chrome 114.0.0.0,,,2023-06-08 09:54:18,2023-06-08 09:54:19,0.993s,PASSED
+"click(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/span_Business getter code_anchor""))",Chrome 114.0.0.0,,,2023-06-08 09:54:19,2023-06-08 09:54:20,0.455s,PASSED
+"click(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/li_MRL - Aaron Murphy""))",Chrome 114.0.0.0,,,2023-06-08 09:54:20,2023-06-08 09:54:20,0.583s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""Businessgettercode"")",Chrome 114.0.0.0,,,2023-06-08 09:54:20,2023-06-08 09:54:21,0.975s,PASSED
+"click(findTestObject(""Object Repository/Ui Testing/Page_Dashboard/span_Client Details""))",Chrome 114.0.0.0,,,2023-06-08 09:54:21,2023-06-08 09:54:22,0.497s,PASSED
+"waitForElementVisible(findTestObject(""Page_Dashboard/input_First names_client1firstnames""), 0)",Chrome 114.0.0.0,,,2023-06-08 09:54:22,2023-06-08 09:54:24,1.611s,PASSED
+"takeFullPageScreenshotAsCheckpoint(""ClientDetails"")",Chrome 114.0.0.0,,,2023-06-08 09:54:24,2023-06-08 09:54:25,1.713s,PASSED

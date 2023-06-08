@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>OneCS Android App UI Validation</description>
+   <name>UI Testing Mobile Android</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>914a108c-4091-4c42-99b1-d2f2186efb30</testCaseGuid>
+</TestCaseEntity>

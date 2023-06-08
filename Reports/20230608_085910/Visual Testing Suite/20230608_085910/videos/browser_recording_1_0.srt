@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("http://kdx03:Servehugematch93!@clientsupport.sit.charles-stanley.co.uk/app/")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. click(findTestObject("Object Repository/Ui Testing/Page_Dashboard/button_Create new"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. takeElementScreenshotAsCheckpoint("Application Selection", findTestObject("Object Repository/Ui Testing/Page_Dashboard/Application Service Type Selection"))
+
+5
+00:00:00,000 --> 00:00:00,000
+17. selectOptionByValue(findTestObject("Object Repository/Ui Testing/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547"), "3", true)
+
+6
+00:00:00,000 --> 00:00:00,000
+21. takeElementScreenshotAsCheckpoint("Application Selection", findTestObject("Object Repository/Ui Testing/Page_Dashboard/Application Service Type Selection"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. click(findTestObject("Object Repository/Page_Dashboard/button_Create new"))
+
+8
+00:00:00,000 --> 00:00:00,000
+29. waitForElementVisible(findTestObject("Object Repository/Ui Testing/Page_Dashboard/span_Business getter code_anchor"), 0)
+
+9
+00:00:00,000 --> 00:00:00,000
+33. takeFullPageScreenshotAsCheckpoint("current_viewport")
+
+10
+00:00:00,000 --> 00:00:00,000
+37. click(findTestObject("Object Repository/Ui Testing/Page_Dashboard/span_Business getter code_anchor"))
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Ui Testing/Page_Dashboard/li_MRL - Aaron Murphy"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. takeFullPageScreenshotAsCheckpoint("current_viewport")
+
+13
+00:00:00,000 --> 00:00:00,000
+49. click(findTestObject("Object Repository/Ui Testing/Page_Dashboard/span_Client Details"))
+
+14
+00:00:00,000 --> 00:00:00,000
+53. waitForElementVisible(findTestObject("Page_Dashboard/input_First names_client1firstnames"), 0)
+
+15
+00:00:00,000 --> 00:00:00,000
+57. takeFullPageScreenshotAsCheckpoint("current_viewport")
+
