@@ -1088,10 +1088,7 @@ UI Testing IMS Portal.run(UI Testing IMS Portal:47)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2023-06-08T10:01:19</date>
   <millis>1686198679025</millis>
@@ -1140,3 +1137,4 @@ UI Testing IMS Portal.run(UI Testing IMS Portal:47)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+</log>

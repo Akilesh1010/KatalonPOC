@@ -19,4 +19,14 @@
       <initValue>'http://secure-sit.charles-stanley.co.uk/'</initValue>
       <name>SecurePortal</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bs://dd4bd3e57fd0f09e4b171b36cbe648e1af701bb0'</initValue>
+      <name>bsiOSapp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'uk.co.charles-stanley.ios.qa-apadmi'</initValue>
+      <name>BundleID</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
