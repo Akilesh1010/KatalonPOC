@@ -4128,10 +4128,7 @@ SignIn Module.run(SignIn Module:20)
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2023-06-08T17:51:52</date>
   <millis>1686226912828</millis>
