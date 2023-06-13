@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-OneCS App Android,,Android Suite Run,,2023-06-07 13:42:29,2023-06-07 13:45:45,3m - 15.734s,PASSED
-,,,,,,,
-Test Cases/Modules/More Module,,Verify the  MORE screen details,More,2023-06-07 13:42:29,2023-06-07 13:43:23,53.688s,PASSED
-"runFeatureFile(""Include/features/Android_More.feature"")",,,,2023-06-07 13:42:30,2023-06-07 13:43:23,53.052s,PASSED
-,,,,,,,
-Test Cases/Modules/SignIn Module,,Verify Sign in Screen,Signin,2023-06-07 13:43:23,2023-06-07 13:45:45,2m - 21.557s,PASSED
-"runFeatureFile(""Include/features/Android_Registration.feature"")",,,,2023-06-07 13:43:23,2023-06-07 13:45:45,2m - 21.079s,PASSED

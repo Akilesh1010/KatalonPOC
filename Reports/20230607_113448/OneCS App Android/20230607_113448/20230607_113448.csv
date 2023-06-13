@@ -1,6 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-OneCS App Android,,Android Suite Run,,2023-06-07 11:34:58,2023-06-07 11:35:00,1.959s,ERROR
-,,,,,,,
-Test Cases/Modules/SignIn Module,,Sign In/Login,SignIn,2023-06-07 11:34:59,2023-06-07 11:34:59,0.220s,ERROR
-,,,,,,,
-Test Cases/Modules/More Module,,Verify the  MORE screen details,More,2023-06-07 11:35:00,2023-06-07 11:35:00,0.194s,ERROR
