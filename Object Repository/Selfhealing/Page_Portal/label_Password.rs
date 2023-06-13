@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password</name>
+   <tag></tag>
+   <elementGuidId>d2f07e2c-14c1-43af-aa8e-9eea98f63e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Password' or . = 'Password')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Password' or . = 'Password')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>633569b7-6191-4c90-8500-a013e67d264c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>5022b256-df53-4784-9a79-88b5783554c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>f905e048-aa69-44a3-b2d5-436415cf74b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>7a234b81-e1dc-45f9-96f7-da90665cb692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-signin[1]/lib-kaleidoscope-kate[1]/lib-signin[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;container mt-xxl mb-xxl&quot;]/div[@class=&quot;row column-gap__dynamic&quot;]/div[@class=&quot;bg-white col-8 col-mobile-12 p-mobile-l p-xxl box-shadow-grey br-xs&quot;]/div[@class=&quot;row mb-l column-gap__dynamic&quot;]/div[@class=&quot;col-8 col-tablet-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>7784ee39-1b4f-4849-b955-ce2b1d6a9a7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>bc209c2b-ac9f-48fb-8779-bfb83d95258f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
+      <webElementGuid>9c86843c-0231-45f1-9a39-f3b9c4e30f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::label[2]</value>
+      <webElementGuid>b05c5ed7-0fda-482e-b077-5a80dff16f60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten your details?'])[1]/preceding::label[1]</value>
+      <webElementGuid>f4ed8d9c-9ef9-4f7f-8070-231944c695d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::label[1]</value>
+      <webElementGuid>54896048-8f48-4a8f-8d44-3259bae723d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>69866876-431e-4a8d-83db-9761484b76d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>b7791646-dbbe-4e25-8d38-75d51e8f224b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OneCS App Android,,Android Suite Run,,2023-06-12 18:28:49,2023-06-12 18:28:50,0.667s,ERROR
+,,,,,,,
+Test Cases/Sign In/2.01_Android,,Verify the details displayed on the Sign In Welcome Screen,SignIn,2023-06-12 18:28:49,2023-06-12 18:28:49,0.024s,ERROR
+"startApplication(bsApp, true)",,,,2023-06-12 18:28:49,2023-06-12 18:28:49,0.004s,ERROR
+Start listener action : sampleAfterTestCase,,,,2023-06-12 18:28:49,2023-06-12 18:28:49,0.001s,PASSED
+,,,,,,,
+Test Cases/Sign In/2.02_Android,,"To verify the details displayed on the ""Sign In Registration"" Screens",SignIn,2023-06-12 18:28:50,2023-06-12 18:28:50,0.016s,ERROR
+"startApplication(bsApp, true)",,,,2023-06-12 18:28:50,2023-06-12 18:28:50,0.003s,ERROR
+Start listener action : sampleAfterTestCase,,,,2023-06-12 18:28:50,2023-06-12 18:28:50,0.001s,PASSED

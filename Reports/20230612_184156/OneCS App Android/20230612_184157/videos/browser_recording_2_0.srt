@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. startApplication(bsApp, true)
+
+2
+00:00:00,000 --> 00:00:00,000
+5. tap(findTestObject("Object Repository/Android Objects/Sign in Button"), 0)
+
+3
+00:00:00,000 --> 00:00:00,000
+9. verifyElementText(findTestObject("Object Repository/Android Objects/android.widget.TextView - Sign in step 1 of 4"), "Sign in step 1 of 4")
+
+4
+00:00:00,000 --> 00:00:00,000
+13. verifyElementExist(findTestObject("Object Repository/Android Objects/X_Button"), 0)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. verifyElementText(findTestObject("Object Repository/Android Objects/android.widget.TextView - Username  password"), "Username & password")
+
+6
+00:00:00,000 --> 00:00:00,000
+21. verifyElementText(findTestObject("Object Repository/Android Objects/android.widget.TextView - Please enter your username and password associated with your Charles Stanley account"), "Please enter your username and password associated with your Charles Stanley account.")
+
+7
+00:00:00,000 --> 00:00:00,000
+25. verifyElementText(findTestObject("Object Repository/Android Objects/Usernamefiled"), "")
+
+8
+00:00:00,000 --> 00:00:00,000
+29. verifyElementText(findTestObject("Object Repository/Android Objects/Passwordfiled"), "")
+
+9
+00:00:00,000 --> 00:00:00,000
+33. verifyElementVisible(findTestObject("Object Repository/Android Objects/eyebuttoninsignin"), 0)
+
+10
+00:00:00,000 --> 00:00:00,000
+37. verifyElementVisible(findTestObject("Object Repository/SignIn/android.widget.TextView - Ive forgotten my details"), 0)
+
+11
+00:00:00,000 --> 00:00:00,000
+41. getDriver().closeApp()
+
+12
+00:00:00,000 --> 00:00:00,000
+45. getDriver().quit()
+

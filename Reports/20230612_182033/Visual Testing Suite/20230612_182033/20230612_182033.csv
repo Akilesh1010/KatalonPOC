@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Visual Testing Suite,,UI Automation,,2023-06-12 18:20:43,2023-06-12 18:21:43,1m - 0.033s,PASSED
+,,,,,,,
+Test Cases/Ui Testing/UI Testing Mobile Android,,OneCS Android App UI Validation,,2023-06-12 18:20:44,2023-06-12 18:21:43,59.420s,PASSED
+"startApplication(bsApp, true)",,,,2023-06-12 18:20:44,2023-06-12 18:21:11,26.915s,PASSED
+"takeScreenshotAsCheckpoint(""logoScreen"")",,,,2023-06-12 18:21:11,2023-06-12 18:21:16,5.090s,PASSED
+"tap(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Sign in""), 0)",,,,2023-06-12 18:21:16,2023-06-12 18:21:20,3.518s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Ui Testing/android.widget.EditText""), 0)",,,,2023-06-12 18:21:20,2023-06-12 18:21:22,1.900s,PASSED
+"takeScreenshotAsCheckpoint(""SignIn"")",,,,2023-06-12 18:21:22,2023-06-12 18:21:25,3.442s,PASSED
+"setText(findTestObject(""Object Repository/Ui Testing/android.widget.EditText""), ""bob"", 0)",,,,2023-06-12 18:21:25,2023-06-12 18:21:27,2.232s,PASSED
+"setText(findTestObject(""Object Repository/Ui Testing/android.widget.EditText (1)""), ""Pass123$"", 0)",,,,2023-06-12 18:21:27,2023-06-12 18:21:29,2.263s,PASSED
+"takeScreenshotAsCheckpoint(""UsernmaePassword"")",,,,2023-06-12 18:21:29,2023-06-12 18:21:33,3.357s,PASSED
+"tap(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Continue""), 0)",,,,2023-06-12 18:21:33,2023-06-12 18:21:36,3.065s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Verify your account""), 0)",,,,2023-06-12 18:21:36,2023-06-12 18:21:38,2.295s,PASSED
+"takeScreenshotAsCheckpoint(""2FA"")",,,,2023-06-12 18:21:38,2023-06-12 18:21:42,3.306s,PASSED
+getDriver().closeApp(),,,,2023-06-12 18:21:42,2023-06-12 18:21:42,0.422s,PASSED
+getDriver().quit(),,,,2023-06-12 18:21:42,2023-06-12 18:21:43,1.333s,PASSED
+Start listener action : sampleAfterTestCase,,,,2023-06-12 18:21:43,2023-06-12 18:21:43,0.014s,PASSED

@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>c92ab011-8ba2-4460-a216-ea50df08a930</testSuiteGuid>
    <testCaseLink>
-      <guid>9bab6dbf-8b11-4e6f-9054-79bda5614379</guid>
+      <guid>4b8f67c6-1206-43ae-991f-87b999d55a9e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Ui Testing/UI Testing IMS Portal</testCaseId>
+      <testCaseId>Test Cases/Ui Testing/UI Testing Mobile Android</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

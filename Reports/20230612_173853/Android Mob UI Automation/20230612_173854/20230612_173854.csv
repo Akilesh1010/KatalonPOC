@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Android Mob UI Automation,,,,2023-06-12 17:39:02,2023-06-12 17:40:16,1m - 14.408s,PASSED
+,,,,,,,
+Test Cases/Ui Testing/UI Testing Mobile Android,,OneCS Android App UI Validation,,2023-06-12 17:39:02,2023-06-12 17:40:16,1m - 14.223s,PASSED
+"startApplication(bsApp, true)",,,,2023-06-12 17:39:02,2023-06-12 17:39:42,39.578s,PASSED
+"takeScreenshotAsCheckpoint(""logoScreen"")",,,,2023-06-12 17:39:42,2023-06-12 17:39:48,5.966s,PASSED
+"tap(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Sign in""), 0)",,,,2023-06-12 17:39:48,2023-06-12 17:39:51,3.469s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Ui Testing/android.widget.EditText""), 0)",,,,2023-06-12 17:39:51,2023-06-12 17:39:53,1.738s,PASSED
+"takeScreenshotAsCheckpoint(""SignIn"")",,,,2023-06-12 17:39:53,2023-06-12 17:39:56,3.556s,PASSED
+"setText(findTestObject(""Object Repository/Ui Testing/android.widget.EditText""), ""bob"", 0)",,,,2023-06-12 17:39:56,2023-06-12 17:39:59,2.365s,PASSED
+"setText(findTestObject(""Object Repository/Ui Testing/android.widget.EditText (1)""), ""Pass123$"", 0)",,,,2023-06-12 17:39:59,2023-06-12 17:40:02,2.824s,PASSED
+"takeScreenshotAsCheckpoint(""UsernmaePassword"")",,,,2023-06-12 17:40:02,2023-06-12 17:40:05,3.384s,PASSED
+"tap(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Continue""), 0)",,,,2023-06-12 17:40:05,2023-06-12 17:40:08,3.219s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Ui Testing/android.widget.TextView - Verify your account""), 0)",,,,2023-06-12 17:40:08,2023-06-12 17:40:11,2.847s,PASSED
+"takeScreenshotAsCheckpoint(""2FA"")",,,,2023-06-12 17:40:11,2023-06-12 17:40:14,3.437s,PASSED
+getDriver().closeApp(),,,,2023-06-12 17:40:14,2023-06-12 17:40:15,0.437s,PASSED
+getDriver().quit(),,,,2023-06-12 17:40:15,2023-06-12 17:40:16,1.274s,PASSED

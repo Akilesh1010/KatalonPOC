@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OneCS App Android,,Android Suite Run,,2023-06-12 18:27:19,2023-06-12 18:27:20,1.139s,FAILED
+,,,,,,,
+Test Cases/Sign In/2.01_Android,,Verify the details displayed on the Sign In Welcome Screen,SignIn,2023-06-12 18:27:20,2023-06-12 18:27:20,0.097s,FAILED
+"verifyElementExist(findTestObject(""Object Repository/Android Objects/logo""), 0)",,,,2023-06-12 18:27:20,2023-06-12 18:27:20,0.082s,PASSED
+Start listener action : sampleAfterTestCase,,,,2023-06-12 18:27:20,2023-06-12 18:27:20,0.000s,PASSED
+,,,,,,,
+Test Cases/Sign In/2.02_Android,,"To verify the details displayed on the ""Sign In Registration"" Screens",SignIn,2023-06-12 18:27:20,2023-06-12 18:27:20,0.066s,FAILED
+"tap(findTestObject(""Object Repository/Android Objects/Sign in Button""), 0)",,,,2023-06-12 18:27:20,2023-06-12 18:27:20,0.053s,PASSED
+Start listener action : sampleAfterTestCase,,,,2023-06-12 18:27:20,2023-06-12 18:27:20,0.000s,PASSED

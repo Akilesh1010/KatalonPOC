@@ -3,6 +3,9 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
 
+import internal.GlobalVariable
+Mobile.startApplication(GlobalVariable.bsApp, true)
+
 Mobile.tap(findTestObject('Object Repository/Android Objects/Sign in Button'), 0)
 
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/android.widget.TextView - Sign in step 1 of 4'),

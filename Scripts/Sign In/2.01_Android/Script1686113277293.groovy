@@ -1,7 +1,13 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import org.testng.Assert as Assert
+
+import org.testng.Assert
+
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
+import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
+
+import internal.GlobalVariable
+
+Mobile.startApplication(GlobalVariable.bsApp, true)
 
 Mobile.verifyElementExist(findTestObject('Object Repository/Android Objects/logo'), 0)
 
