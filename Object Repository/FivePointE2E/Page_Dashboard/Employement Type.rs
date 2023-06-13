@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Employement Type</name>
+   <tag></tag>
+   <elementGuidId>dbb3ef30-236f-40df-ba7a-57d952dad397</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-checkbox.pb-l > label.form-checkbox__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Employed' or . = 'Employed')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>996a642d-96fe-42e0-ac3d-56352b4778e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>client1-employed</value>
+      <webElementGuid>671e6703-9a65-4a58-a745-a5fa2a43afbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-checkbox__label</value>
+      <webElementGuid>8f9bd766-0b04-45d6-b727-f98a68bf1fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employed</value>
+      <webElementGuid>ce67c22e-af7c-40ca-a0f5-edc44ee7aa3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-create-application[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row mt-l&quot;]/div[@class=&quot;col-12 mt-xl mb-xxl&quot;]/app-tabs[1]/div[@class=&quot;tabs--container row&quot;]/div[@class=&quot;tabs--body col-12&quot;]/app-tab[5]/div[1]/app-additional-client-details[1]/div[@class=&quot;container p-0 bg-white box-shadow-grey ng-dirty ng-touched ng-valid&quot;]/section[@class=&quot;row pl-l pt-m pb-m&quot;]/div[@class=&quot;col-5 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;switch&quot;]/div[@class=&quot;form-checkbox pb-l&quot;]/label[@class=&quot;form-checkbox__label&quot;]</value>
+      <webElementGuid>92b81e3c-12c3-4581-88a4-8742ede428c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Employed' or . = 'Employed')]</value>
+      <webElementGuid>c535b8d6-3b6a-486d-b035-8501772c850e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment type'])[1]/following::label[1]</value>
+      <webElementGuid>c03323eb-3ca5-45ef-8b05-d89a42011cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment status'])[1]/following::label[1]</value>
+      <webElementGuid>ca844706-cfc7-4732-a480-0c7cc7b74f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self employed'])[1]/preceding::label[1]</value>
+      <webElementGuid>3eb58f1a-ec91-41a2-8c54-be4925a866e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retired'])[1]/preceding::label[2]</value>
+      <webElementGuid>a236c574-f65e-4165-b219-790d85fb62fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employed']/parent::*</value>
+      <webElementGuid>1eb725d7-4c8f-4ce2-920a-f2aeaf8ee61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[7]/div/div/div/label</value>
+      <webElementGuid>67aae6f9-e52f-4924-b8d8-9c233e142274</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
