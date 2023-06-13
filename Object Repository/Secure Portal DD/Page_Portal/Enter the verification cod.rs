@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>Enter the verification code</name>
+   <name>Enter the verification cod</name>
    <tag></tag>
    <elementGuidId>509f4c8b-8dfc-41bf-b75e-2d2b5f85617a</elementGuidId>
    <selectorCollection>

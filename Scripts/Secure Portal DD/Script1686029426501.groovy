@@ -23,8 +23,8 @@ WebUI.setText(findTestObject('Object Repository/Secure Portal DD/Page_Portal/inp
 
 WebUI.click(findTestObject('Object Repository/Secure Portal DD/Page_Portal/button_Continue'))
 
-WebUI.verifyElementVisible(findTestObject('Secure Portal DD/Page_Portal/Enter the verification code'))
+WebUI.verifyElementVisible(findTestObject('Secure Portal DD/Page_Portal/Enter the verification cod'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Secure Portal DD/Page_Portal/Enter the verification code'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Secure Portal DD/Page_Portal/Enter the verification cod'), 
     'Enter the verification code we have sent to your mobile phone')
 
