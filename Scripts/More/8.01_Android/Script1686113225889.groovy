@@ -13,7 +13,7 @@ Mobile.verifyElementExist(findTestObject('Object Repository/Android Objects/X_Bu
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/android.widget.TextView - Username  password'), 
     'Username & password')
 
-Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/android.widget.TextView - Please enter your username and password associated with your Charles Stanley account'), 
+Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/Please associated with your Charles Stanley account'), 
     'Please enter your username and password associated with your Charles Stanley account.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/Usernamefiled'), '')

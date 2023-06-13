@@ -21,511 +21,511 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.base_url)
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/button_Create new'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/select_Select Service IMS OneStep - Five-po_f58547'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '3', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Create new'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Business getter code_anchor'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/li_MRL - Aaron Murphy'))
+WebUI.click(findTestObject('null'))
 
 //
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/span_Client Details'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Select titleMrMsMrsMissDrOther'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: Mr', true)
 
-WebUI.setText(findTestObject('Page_Dashboard/input_First names_client1firstnames'), 'AutoTest')
+WebUI.setText(findTestObject('null'), 'AutoTest')
 
-WebUI.setText(findTestObject('Page_Dashboard/input_Last name_client1lastname'), 'AutoLast')
+WebUI.setText(findTestObject('null'), 'AutoLast')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Date of birth_client1dob'), '10/10/1993')
+WebUI.setText(findTestObject('null'), '10/10/1993')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Gender_gender1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Single', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Single', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Please selectSingleMarriedSeparatedD_f061ed'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Single', true)
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/a_Or enter address manually'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Address line 1_addressLine1'), 'fsdfdsgfd')
+WebUI.setText(findTestObject('null'), 'fsdfdsgfd')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Address line 2_addressLine2'), 'gfadsgdfgfdg')
+WebUI.setText(findTestObject('null'), 'gfadsgdfgfdg')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Address line 3_addressLine3'), 'gfdgfdgdf')
+WebUI.setText(findTestObject('null'), 'gfdgfdgdf')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_TownCity_town'), 'gdfgfdgdaf')
+WebUI.setText(findTestObject('null'), 'gdfgfdgdaf')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_County_county'), 'gdfgfdg')
+WebUI.setText(findTestObject('null'), 'gdfgfdg')
 
-WebUI.setText(findTestObject('Page_Dashboard/input_Postcode_postcode'), 'NW87QJ')
+WebUI.setText(findTestObject('null'), 'NW87QJ')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_United KingdomAlbaniaAlgeriaAmerican_c00340'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Argentina', true)
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Email address_client1email'), 'auotestkat@gmail.com')
+WebUI.setText(findTestObject('null'), 'auotestkat@gmail.com')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Home telephone_client1hometelephone'), 
+WebUI.setText(findTestObject('null'), 
     '123454567')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Mobile telephone_client1mobiletelephone'), 
+WebUI.setText(findTestObject('null'), 
     '85462323')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Work telephone_client1worktelephone'), 
+WebUI.setText(findTestObject('null'), 
     '234356567')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_8fce92'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Communication and Marketing Preferenc_b744b6'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/span_Risk Questions'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient120Answer75'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_869c13'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Neither agree nor disagree_riskQuesti_b96afd'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Strongly disagree_riskQuestionsClient_f3727a'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient124Answer97'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient125Answer100'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient126Answer107'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient127Answer112'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient128Answer115'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Disagree_riskQuestionsClient129Answer120'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Agree_riskQuestionsClient130Answer127'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_When considering investing, I would d_f9f055'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_I would regret deciding not to take a_6fba81'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_The term I most closely associate wit_3dfdd1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_I take risks at every opportunity_ris_ad1f78'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/textarea_Any further notes about the questi_bff76a'), 
+WebUI.setText(findTestObject('null'), 
     'Hi verifiying katalon POC')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/RiskQuestionSave'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/span_Additional Client Details'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'British', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Select NationalityBritishAfghaniAlba_eb0c08'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'British', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'United Kingdom', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/IMS Objects/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'United Kingdom', true)
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Based on this description, do you thi_bdfd1b'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/textarea_Details_client1-politically-exposed-text'), 
+WebUI.setText(findTestObject('null'), 
     'gfdhfjgjkgkghkghjgh')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Passport_verificationIdType1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Driving licence number_client1-drivin_e255d6'), 
+WebUI.setText(findTestObject('null'), 
     'fsdfgdaghfdh234')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Expiry date_client1-expiry-date'), '10/12/2036')
+WebUI.setText(findTestObject('null'), '10/12/2036')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Dashboard/select_Please selectFull-Time EmployedPart-_fbbedb'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'Full-Time Employed', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_Dashboard/input_Expected retirement age_client1-emplo_dac0ea'), '45')
+WebUI.setText(findTestObject('null'), '45')
 
-WebUI.setText(findTestObject('Object Repository/Page_Dashboard/input_OccupationJob title_client1-employed-_f9375d'), 'IT')
+WebUI.setText(findTestObject('null'), 'IT')
 
-WebUI.setText(findTestObject('Object Repository/Page_Dashboard/input_Name of employer Company name_client1_eaba97'), 'Katalon')
+WebUI.setText(findTestObject('null'), 'Katalon')
 
-WebUI.setText(findTestObject('Object Repository/Page_Dashboard/input_Nature of business employment_client1_ffa724'), 'Private')
+WebUI.setText(findTestObject('null'), 'Private')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'null', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Dashboard/select_Please selectUnited KingdomAlbaniaAl_f3487d_1'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'United Kingdom', true)
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/label_Under 2 years'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Under 2 years_hasQualifications1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/textarea_Education details_client1-qualific_f35bc7'), 
+WebUI.setText(findTestObject('null'), 
     'fsdfdgdah')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Yes_hasFinancialDependents1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/span_Financial Details'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty'), 
+WebUI.setText(findTestObject('null'), 
     '234')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/label_Add'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1'), 
+WebUI.setText(findTestObject('null'), 
     '234')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2'), 
+WebUI.setText(findTestObject('null'), 
     '456')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3'), 
+WebUI.setText(findTestObject('null'), 
     '123')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4'), 
+WebUI.setText(findTestObject('null'), 
     '678')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5'), 
+WebUI.setText(findTestObject('null'), 
     '456')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6'), 
+WebUI.setText(findTestObject('null'), 
     '100')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8'), 
+WebUI.setText(findTestObject('null'), 
     '111')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/label_Withdraw'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9'), 
+WebUI.setText(findTestObject('null'), 
     '234')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Are you a member of a Defined Benefit_824ca8'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11'), 
+WebUI.setText(findTestObject('null'), 
     '111')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12'), 
+WebUI.setText(findTestObject('null'), 
     '234')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13'), 
+WebUI.setText(findTestObject('null'), 
     '444')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14'), 
+WebUI.setText(findTestObject('null'), 
     '321')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15'), 
+WebUI.setText(findTestObject('null'), 
     '456')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16'), 
+WebUI.setText(findTestObject('null'), 
     '234')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe'), 
+WebUI.setText(findTestObject('null'), 
     '256')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined'), '12/12/1980')
+WebUI.setText(findTestObject('null'), '12/12/1980')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17'), 
+WebUI.setText(findTestObject('null'), 
     '111')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid n_6110fe_1'), 
+WebUI.setText(findTestObject('null'), 
     '345')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Anticipated payoff date_undefined_1'), 
+WebUI.setText(findTestObject('null'), 
     '11/11/1964')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18'), 
+WebUI.setText(findTestObject('null'), 
     '343')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19'), 
+WebUI.setText(findTestObject('null'), 
     '345')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-valid ng-touched ng-dirty'), 
+WebUI.setText(findTestObject('null'), 
     '111')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20'), 
+WebUI.setText(findTestObject('null'), 
     '333')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22'), 
+WebUI.setText(findTestObject('null'), 
     '456')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23'), 
+WebUI.setText(findTestObject('null'), 
     '123')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24'), 
+WebUI.setText(findTestObject('null'), 
     '456')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25'), 
+WebUI.setText(findTestObject('null'), 
     '888')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input__form-control ng-untouched ng-valid ng-dirty_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28'), 
+WebUI.setText(findTestObject('null'), 
     '111')
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Yes_willNetAnnualIncomeChangeInNext12Months1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/IMS Objects/Page_Dashboard/input_Yes_isOtherFinancialInformationAvailable1'))
+WebUI.click(findTestObject('null'))
 
 //
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Retirement Planning'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/a_Add Defined contribution Pension'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/a_Add Final Salary Pension'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/button_Save application'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_When would you like to retire'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'When would you like to retire? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter a retirement date'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter a retirement date')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Do you plan to retire gradually'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Do you plan to retire gradually?')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Yes'), 'Yes')
+WebUI.verifyElementText(findTestObject('null'), 'Yes')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_No'), 'No')
+WebUI.verifyElementText(findTestObject('null'), 'No')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Unsure'), 'Unsure')
+WebUI.verifyElementText(findTestObject('null'), 'Unsure')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/legend_Target annual expenditure'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Target annual expenditure')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Basic This is the minimum you can spe_c008ae'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter target basic annual expenditure'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter target basic annual expenditure')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Comfortable These are the more enjoya_28c8d2'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter target comfortable annual_b934b4'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter target comfortable annual expenditure')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Luxury These are the nice to haves th_d3b946'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter target luxury expenditure'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter target luxury expenditure')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Please tell us about your one-off spe_f63bbb'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Is there anything else you think we s_725b0f'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Is there anything else you think we should know about your plans?')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_how would you describe your health'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'how would you describe your health? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please select how would you describe y_b06300'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please select how would you describe your health')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_good'), 'good')
+WebUI.verifyElementText(findTestObject('null'), 'good')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_ok'), 'ok')
+WebUI.verifyElementText(findTestObject('null'), 'ok')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_bad'), 'bad')
+WebUI.verifyElementText(findTestObject('null'), 'bad')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/legend_Details of Pensions'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Details of Pensions')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Defined contribution'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Defined contribution')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Provider'), 'Provider')
+WebUI.verifyElementText(findTestObject('null'), 'Provider')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Value ()'), 'Value (£)')
+WebUI.verifyElementText(findTestObject('null'), 'Value (£)')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Any guarantees'), 'Any guarantees?')
+WebUI.verifyElementText(findTestObject('null'), 'Any guarantees?')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Last contributed (Year)'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Final average salary'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Final average salary')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Employer'), 'Employer')
+WebUI.verifyElementText(findTestObject('null'), 'Employer')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Annual Income ()'), 'Annual Income (£)')
+WebUI.verifyElementText(findTestObject('null'), 'Annual Income (£)')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/th_Date starts (NRD)'), 'Date starts (NRD)')
+WebUI.verifyElementText(findTestObject('null'), 'Date starts (NRD)')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_How much are you paying into your pens_8024f2'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'How much are you paying into your pension each year? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter amount paying into your pension'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter amount paying into your pension')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_How much is your employer paying into _e4bd8e'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'How much is your employer paying into your pension each year? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter amount employer paying in_79be7b'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter amount employer paying into your pension')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Will you receive the full state pension'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Will you receive the full state pension? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter do you receive full state_43377c'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter do you receive full state pension')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/legend_Additional information'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Additional information')
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Please provide any other information _e49286'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Please enter a retirement date_retire_cb1b07'), 
+WebUI.setText(findTestObject('null'), 
     '10/10/1993')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Is this date flexible'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Is this date flexible? *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please enter is this date flexible'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please enter is this date flexible')
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Please enter is this date flexible_is_f29831'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Yes_isRetirementDateFlexible'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_No_isRetirementDateFlexible'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Do you plan to retire gradually_planT_c71e57'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/label_Please provide further details below'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please provide further details below *')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please provide further details'), 
+WebUI.verifyElementText(findTestObject('null'), 
     'Please provide further details')
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Yes_planToRetireGradually'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_No_planToRetireGradually'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Do you plan to retire gradually_planT_c71e57'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/textarea_Please provide further details bel_ff7668'), 
+WebUI.setText(findTestObject('null'), 
     'Katalon')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_c1e2ce'), 
+WebUI.setText(findTestObject('null'), 
     '123')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-dirty n_94f312'), 
+WebUI.setText(findTestObject('null'), 
     '345')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_c1e2ce_1'), 
+WebUI.setText(findTestObject('null'), 
     '555')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/textarea_When_form-control ng-valid ng-dirt_ca0f2e'), 
+WebUI.setText(findTestObject('null'), 
     'abdsfghdgdgfd')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/textarea_Is there anything else you think w_d212ca'), 
+WebUI.setText(findTestObject('null'), 
     'sdfgdgdfghfh')
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Please select how would you describe _06cde4'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_good_healthCondition1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_ok_healthCondition1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/span_Please provide further details below'))
+WebUI.verifyElementVisible(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/textarea_Please provide further details bel_579585'), 
+WebUI.setText(findTestObject('null'), 
     'Katalonsfd')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Pension 1_client1pension-provider0'), 
+WebUI.setText(findTestObject('null'), 
     'Test')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__client1pension-value0'), '1234')
+WebUI.setText(findTestObject('null'), '1234')
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__guarantee10'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Yes_guarantee10'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Yes_guarantee10'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Unsure_retirementplanning-client2-pen_0ea17e'), 
+WebUI.setText(findTestObject('null'), 
     '2022')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Pension 1_form-control dark-control n_b239e2'), 
+WebUI.setText(findTestObject('null'), 
     'Katalon')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_636786'), 
+WebUI.setText(findTestObject('null'), 
     '2011')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__retirementplanning-client1-pension1S_123f85'), 
+WebUI.setText(findTestObject('null'), 
     '10/10/2022')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_c1e2ce_1_2'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_c1e2ce_1_2_3'), 
+WebUI.setText(findTestObject('null'), 
     '333')
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Please enter do you receive full stat_7c95a5'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input_Yes_receiveFullStatePension1'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/input__form-control dark-control ng-untouch_636786_1'), 
+WebUI.setText(findTestObject('null'), 
     '222')
 
-WebUI.setText(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/textarea_Additional information_anyother-in_b8ad97'), 
+WebUI.setText(findTestObject('null'), 
     'Katalon')
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Save application'))
+WebUI.click(findTestObject('null'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/IMS Objects/Page_Dashboard/AppnowSaved'), 0)
+WebUI.waitForElementPresent(findTestObject('null'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/span_Summary'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Publish settings'))
+WebUI.click(findTestObject('null'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/select_UnpublishedPublishSigned off_1_2_3_4_5'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     '1: 1', true)
 
-WebUI.click(findTestObject('Object Repository/Retirement Planning/Page_Dashboard/RP/Page_Dashboard/button_Save changes'))
+WebUI.click(findTestObject('null'))
 
-WebUI.waitForElementVisible(findTestObject('Object Repository/Page_Dashboard/button_Publish settings'), 0)
+WebUI.waitForElementVisible(findTestObject('null'), 0)
 
 WebUI.closeBrowser()
 

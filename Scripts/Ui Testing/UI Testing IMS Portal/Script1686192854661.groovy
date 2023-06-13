@@ -30,7 +30,7 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Ui Testing/Page_Dash
 
 WebUI.takeElementScreenshotAsCheckpoint('Retirement Planning', findTestObject('Object Repository/Ui Testing/Page_Dashboard/Application Service Type Selection'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard/button_Create new'))
+WebUI.click(findTestObject('null'))
 
 WebUI.waitForElementVisible(findTestObject('Object Repository/Ui Testing/Page_Dashboard/span_Business getter code_anchor'),0)
 
@@ -44,7 +44,7 @@ WebUI.takeFullPageScreenshotAsCheckpoint('Businessgettercode')
 
 WebUI.click(findTestObject('Object Repository/Ui Testing/Page_Dashboard/span_Client Details'))
 
-WebUI.waitForElementVisible(findTestObject('Page_Dashboard/input_First names_client1firstnames'),0)
+WebUI.waitForElementVisible(findTestObject('null'),0)
 
 
 WebUI.takeFullPageScreenshotAsCheckpoint('ClientDetails')

@@ -46,7 +46,7 @@ Mobile.verifyElementExist(findTestObject('Object Repository/Android Objects/X_Bu
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/android.widget.TextView - Username  password'), 
     'Username & password')
 
-Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/android.widget.TextView - Please enter your username and password associated with your Charles Stanley account'), 
+Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/Please associated with your Charles Stanley account'), 
     'Please enter your username and password associated with your Charles Stanley account.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/Usernamefiled'), '')
@@ -190,7 +190,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Co
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Details incorrect'), 'Details incorrect')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Please check the details youve entered are correct'), 
+Mobile.verifyElementText(findTestObject('Object Repository/SignIn/entered are correct'), 
     'Please check the details you\'ve entered are correct.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Edit details'), 'Edit details')
@@ -219,7 +219,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Iv
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Recover details'), 'Recover details')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Forgot sign in details Not to worry. Just tap the relevant button below to fix this'), 
+Mobile.verifyElementText(findTestObject('Object Repository/SignIn/Forgot sign in details'), 
     'Forgot sign in details? Not to worry. Just tap the relevant button below to fix this.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Forgot username'), 'Forgot username')
@@ -238,7 +238,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Fo
 
 Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.Button - Close'), 0)
 
-//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.EditText - httpswww.charles-stanley-direct.co.ukappforgotten-username'), 
+//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/charles-stanley-direct.co.ukappforgotten-username'), 
 //    'https://www.charles-stanley-direct.co.uk/app/forgotten-username')
 Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/android.view.View - Date Of Birth'), 0)
 
@@ -259,7 +259,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Iv
 
 Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Forgot password'), 0)
 
-//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.EditText - httpswww.charles-stanley-direct.co.ukappreset-password'), 
+//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/direct.co.ukappreset-password'), 
 //    'https://www.charles-stanley-direct.co.uk/app/reset-password')
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.view.View - Username'), 'Username')
 
@@ -282,7 +282,7 @@ Mobile.verifyElementExist(findTestObject('Object Repository/SignIn/backbuttonins
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Verify your account'), 'Verify your account')
 
-//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Please enter the 6-digit verification code we have sent to the account mobile number'), 
+//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/6-digit verification code'), 
 //    'Please enter the 6-digit verification code we have sent to the account mobile number.')
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - I need help verifying my account'), 
     'I need help verifying my account')
@@ -353,7 +353,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - I 
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Recover details'), 'Recover details')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Struggling to verify your account Not to worry. Just tap the relevant button below to get back on track'), 
+Mobile.verifyElementText(findTestObject('null'), 
     'Struggling to verify your account? Not to worry. Just tap the relevant button below to get back on track.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Resend 6-digit code'), 'Resend 6-digit code')
@@ -364,7 +364,7 @@ Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/recoverdeta
 
 Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Check mobile number'), 0)
 
-//Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.EditText - httpswww.charles-stanley-direct.co.ukapploginReturnUrl2FMy_Dashboard2FMy_Direct_Accounts2FMy_Profile2FPersonalInformation'), 'https://www.charles-stanley-direct.co.uk/app/login?ReturnUrl=%2FMy_Dashboard%2FMy_Direct_Accounts%2FMy_Profile%2FPersonalInformation')
+//Mobile.verifyElementText(findTestObject('null'), 'https://www.charles-stanley-direct.co.uk/app/login?ReturnUrl=%2FMy_Dashboard%2FMy_Direct_Accounts%2FMy_Profile%2FPersonalInformation')
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.view.View - Username (1)'), 'Username')
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.view.View - Password'), 'Password')
@@ -387,7 +387,7 @@ Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Create your PIN'), 'Create your PIN')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Youll use this 6-digit PIN to sign in to the app securely if Biometrics are not enabled'), 
+Mobile.verifyElementText(findTestObject('Object Repository/SignIn/6-digit PIN to sign in to the app'), 
     'You\'ll use this 6-digit PIN to sign in to the app securely if Biometrics are not enabled')
 
 Mobile.verifyElementText(findTestObject('Object Repository/Android Objects/Createpinstep3'), '')
@@ -414,7 +414,7 @@ Mobile.setText(findTestObject('Object Repository/Android Objects/Confirmpin6digi
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Confirm your PIN'), 'Confirm your PIN')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Youll use this 6-digit PIN to sign in to the app securely if Biometrics are not enabled'), 
+Mobile.verifyElementText(findTestObject('Object Repository/SignIn/6-digit PIN to sign in to the app'), 
     'You\'ll use this 6-digit PIN to sign in to the app securely if Biometrics are not enabled')
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/step4back'), 0)
@@ -476,7 +476,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Co
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Incorrect PIN'), 'Incorrect PIN')
 
-Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Sorry, your PIN does not match. Please try again'), 
+Mobile.verifyElementText(findTestObject('Object Repository/SignIn/PIN does not match'), 
     'Sorry, your PIN does not match. Please try again.')
 
 Mobile.verifyElementText(findTestObject('Object Repository/SignIn/android.widget.TextView - Edit details'), 'Edit details')
@@ -545,7 +545,7 @@ Mobile.tap(findTestObject('Object Repository/SignIn/android.widget.TextView - Co
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/android.widget.TextView - Secure Sign in'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/android.widget.TextView - You can sign in with facial recognition or your fingerprint'), 
+Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/facial recognition'), 
     0)
 
 Mobile.verifyElementVisible(findTestObject('Object Repository/SignIn/android.widget.TextView - Enable biometrics'), 0)
