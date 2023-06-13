@@ -1,8 +1,6 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory
-
+import com.kms.katalon.core.mobile.keyword.internal.MobileDriverFactory as MobileDriverFactory
 import internal.GlobalVariable as GlobalVariable
 
 Mobile.startApplication(GlobalVariable.bsApp, true)
@@ -11,8 +9,7 @@ Mobile.takeScreenshotAsCheckpoint('logoScreen')
 
 Mobile.tap(findTestObject('Object Repository/Ui Testing/android.widget.TextView - Sign in'), 0)
 
-Mobile.waitForElementPresent(findTestObject('Object Repository/Ui Testing/android.widget.EditText'),
-	0)
+Mobile.waitForElementPresent(findTestObject('Object Repository/Ui Testing/android.widget.EditText'), 0)
 
 Mobile.takeScreenshotAsCheckpoint('SignIn')
 
@@ -29,8 +26,6 @@ Mobile.waitForElementPresent(findTestObject('Object Repository/Ui Testing/androi
 
 Mobile.takeScreenshotAsCheckpoint('2FA')
 
-
 MobileDriverFactory.getDriver().closeApp()
 
 MobileDriverFactory.getDriver().quit()
-

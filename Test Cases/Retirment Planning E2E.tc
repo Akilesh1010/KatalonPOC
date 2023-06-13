@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify the Retirement planning service type</description>
-   <name>Retirment Planning E2E</name>
-   <tag>RetirementPlanningIndv</tag>
-   <comment></comment>
-   <testCaseGuid>e13756f1-bc16-4fc7-b4a3-8b2125a1b8d0</testCaseGuid>
-</TestCaseEntity>
