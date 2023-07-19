@@ -3,7 +3,7 @@
    <description></description>
    <name>Cross Browser Parallel</name>
    <tag></tag>
-   <delayBetweenInstances>3</delayBetweenInstances>
+   <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
    <testSuiteRunConfigurations>

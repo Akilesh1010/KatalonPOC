@@ -51,6 +51,3 @@ WebUI.click(findTestObject('Object Repository/TC1/Page_Portal/button_Continue'))
 WebUI.verifyElementVisible(findTestObject('Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385'))
 
 WebUI.closeBrowser()
-
-
-
