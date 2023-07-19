@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Parallel Testing Demo,,,,2023-07-19 15:08:40,2023-07-19 15:08:43,2.264s,FAILED
+,,,,,,,
+Test Cases/TC1,,,,2023-07-19 15:08:42,2023-07-19 15:08:42,0.041s,FAILED
+"openBrowser("""")",,,,2023-07-19 15:08:42,2023-07-19 15:08:42,0.026s,FAILED
+Start listener action : sampleAfterTestCase,,,,2023-07-19 15:08:42,2023-07-19 15:08:42,0.000s,PASSED
+,,,,,,,
+Test Cases/TC2,,,,2023-07-19 15:08:43,2023-07-19 15:08:43,0.033s,FAILED
+"openBrowser("""")",,,,2023-07-19 15:08:43,2023-07-19 15:08:43,0.019s,FAILED
+Start listener action : sampleAfterTestCase,,,,2023-07-19 15:08:43,2023-07-19 15:08:43,0.000s,PASSED

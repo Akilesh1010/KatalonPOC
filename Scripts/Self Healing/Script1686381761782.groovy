@@ -33,4 +33,3 @@ WebUI.click(findTestObject('Object Repository/Selfhealing/Page_Portal/button_Con
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Selfhealing/Page_Portal/h2_Enter the verification code we have sent_0a5385'), 
     0)
-

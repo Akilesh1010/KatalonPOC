@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. maximizeWindow()
+
+3
+00:00:00,000 --> 00:00:00,000
+9. navigateToUrl("http://secure-sit.charles-stanley.co.uk/")
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/TC1/Page_Portal/input_Username_username"), "bob")
+
+5
+00:00:00,000 --> 00:00:00,000
+17. setEncryptedText(findTestObject("Object Repository/TC1/Page_Portal/input_Password_password"), "xSEXy/5U3tx8KW40H+YXew==")
+
+6
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/TC1/Page_Portal/button_Continue"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. verifyElementVisible(findTestObject("Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385"))
+
+8
+00:00:00,000 --> 00:00:00,000
+29. closeBrowser()
+

@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Parallel Testing Demo,Chrome 115.0.0.0,,,2023-07-19 15:20:57,2023-07-19 15:21:22,25.295s,PASSED
+,,,,,,,
+Test Cases/TC1,Chrome 115.0.0.0,,,2023-07-19 15:20:57,2023-07-19 15:21:11,13.510s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-07-19 15:20:58,2023-07-19 15:21:01,3.010s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-07-19 15:21:01,2023-07-19 15:21:01,0.182s,PASSED
+"navigateToUrl(""http://secure-sit.charles-stanley.co.uk/"")",Chrome 115.0.0.0,,,2023-07-19 15:21:01,2023-07-19 15:21:03,2.470s,PASSED
+"setText(findTestObject(""Object Repository/TC1/Page_Portal/input_Username_username""), ""bob"")",Chrome 115.0.0.0,,,2023-07-19 15:21:03,2023-07-19 15:21:04,0.863s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC1/Page_Portal/input_Password_password""), ""xSEXy/5U3tx8KW40H+YXew=="")",Chrome 115.0.0.0,,,2023-07-19 15:21:04,2023-07-19 15:21:05,0.557s,PASSED
+"click(findTestObject(""Object Repository/TC1/Page_Portal/button_Continue""))",Chrome 115.0.0.0,,,2023-07-19 15:21:05,2023-07-19 15:21:05,0.576s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 115.0.0.0,,,2023-07-19 15:21:05,2023-07-19 15:21:08,2.246s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-07-19 15:21:08,2023-07-19 15:21:09,0.913s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-07-19 15:21:09,2023-07-19 15:21:09,0.046s,PASSED
+Video,Chrome 115.0.0.0,,,2023-07-19 15:21:11,2023-07-19 15:21:11,0.001s,PASSED
+,,,,,,,
+Test Cases/TC2,Chrome 115.0.0.0,,,2023-07-19 15:21:11,2023-07-19 15:21:22,11.529s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-07-19 15:21:11,2023-07-19 15:21:13,1.567s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-07-19 15:21:13,2023-07-19 15:21:13,0.153s,PASSED
+"navigateToUrl(""http://secure-sit.charles-stanley.co.uk/"")",Chrome 115.0.0.0,,,2023-07-19 15:21:13,2023-07-19 15:21:15,2.192s,PASSED
+"setText(findTestObject(""Object Repository/TC2/Page_Portal/input_Username_username""), ""execution"")",Chrome 115.0.0.0,,,2023-07-19 15:21:15,2023-07-19 15:21:16,0.908s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/TC2/Page_Portal/input_Password_password""), ""kcCFLyWPDWbFPddzBbsULw=="")",Chrome 115.0.0.0,,,2023-07-19 15:21:16,2023-07-19 15:21:17,0.521s,PASSED
+"click(findTestObject(""Object Repository/TC2/Page_Portal/button_Continue""))",Chrome 115.0.0.0,,,2023-07-19 15:21:17,2023-07-19 15:21:17,0.579s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/TC2/Page_Portal/h2_Enter the verification code we have sent_0a5385""))",Chrome 115.0.0.0,,,2023-07-19 15:21:17,2023-07-19 15:21:19,1.946s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-07-19 15:21:19,2023-07-19 15:21:20,0.869s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 115.0.0.0,,,2023-07-19 15:21:20,2023-07-19 15:21:20,0.000s,PASSED
+Video,Chrome 115.0.0.0,,,2023-07-19 15:21:22,2023-07-19 15:21:22,0.002s,PASSED

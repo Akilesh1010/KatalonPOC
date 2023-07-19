@@ -6,19 +6,18 @@
    <elementGuidId>d2f07e2c-14c1-43af-aa8e-9eea98f63e6e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[(text() = 'Password' or . = 'Password')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Password' or . = 'Password')]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Password' or . = 'Password')]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>633569b7-6191-4c90-8500-a013e67d264c</webElementGuid>
+      <webElementGuid>bf5cd314-e4db-4c00-aee5-e18f5d03bec9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +33,7 @@
       <name>for</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>5022b256-df53-4784-9a79-88b5783554c1</webElementGuid>
+      <webElementGuid>02e9773c-a4a9-43e0-942c-ae470373e455</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-label</value>
-      <webElementGuid>f905e048-aa69-44a3-b2d5-436415cf74b3</webElementGuid>
+      <webElementGuid>82f9ba11-089d-4848-8441-7d5c75d9df4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>7a234b81-e1dc-45f9-96f7-da90665cb692</webElementGuid>
+      <webElementGuid>2cd2cbc0-96ce-4e98-ae79-18ac57bfc447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-pale-grey&quot;]/app-root[1]/app-signin[1]/lib-kaleidoscope-kate[1]/lib-signin[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;container mt-xxl mb-xxl&quot;]/div[@class=&quot;row column-gap__dynamic&quot;]/div[@class=&quot;bg-white col-8 col-mobile-12 p-mobile-l p-xxl box-shadow-grey br-xs&quot;]/div[@class=&quot;row mb-l column-gap__dynamic&quot;]/div[@class=&quot;col-8 col-tablet-12&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;form-label&quot;]</value>
-      <webElementGuid>7784ee39-1b4f-4849-b955-ce2b1d6a9a7c</webElementGuid>
+      <webElementGuid>d2472af6-0f7f-4e96-acd8-a46bf3af460c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +65,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Password' or . = 'Password')]</value>
-      <webElementGuid>bc209c2b-ac9f-48fb-8779-bfb83d95258f</webElementGuid>
+      <webElementGuid>0f8efbba-5db0-47cb-944a-10327a28aed3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
-      <webElementGuid>9c86843c-0231-45f1-9a39-f3b9c4e30f35</webElementGuid>
+      <webElementGuid>967f38f7-259c-4f39-8e1a-6129e00eaf4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::label[2]</value>
-      <webElementGuid>b05c5ed7-0fda-482e-b077-5a80dff16f60</webElementGuid>
+      <webElementGuid>968b5deb-3bb4-4f08-a01e-efbdce275a25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgotten your details?'])[1]/preceding::label[1]</value>
-      <webElementGuid>f4ed8d9c-9ef9-4f7f-8070-231944c695d2</webElementGuid>
+      <webElementGuid>7ce2789c-837a-4ffe-b937-3fccc863c25f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::label[1]</value>
-      <webElementGuid>54896048-8f48-4a8f-8d44-3259bae723d5</webElementGuid>
+      <webElementGuid>7a56222e-7c67-4e5c-8639-9300fdb694ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
-      <webElementGuid>69866876-431e-4a8d-83db-9761484b76d9</webElementGuid>
+      <webElementGuid>a8aaff64-9c7c-480b-a0c8-9669e3c6e968</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +113,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label</value>
-      <webElementGuid>b7791646-dbbe-4e25-8d38-75d51e8f224b</webElementGuid>
+      <webElementGuid>f6c4f8f8-7db8-4c51-b869-a7d0757ec0da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
