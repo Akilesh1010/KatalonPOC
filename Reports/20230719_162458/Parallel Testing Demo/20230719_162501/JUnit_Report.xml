@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Parallel Testing Demo" time="34.366" tests="2" failures="0" errors="0">
+   <testsuite name="Parallel Testing Demo" tests="2" failures="0" errors="0" time="34.366" skipped="0" timestamp="2023-07-19 16:25:17" hostname="10679768 - LTILMAA21203680.lntinfotech.com" id="Test Suites/Parallel Testing Demo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\10679768\\git\\KatalonPOC\\Reports\\20230719_162458\\Parallel Testing Demo\\20230719_162501"/>
+         <property name="logFiles" value="C:\\Users\\10679768\\git\\KatalonPOC\\Reports\\20230719_162458\\Parallel Testing Demo\\20230719_162501\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="10679768 - LTILMAA21203680.lntinfotech.com"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Edge Chromium 114"/>
+         <property name="hostAddress" value="10.207.112.69"/>
+         <property name="sessionId" value="5e090fa2df0c58520b5603daaa02eb63"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC1" time="21.318" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2023-07-19 16:25:17 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2023-07-19 16:25:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 16:25:19 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-07-19 16:25:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 16:25:25 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 16:25:25 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-19 16:25:25 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-19 16:25:25 - [TEST_STEP][PASSED] - navigateToUrl("http://secure-sit.charles-stanley.co.uk/"): Navigate to 'http://secure-sit.charles-stanley.co.uk/' successfully
+
+2023-07-19 16:25:28 - [MESSAGE][PASSED] - Navigate to 'http://secure-sit.charles-stanley.co.uk/' successfully
+
+2023-07-19 16:25:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC1/Page_Portal/input_Username_username"), "bob"): Text 'bob' is set on object 'Object Repository/TC1/Page_Portal/input_Username_username'
+
+2023-07-19 16:25:30 - [MESSAGE][PASSED] - Text 'bob' is set on object 'Object Repository/TC1/Page_Portal/input_Username_username'
+
+2023-07-19 16:25:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC1/Page_Portal/input_Password_password"), "xSEXy/5U3tx8KW40H+YXew=="): Text ****** has been set on object 'Object Repository/TC1/Page_Portal/input_Password_password'
+
+2023-07-19 16:25:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC1/Page_Portal/input_Password_password'
+
+2023-07-19 16:25:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC1/Page_Portal/button_Continue")): Object: 'Object Repository/TC1/Page_Portal/button_Continue' is clicked on
+
+2023-07-19 16:25:33 - [MESSAGE][PASSED] - Object: 'Object Repository/TC1/Page_Portal/button_Continue' is clicked on
+
+2023-07-19 16:25:33 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385")): Object 'Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385' is visible
+
+2023-07-19 16:25:35 - [MESSAGE][PASSED] - Object 'Object Repository/TC1/Page_Portal/h2_Enter the verification code we have sent_0a5385' is visible
+
+2023-07-19 16:25:35 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 16:25:37 - [MESSAGE][PASSED] - Browser is closed
+
+2023-07-19 16:25:37 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-07-19 16:25:39 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC1' .
+
+2023-07-19 16:25:39 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC1' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC2" time="12.714" classname="Test Cases/TC2" status="PASSED">
+         <system-out><![CDATA[2023-07-19 16:25:39 - [TEST_CASE][PASSED] - Test Cases/TC2: Test Cases/TC2
+
+2023-07-19 16:25:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-19 16:25:39 - [MESSAGE][INFO] - Starting 'Edge Chromium' driver
+
+2023-07-19 16:25:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-19 16:25:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-19 16:25:41 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-19 16:25:42 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-19 16:25:42 - [TEST_STEP][PASSED] - navigateToUrl("http://secure-sit.charles-stanley.co.uk/"): Navigate to 'http://secure-sit.charles-stanley.co.uk/' successfully
+
+2023-07-19 16:25:44 - [MESSAGE][PASSED] - Navigate to 'http://secure-sit.charles-stanley.co.uk/' successfully
+
+2023-07-19 16:25:44 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/TC2/Page_Portal/input_Username_username"), "execution"): Text 'execution' is set on object 'Object Repository/TC2/Page_Portal/input_Username_username'
+
+2023-07-19 16:25:45 - [MESSAGE][PASSED] - Text 'execution' is set on object 'Object Repository/TC2/Page_Portal/input_Username_username'
+
+2023-07-19 16:25:45 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/TC2/Page_Portal/input_Password_password"), "kcCFLyWPDWbFPddzBbsULw=="): Text ****** has been set on object 'Object Repository/TC2/Page_Portal/input_Password_password'
+
+2023-07-19 16:25:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/TC2/Page_Portal/input_Password_password'
+
+2023-07-19 16:25:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/TC2/Page_Portal/button_Continue")): Object: 'Object Repository/TC2/Page_Portal/button_Continue' is clicked on
+
+2023-07-19 16:25:46 - [MESSAGE][PASSED] - Object: 'Object Repository/TC2/Page_Portal/button_Continue' is clicked on
+
+2023-07-19 16:25:46 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/TC2/Page_Portal/h2_Enter the verification code we have sent_0a5385")): Object 'Object Repository/TC2/Page_Portal/h2_Enter the verification code we have sent_0a5385' is visible
+
+2023-07-19 16:25:48 - [MESSAGE][PASSED] - Object 'Object Repository/TC2/Page_Portal/h2_Enter the verification code we have sent_0a5385' is visible
+
+2023-07-19 16:25:48 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-19 16:25:49 - [MESSAGE][PASSED] - Browser is closed
+
+2023-07-19 16:25:49 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null
+
+2023-07-19 16:25:51 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/TC2' .
+
+2023-07-19 16:25:51 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/TC2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-19 16:25:17 - [TEST_SUITE][PASSED] - Parallel Testing Demo: Test Cases/TC2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
