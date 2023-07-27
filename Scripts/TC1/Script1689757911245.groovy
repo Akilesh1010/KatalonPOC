@@ -44,7 +44,7 @@ WebUI.navigateToUrl('http://secure-sit.charles-stanley.co.uk/')
 
 WebUI.setText(findTestObject('Object Repository/TC1/Page_Portal/input_Username_username'), 'bob')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/TC1/Page_Portal/input_Password_password'), 'xSEXy/5U3tx8KW40H+YXew==')
+WebUI.setText(findTestObject('Object Repository/TC1/Page_Portal/input_Password_password'), 'Pass123$')
 
 WebUI.click(findTestObject('Object Repository/TC1/Page_Portal/button_Continue'))
 

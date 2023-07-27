@@ -25,7 +25,7 @@ WebUI.navigateToUrl('http://secure-sit.charles-stanley.co.uk/')
 
 WebUI.setText(findTestObject('Object Repository/TC2/Page_Portal/input_Username_username'), 'execution')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/TC2/Page_Portal/input_Password_password'), 'kcCFLyWPDWbFPddzBbsULw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/TC2/Page_Portal/input_Password_password'), 'Cupholder1')
 
 WebUI.click(findTestObject('Object Repository/TC2/Page_Portal/button_Continue'))
 
