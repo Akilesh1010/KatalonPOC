@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Initiating Mobile App</name>
-   <tag>StartApp</tag>
-   <comment></comment>
-   <testCaseGuid>5b552359-9973-4afc-a0ca-963f642c1f80</testCaseGuid>
-</TestCaseEntity>

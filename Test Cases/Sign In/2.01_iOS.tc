@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>verify the details displayed on the Sign In Welcome Screen</description>
-   <name>2.01_iOS</name>
-   <tag>SignIn</tag>
-   <comment></comment>
-   <testCaseGuid>24875931-725f-4f5a-b1d4-fb5247aaca78</testCaseGuid>
-</TestCaseEntity>

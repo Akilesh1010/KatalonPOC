@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" output="bin/keyword" path="Keywords"/>
-	<classpathentry kind="src" output="bin/listener" path="Test Listeners"/>
-	<classpathentry kind="src" output="bin/lib" path="Libs"/>
-	<classpathentry kind="src" output="bin/groovy" path="Include/scripts/groovy"/>
 	<classpathentry kind="lib" path="C:/Users/akile/Downloads/Katalon_Studio_Windows_64-8.6.0/Katalon_Studio_Windows_64-8.6.0/plugins/com.kms.katalon.core_1.0.0.202305240718.jar" sourcepath="C:/Users/akile/Downloads/Katalon_Studio_Windows_64-8.6.0/Katalon_Studio_Windows_64-8.6.0/configuration/resources/source/com.kms.katalon.core/com.kms.katalon.core-sources.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Users/akile/Downloads/Katalon_Studio_Windows_64-8.6.0/Katalon_Studio_Windows_64-8.6.0/configuration/resources/apidocs/com.kms.katalon.core/"/>

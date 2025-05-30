@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>To verify the details displayed on the &quot;Sign In Registration&quot; Screens</description>
-   <name>2.02_Android</name>
-   <tag>SignIn</tag>
-   <comment></comment>
-   <testCaseGuid>5dc5fb0a-ba8e-49aa-a664-12c0e13e59b9</testCaseGuid>
-</TestCaseEntity>

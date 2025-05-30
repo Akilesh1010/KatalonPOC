@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Five Point Health Check E2E</description>
-   <name>Five Point Health Check</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c09b81db-1830-4304-9cda-8d7a9a18a665</testCaseGuid>
-</TestCaseEntity>
